@@ -1,22 +1,133 @@
 from ortools.sat.python import cp_model
 import numpy as np
 import pandas as pd
+from pydantic import BaseModel, Field, constr, conint, confloat, StringConstraints
+from typing import Literal, List, Annotated
+from typing_extensions import Annotated
 import random
 
-class Student():
-    def __init__(self):
-        pass
+class Student(BaseModel):
+    name: str
+    gender: Literal['male', 'female']
+    rollNumber: Annotated[str,StringConstraints(pattern=r"2\dB\d{4}")]
+    cpi: confloat(ge=0.00, le=10.00)
+    department: str
+    preferences: List[conint(ge=0, le=100)]
 
-class Group():
-    def __init__(self):
-        pass
+class Project(BaseModel):
+    projectCode: int
+    section: int
+    students: List[Annotated[str,StringConstraints(pattern=r"2\dB\d{4}")]]
 
-def sectionDivider(df:pd.DataFrame, numberOfSections:int) -> list[pd.DataFrame]: # Divides students into sections
-    pass
-
-def projectAllocator(df:pd.DataFrame, numberOfProjects) -> list[Group]:
+class Group(BaseModel):
+    id: int
+    projectCode: int
+    section: int
+    students: List[Annotated[str,StringConstraints(pattern=r"2\dB\d{4}")]] # list of roll numbers of students
     
-    pass
+class CourseAllocator:
+    def __init__(self, students: List[Student]):
+        self.students = pd.DataFrame([s.dict() for s in students])
+        self.rollToIndex = {roll: i for i, roll in enumerate(self.students['rollNumber'])}
+        self.groups = []  # List to store allocated groups
+    
+    def allocate(self, numberOfSections: int, numberOfProjects: int, groupSize: int) -> List[Group]:
+        sections = self.sectionDivider(numberOfSections)
+        projects = []
+        for i,section in enumerate(sections):
+            projects.extend(self.projectAllocator(section, numberOfProjects,i))
+        groups = []
+        for project in projects:
+            groups.extend(self.groupAllocator(project, groupSize))
+        self.groups = groups
+
+    def sectionDivider(self,numberOfSections:int) -> list[pd.DataFrame]: # Divides students into sections
+        
+        #Divide randomly for now, can be improved later to divide based on department or other criteria
+        if numberOfSections <= 0:
+            raise ValueError("Number of sections must be greater than 0")
+        if numberOfSections > len(self.students):
+            raise ValueError("Number of sections cannot be greater than number of students")
+        shuffled_students = self.students.sample(frac=1).reset_index(drop=True)
+        section_size = len(shuffled_students) // numberOfSections
+        sections = []
+        for i in range(numberOfSections):
+            start_index = i * section_size
+            end_index = (i + 1) * section_size if i < numberOfSections - 1 else len(shuffled_students)
+            sections.append(shuffled_students.iloc[start_index:end_index])
+        return sections
+
+    def projectAllocator(self,df:pd.DataFrame, numberOfProjects, section:int) -> list[Project]:
+        model = cp_model.CpModel()
+        alphas = [[model.new_bool_var(f"alpha_{rollnum}_{i}") for i in range(numberOfProjects)] for rollnum in df['rollNumber']]
+        alphas = np.array(alphas, dtype=object)
+        numberOfStudents = len(df)
+        # Constraints for project allocation
+        for i in range(numberOfStudents):
+            model.add(sum(alphas[i]) == 1)
+        for j in range(numberOfProjects):
+            model.add(sum(alphas[:, j]) >= numberOfStudents // numberOfProjects)
+        for j in range(numberOfProjects):
+            model.add(sum(alphas[:, j]) <= (numberOfStudents + numberOfProjects - 1) // numberOfProjects)
+        # Objective function to maximize the number of students in their preferred projects
+        #ToDo: Edit the objective function to include more things
+        mean_cpi = df['cpi'].mean()
+        # print(sum(df['preferences'][i][j]*alphas[i][j] for i in range(numberOfStudents) for j in range(numberOfProjects)))
+        # print(df['preferences'])
+        model.maximize(sum(df['preferences'].iloc[i][j]*alphas[i][j] for i in range(numberOfStudents) for j in range(numberOfProjects)))
+                    #- sum(abs(sum((df['cpi'][i] - mean_cpi) * alphas[i][j] for i in range(numberOfStudents))) for j in range(numberOfProjects)))
+
+        solver = cp_model.CpSolver()
+        solver.solve(model)
+        projects = []
+        for j in range(numberOfProjects):
+            project_students = [df['rollNumber'].iloc[i] for i in range(numberOfStudents) if solver.value(alphas[i][j]) > 0.5]
+            projects.append(Project(projectCode=j, section=section, students=project_students))
+        
+        return projects
+
+    def groupAllocator(self,project: Project, groupSize: int) -> List[Group]:
+        model = cp_model.CpModel()
+        numberOfStudents = len(project.students)
+        numberOfGroups = numberOfStudents// groupSize
+        student_vars = [[model.new_bool_var(f"student_{student}_{i}") for i in range(numberOfGroups)] for student in project.students]
+        student_vars = np.array(student_vars, dtype=object)
+        
+        # Constraints for group allocation
+        for i in range(numberOfStudents):
+            model.add(sum(student_vars[i]) == 1)
+        for j in range(numberOfGroups):
+            model.add(sum(student_vars[:, j]) >= groupSize)
+        for j in range(numberOfGroups):
+            model.add(sum(student_vars[:, j]) <= groupSize+1)  # Allow one group to have one extra student if necessary
+            
+        # Objective function: ToDo
+        
+        
+        solver = cp_model.CpSolver()
+        solver.solve(model)
+        groups = []
+        for j in range(numberOfGroups):
+            group_students = [project.students[i] for i in range(numberOfStudents) if solver.value(student_vars[i][j]) > 0.5]
+            groups.append(Group(id=j, projectCode=project.projectCode, section=project.section, students=group_students))
+        return groups
+        
+    
+    def getAllocation(self) -> pd.DataFrame:
+        list=[]
+        if not self.groups:
+            raise ValueError("No groups allocated yet. Please run allocate() method first.")
+        for group in self.groups:
+            for student in group.students:
+                list.append({'rollNumber': student, 'section': group.section, 'projectCode': group.projectCode, 'groupId': group.id})
+        return pd.DataFrame(list)
+    
+    
+
+    
+
+# def groupAllocator(students:List[Student]):
+    
 
 
 

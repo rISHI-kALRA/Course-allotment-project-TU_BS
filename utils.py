@@ -30,8 +30,14 @@ class CourseAllocator:
         self.students = pd.DataFrame([s.dict() for s in students])
         self.rollToIndex = {roll: i for i, roll in enumerate(self.students['rollNumber'])}
         self.groups = []  # List to store allocated groups
+        self.numberOfSections = 0
+        self.numberOfProjects = 0
+        self.groupSize=0
     
     def allocate(self, numberOfSections: int, numberOfProjects: int, groupSize: int) -> List[Group]:
+        self.numberOfSections = numberOfSections
+        self.numberOfProjects = numberOfProjects
+        self.groupSize = groupSize
         sections = self.sectionDivider(numberOfSections)
         projects = []
         for i,section in enumerate(sections):
@@ -62,6 +68,7 @@ class CourseAllocator:
         alphas = [[model.new_bool_var(f"alpha_{rollnum}_{i}") for i in range(numberOfProjects)] for rollnum in df['rollNumber']]
         alphas = np.array(alphas, dtype=object)
         numberOfStudents = len(df)
+        minNumberOfFemaleStudents = int((numberOfStudents//numberOfProjects) * 0.2)  # Assuming at least 20%
         # Constraints for project allocation
         for i in range(numberOfStudents):
             model.add(sum(alphas[i]) == 1)
@@ -71,14 +78,24 @@ class CourseAllocator:
             model.add(sum(alphas[:, j]) <= (numberOfStudents + numberOfProjects - 1) // numberOfProjects)
         # Objective function to maximize the number of students in their preferred projects
         #ToDo: Edit the objective function to include more things
-        mean_cpi = df['cpi'].mean()
-        # print(sum(df['preferences'][i][j]*alphas[i][j] for i in range(numberOfStudents) for j in range(numberOfProjects)))
-        # print(df['preferences'])
-        model.maximize(sum(df['preferences'].iloc[i][j]*alphas[i][j] for i in range(numberOfStudents) for j in range(numberOfProjects)))
-                    #- sum(abs(sum((df['cpi'][i] - mean_cpi) * alphas[i][j] for i in range(numberOfStudents))) for j in range(numberOfProjects)))
+        median_cpi = int(df['cpi'].median()*100)
+        abs_cpi = []
+        
+        for i in range(numberOfProjects):
+            model.add(sum(alphas[j][i] if df['gender'].iloc[j]=='female' else 0*alphas[j][i] for j in range(numberOfStudents)) >= minNumberOfFemaleStudents)
+            abs_cpi.append(model.new_int_var(0,10000000,f"abs_cpi_{i}"))
+            model.add(sum((int(df['cpi'].iloc[j]*100) - median_cpi)* alphas[j][i] for j in range(numberOfStudents)) <= abs_cpi[i])
+            model.add(sum((int(df['cpi'].iloc[j]*100) - median_cpi)* alphas[j][i] for j in range(numberOfStudents)) >= -1*abs_cpi[i])
+            
+        
+        model.maximize(1000*sum(df['preferences'].iloc[i][j]*alphas[i][j] for i in range(numberOfStudents) for j in range(numberOfProjects))
+                        - sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi))
 
         solver = cp_model.CpSolver()
-        solver.solve(model)
+        if solver.solve(model) == 3:
+            print("No solution found for project allocation.")
+            print(f"Number of students: {numberOfStudents}, Number of projects: {numberOfProjects}, Section: {section}")
+            print(minNumberOfFemaleStudents)
         projects = []
         for j in range(numberOfProjects):
             project_students = [df['rollNumber'].iloc[i] for i in range(numberOfStudents) if solver.value(alphas[i][j]) > 0.5]
@@ -86,26 +103,45 @@ class CourseAllocator:
         
         return projects
 
-    def groupAllocator(self,project: Project, groupSize: int) -> List[Group]:
+    def groupAllocator(self, project: Project, groupSize: int) -> List[Group]:
         model = cp_model.CpModel()
         numberOfStudents = len(project.students)
         numberOfGroups = numberOfStudents// groupSize
         student_vars = [[model.new_bool_var(f"student_{student}_{i}") for i in range(numberOfGroups)] for student in project.students]
         student_vars = np.array(student_vars, dtype=object)
+        minNumberOfFemaleStudents = 1  # Assuming at least 1 lmao, can be adjusted later
         
         # Constraints for group allocation
         for i in range(numberOfStudents):
             model.add(sum(student_vars[i]) == 1)
         for j in range(numberOfGroups):
             model.add(sum(student_vars[:, j]) >= groupSize)
-        for j in range(numberOfGroups):
-            model.add(sum(student_vars[:, j]) <= groupSize+1)  # Allow one group to have one extra student if necessary
+        if(numberOfStudents % groupSize <=numberOfGroups): 
+            for j in range(numberOfGroups):
+                model.add(sum(student_vars[:, j]) <= groupSize+1)  # Allow one group to have one extra student if necessary
+        else:
+            for j in range(numberOfGroups):
+                model.add(sum(student_vars[:, j]) <= groupSize+2)  # Allow one group to have one extra student if necessary
             
         # Objective function: ToDo
+        indices = [self.rollToIndex[roll] for roll in project.students]
+        median_cpi = int(self.students.iloc[indices]['cpi'].median()*100)
+        # print(median_cpi)
+        abs_cpi = []
         
+        for i in range(numberOfGroups):
+            model.add(sum(student_vars[j][i] if self.students.iloc[indices[j]]['gender'] == 'female' else 0*student_vars[j][i] for j in range(numberOfStudents)) >= minNumberOfFemaleStudents)
+            abs_cpi.append(model.new_int_var(0,10000000,f"abs_cpi_{i}"))
+            model.add(sum((int(self.students.iloc[indices[j]]['cpi']*100) - median_cpi)* student_vars[j][i] for j in range(numberOfStudents)) <= abs_cpi[i])
+            model.add(sum((int(self.students.iloc[indices[j]]['cpi']*100) - median_cpi)* student_vars[j][i] for j in range(numberOfStudents)) >= -1*abs_cpi[i])
+        
+        model.minimize(sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi))
         
         solver = cp_model.CpSolver()
-        solver.solve(model)
+        if solver.solve(model) == 3:
+            print("No solution found for group allocation.")
+        #     print(numberOfGroups)
+        #     print(numberOfStudents)
         groups = []
         for j in range(numberOfGroups):
             group_students = [project.students[i] for i in range(numberOfStudents) if solver.value(student_vars[i][j]) > 0.5]
@@ -121,6 +157,51 @@ class CourseAllocator:
             for student in group.students:
                 list.append({'rollNumber': student, 'section': group.section, 'projectCode': group.projectCode, 'groupId': group.id})
         return pd.DataFrame(list)
+    
+
+    def get_allocation_metrics(self):
+        
+        preference_scores_of_groups=[]
+        project_cpi_diversity = [0] * self.numberOfProjects
+
+        for group in self.groups:
+            gender_diversity_in_group = 0
+            departments = set()
+            preference_score=0
+            project_id = group.projectCode
+            for student_rollno in group.students:
+                student_index = self.rollToIndex[student_rollno]
+                student_data = self.students.iloc[student_index]
+                if student_data['gender']=='female':
+                    gender_diversity_in_group= 1
+                departments.add(student_data['department'])
+                preference_score += student_data['preferences'][project_id]
+                project_cpi_diversity[project_id] += student_data['cpi']
+            preference_scores_of_groups.append(preference_score/len(group.students))
+            gender_diversity+=gender_diversity_in_group
+            if(len(departments) > 1):  
+                department_diversity+=1
+                
+        print("From professor point of view, the following metrics are important:")
+        department_diversity = (department_diversity / len(self.groups))*100
+        print("Department Diversity: ",department_diversity, "%")
+
+        project_cpi_diversity = [cpi /(len(self.students)//self.numberOfProjects)  for cpi in project_cpi_diversity]
+        print("Project CPI standard deviation: ",np.std(project_cpi_diversity))
+        print("Project CPI minimum: ",min(project_cpi_diversity))
+        print("------------------------------")
+
+        print("From student point of view, the following metrics are important:")
+        preference_scores_of_groups = np.array(preference_scores_of_groups)
+        print("Average preference score: ",np.mean(preference_scores_of_groups))
+        print("Preference score standard deviation: ",np.std(preference_scores_of_groups))
+        print("Preference score minimum: ",min(preference_scores_of_groups))
+            
+        gender_diversity = (gender_diversity / len(self.groups))*100
+        print("Gender Diversity: ",gender_diversity, "%")
+
+    
+
     
     
 
@@ -221,3 +302,8 @@ class CourseAllocator:
 #         groups.append(Project(id,i%num_projects,5,1))
 #         id+=1
 #     return groups
+
+
+
+
+

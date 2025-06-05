@@ -1,30 +1,22 @@
 
 import random
-
-from utils import Student, Project, Group, CourseAllocator
+import pandas as pd
+from course_allocator import CourseAllocator
+from utils import Student, Project, Group, no_of_projects, no_of_sections, groupSize
 
 if __name__ == "__main__":
-    
-    # toy dataset for now
-    student_count=1325
-    num_projects = 6
-    num_sections=8
-    group_size=6
-    female_count = 625 #261
-    male_count = 700 #1064
-    cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]
-    genders = ['female']*female_count + ['male']*male_count
-    random.shuffle(genders)
-    departments = ['CSE']*student_count
-    preferences = [[random.randint(0, 100) for _ in range(num_projects)] for _ in range(student_count)]
-    rollnumbers = [f'23B{i:04d}' for i in range(student_count)]
-    
+
+    ##Last year's DE 250 dataset
+    student_df = pd.read_csv('students_data.csv')
+    student_df['gender'] = student_df['name'].apply(lambda x: 'female' if x.split(" ")[0]=='Ms.' else 'male')
+    student_count=  len(student_df)
+    preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] #randomly generated preferences
+    cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]    #randomly generated CPIs
     students = []
-    for i in range(student_count):
-        students.append(Student(name=f"Student_{i}", gender = genders[i] ,rollNumber=rollnumbers[i],cpi=cpis[i], department=departments[i], preferences=preferences[i]))
+    for i,student in enumerate(student_df):
+        students.append(Student(name=student['name'], gender =student['gender']  ,rollNumber=student['rollNumber'],cpi=cpis[i], department=student['department'], preferences=preferences[i]))
         
     de250= CourseAllocator(students)
-    de250.allocate(numberOfSections=num_sections, numberOfProjects=num_projects, groupSize=group_size)
-    df = de250.getAllocation()
-    print(df)
-    # print(max(df['rollNumber']))
+    de250.allocate()
+    de250.get_allocation_metrics()
+    de250.displayAllocation()

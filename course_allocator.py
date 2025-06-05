@@ -6,7 +6,7 @@ from typing import Literal, List, Annotated
 from typing_extensions import Annotated
 import random
 from utils import Student, Project, Group, Section, no_of_projects, no_of_sections, groupSize
-from section_allocator import sectionDivider
+from section_allocator import sectionAllocator
 from project_allocator import projectAllocator
 from group_allocator import groupAllocator
 from display_allocation import display_allocation
@@ -15,7 +15,7 @@ from display_allocation import display_allocation
 class CourseAllocator:
     def __init__(self, students: List[Student]):
         self.students = students
-        self.rollToIndex = {student.rollNumber: i for i, student in enumerate(students)}
+        self.rollToIndex = {student.rollNumber: i for i, student in enumerate(students)} #check, not needed, already calculated this in utils.py
         self.groups = []  # List to store allocated groups
 
         #These below values must match the global variables values in utils.py
@@ -27,7 +27,7 @@ class CourseAllocator:
         self.sectionAlphas = [[self.section_divider_model.new_bool_var(f"sectionAlpha_{student.rollNumber}_{section_id}") for section_id in range(self.numberOfSections)] for student in self.students]
     
     def allocate(self) -> List[Group]:
-        sections = sectionDivider(self.students,self.numberOfSections)
+        sections = sectionAllocator(self.students,self.numberOfSections)
         projects = []
         for section in sections:
             projects.extend(projectAllocator(section, self.numberOfProjects))
@@ -49,7 +49,8 @@ class CourseAllocator:
         
         preference_scores_of_groups=[]
         project_cpi_diversity = [0] * self.numberOfProjects
-
+        gender_diversity=0
+        department_diversity=0
         for group in self.groups:
             gender_diversity_in_group = 0
             departments = set()

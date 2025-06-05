@@ -1,3 +1,12 @@
+Quick glossary:
+1) Section: Initial division of total batch of students into 8 parts called as sections
+2) Department: The field of study (Example: Computer Science, Chemical Engineering)
+3) Project: The different themes (for example in 2024 there were 6 themes, Food wastage, Outdoor spaces, Wheelchair design, etc..)
+4) Group: The team of 6 or 7 members who all belong to same section and have same project(theme)
+5) CPI: The GPA or overall performance of the student(range is 0 to 10)
+6) Preferences: A value from 0 to 100 given by each student for each project(theme) that represents how much he likes the theme
+
+
 There are students of different departments(such as Computer Science, Chemical Engineering, etc..) who are taking this course. 
 
 There are eight "Sections" (slots). Each section corresponds to a specific time slot of the week.

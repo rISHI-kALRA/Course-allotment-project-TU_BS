@@ -8,7 +8,7 @@ import random
 from utils import Student, Section
 
 
-def sectionDivider(students: List[Student],numberOfSections:int) -> list[Section]: # Divides students into sections
+def sectionAllocator(students: List[Student],numberOfSections:int) -> List[Section]: # Divides students into sections
     #Divide randomly for now, can be improved later to divide based on department or other criteria
     
     if numberOfSections <= 0:

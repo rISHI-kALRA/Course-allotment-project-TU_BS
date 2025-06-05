@@ -11,76 +11,92 @@ no_of_projects =6
 no_of_sections = 8 #S1 to S8
 groupSize = 6
 
-list_of_students = []
-roll_to_student = {}
-
 
 class Student(BaseModel):
     name: str
     gender: Literal['male', 'female']
     rollNumber: Annotated[str,StringConstraints(pattern=r"2\dB\d{4}")]
-    cpi: confloat(ge=0.00, le=10.00)
+    cpi: Annotated[float, Field(ge=0.00, le=10.00)]
     department: Literal['AE','CE','CH','CL','CS','EC','EE','EN','EP','ES','ME','MM']
-    preferences: conlist(conint(ge=0, le=100), min_items=no_of_projects, max_items=no_of_projects)
+    preferences: Annotated[List[Annotated[int, Field(ge=0, le=100)]],Field(min_length=no_of_projects, max_length=no_of_projects)]
+
     
     def __init__(self,**data):
         super().__init__(**data)
 
+
+##Last year's DE 250 dataset
+student_df = pd.read_csv('students_data.csv')
+student_df['gender'] = student_df['name'].apply(lambda x: 'female' if x.split(" ")[0]=='Ms.' else 'male')
+student_count=  len(student_df)
+preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] #randomly generated preferences
+cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]    #randomly generated CPIs
+list_of_students = []
+for i,student in student_df.iterrows():
+    list_of_students.append(Student(name=student['name'], gender =student['gender']  ,rollNumber=student['rollNumber'],cpi=cpis[i], department=student['department'], preferences=preferences[i]))
+
+roll_to_student = {}
+for student in list_of_students:
+    roll_to_student[student.rollNumber] = student #check whether python maps allow this
+
+
+
 class Section(BaseModel):
-    section: conint(ge=1,le=no_of_sections)
+    section: Annotated[int,Field(ge=0,le=no_of_sections-1)] #note that section numbers are from 0 but not 1 (this is to maintain consistency while indexing)
     students: List[Student]
-    model: cp_model.CpModel = PrivateAttr()
-    # projectAlphas: list[list[cp_model.IntVar]] = PrivateAttr(default_factory=list)
+    _model: cp_model.CpModel = PrivateAttr() #check whether needed
+    _projectAlphas: list[list[cp_model.IntVar]] = PrivateAttr(default_factory=list) #check, uncomment this if needed
 
     def __init__(self, **data):
         super().__init__(**data)
-        self.model = cp_model.CpModel()
-        self.projectAlphas = [[self.model.new_bool_var(f"projectAlpha_{student.rollNumber}_{project_id}") for project_id in range(no_of_projects)] for student in self.students]
+        self._model = cp_model.CpModel()
+        self._projectAlphas = [[self._model.new_bool_var(f"projectAlpha_{student.rollNumber}_{project_id}") for project_id in range(no_of_projects)] for student in self.students]
 
 class Project(BaseModel):
-    projectCode: conint(ge=1,le=no_of_projects)
-    section: conint(ge=1,le=no_of_sections)
+    projectCode: Annotated[int,Field(ge=0,le=no_of_projects-1)] #note that project numbers are from 0 but not 1 (this is to maintain consistency while indexing)
+    section: Annotated[int,Field(ge=0,le=no_of_sections-1)]
     students: List[Student]
-    model: cp_model.CpModel = PrivateAttr()
-    # groupAlphas: list[list[cp_model.IntVar]] = PrivateAttr(default_factory=list)
+    _model: cp_model.CpModel = PrivateAttr() #check whether needed
+    _groupAlphas: list[list[cp_model.IntVar]] = PrivateAttr(default_factory=list) #check, uncomment this if needed
 
     def __init__(self, **data):
         super().__init__(**data)
-        self.no_of_groups = len(self.students)//groupSize
-        self.model = cp_model.CpModel()  
-        self.groupAlphas = [[self.model.new_bool_var(f"groupAlpha_{student.rollNumber}_{group_id}") for group_id in range(self.no_of_groups)] for student in self.students]
+        no_of_groups = len(self.students)//groupSize
+        self._model = cp_model.CpModel()  
+        self._groupAlphas = [[self._model.new_bool_var(f"groupAlpha_{student.rollNumber}_{group_id}") for group_id in range(no_of_groups)] for student in self.students]
 
 
 class Group(BaseModel):
     groupId: int
-    projectCode: conint(ge=1,le=no_of_projects)
-    section: conint(ge=1,le=no_of_sections)
+    projectCode: Annotated[int,Field(ge=0,le=no_of_projects-1)]
+    section: Annotated[int,Field(ge=0,le=no_of_sections-1)]
     students: List[Student] # list of roll numbers of students
+
 
 class variableContainer:
     def __init__(self,list_of_alphas, id):
         self.alphas = list_of_alphas
         self.id = id
-        self.index_to_student = [] # It will give the student(i.e from roll_to_student map) of a particular alpha at 'index'
+        self.index_to_student = [] # It will give the student(object of class 'Student') corresponding to a particular alpha at that 'index', i.e self.index_to_student[i] gives student who corresponds to self.alphas[i]
         for alpha in list_of_alphas:
             roll_number = alpha.Name().split('_')[1]
             self.index_to_student.append(roll_to_student[roll_number])
 
     def maleSum(self):
         male_indices=[]
-        for i in range(self.alphas):
+        for i in range(len(self.alphas)):
             if(self.index_to_student[i].gender=='male'):
                 male_indices.append(i)
         return sum(self.alphas[i] for i in male_indices)
     
     def femaleSum(self):
         female_indices=[]
-        for i in range(self.alphas):
+        for i in range(len(self.alphas)):
             if(self.index_to_student[i].gender=='female'):
                 female_indices.append(i)
         return sum(self.alphas[i] for i in female_indices)
     
-    def cpiSumScaled(self): #sum of CPI's multiplied by 100
+    def cpiSumScaled(self): #sum of CPIs multiplied by 100
         return sum(self.alphas[i]*int(self.index_to_student[i].cpi*100) for i in range(len(self.alphas)))
     
     def numberOfStudents(self):
@@ -88,13 +104,13 @@ class variableContainer:
     
     def preferencesSum(self):
         list_of_preferences=[]
-        for i in range(len(self.alphas)):
-            alpha = self.alphas[i]
+        for i,alpha in enumerate(self.alphas):
             student  = self.index_to_student[i]
-            projectId = int(alpha.Name().split('_')[2])
+            projectId = int(alpha.Name().split('_')[2]) 
             preference = student.preferences[projectId]
             list_of_preferences.append(preference*alpha)
         return sum(list_of_preferences)
+    
     def getAllocation(self, solver): #returns a List[Student] based on whether their alpha here in this container is 1 or 0
         allocatedStudents = []
         for i,alpha in enumerate(self.alphas):

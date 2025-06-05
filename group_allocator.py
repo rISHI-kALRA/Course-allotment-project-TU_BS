@@ -8,16 +8,16 @@ import random
 from utils import Group, Project, variableContainer
 
 def groupAllocator(project: Project, groupSize: int) -> List[Group]:
-        model = project.model
+        model = project._model
         numberOfStudents = len(project.students)
         numberOfGroups = numberOfStudents// groupSize
         minNumberOfFemaleStudents = 1  # Assuming at least 1, can be adjusted later
         
         # Constraints for group allocation
-        for student_alphas in project.groupAlphas:
+        for student_alphas in project._groupAlphas:
             model.add(sum(student_alphas) == 1)
 
-        transpose = [[row[i] for row in project.groupAlphas] for i in range(numberOfGroups)]
+        transpose = [[row[i] for row in project._groupAlphas] for i in range(numberOfGroups)]
         groupContainers=[]
         for groupId, alphas in enumerate(transpose):
              groupContainers.append(variableContainer(alphas,groupId))
@@ -38,15 +38,16 @@ def groupAllocator(project: Project, groupSize: int) -> List[Group]:
         abs_cpi = []
 
         for groupId,group in enumerate(groupContainers):
-             model.add(group.femaleSum()>= minNumberOfFemaleStudents)
-             abs_cpi.append(model.new_int_var(0,10000,f"abs_cpi_{groupId}")) #check
+            #  model.add(group.femaleSum()>= minNumberOfFemaleStudents) #check, instead try to add objective as : maximise number of groups with atleast one female
+             abs_cpi.append(model.new_int_var(0,10000,f"abs_cpi_{groupId}")) #check 10000 
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi <= abs_cpi[groupId])
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi >= -1*abs_cpi[groupId])
         
         model.minimize(sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi))
         
         solver = cp_model.CpSolver()
-        if solver.solve(model) == 3:
+        status = solver.solve(model)
+        if status == 3:
             print("No solution found for group allocation.")
 
         groups = []

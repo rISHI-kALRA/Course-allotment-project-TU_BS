@@ -11,6 +11,11 @@ no_of_projects =6
 no_of_sections = 8 #S1 to S8
 groupSize = 6
 
+list_of_students = [Student(**row) for row in pd.read_csv('students_data_with_preferences.csv').to_dict(orient='records')]
+roll_to_student = {}
+for student in list_of_students:
+    roll_to_student[student.rollNumber] = student #check whether python maps allow this
+
 
 class Student(BaseModel):
     name: str
@@ -23,23 +28,6 @@ class Student(BaseModel):
     
     def __init__(self,**data):
         super().__init__(**data)
-
-
-##Last year's DE 250 dataset
-student_df = pd.read_csv('students_data.csv')
-student_df['gender'] = student_df['name'].apply(lambda x: 'female' if x.split(" ")[0]=='Ms.' else 'male')
-student_count=  len(student_df)
-preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] #randomly generated preferences
-cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]    #randomly generated CPIs
-list_of_students = []
-for i,student in student_df.iterrows():
-    list_of_students.append(Student(name=student['name'], gender =student['gender']  ,rollNumber=student['rollNumber'],cpi=cpis[i], department=student['department'], preferences=preferences[i]))
-
-roll_to_student = {}
-for student in list_of_students:
-    roll_to_student[student.rollNumber] = student #check whether python maps allow this
-
-
 
 class Section(BaseModel):
     section: Annotated[int,Field(ge=0,le=no_of_sections-1)] #note that section numbers are from 0 but not 1 (this is to maintain consistency while indexing)
@@ -120,7 +108,21 @@ class variableContainer:
 
             
 
+def generate_and_save_students_data(): #randomly generated CPI, preferences and saves it
+    ##Last year's DE 250 dataset
+    student_df = pd.read_csv('students_data_2024.csv')
+    student_df['gender'] = student_df['name'].apply(lambda x: 'female' if x.split(" ")[0]=='Ms.' else 'male')
+    student_count=  len(student_df)
 
+    preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] #randomly generated preferences
+    cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]    #randomly generated CPIs
+    list_of_students = []
+    for i,student in student_df.iterrows():
+        list_of_students.append(Student(name=student['name'], gender =student['gender']  ,rollNumber=student['rollNumber'],cpi=cpis[i], department=student['department'], preferences=preferences[i]))
+
+    df= pd.DataFrame([student.model_dump() for student in list_of_students])
+    df.to_csv('students_data_with_preferences.csv',index=False) #In this data, preferences were generated randomly for each student
+    
     
 
     

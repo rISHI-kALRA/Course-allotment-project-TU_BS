@@ -39,14 +39,24 @@ class CourseAllocator:
         self.sections = sections
         return self.groups
     
-    def displayAllocation(self):
+    def save_allocation(self):
         if not self.groups:
             raise ValueError("No groups allocated yet. Please run allocate() method first.")
-        display_allocation(self.groups)
+        data=[]
+        for group in self.groups:
+            project_id = group.projectCode
+            section_id = group.section
+            group_id = group.groupId
+            for student in group.students:
+                data.append({"section":section_id+1,"project":project_id+1,"group":group_id+1 ,"name":student.name,"gender": student.gender, #+1 because zero indexing to one indexing conversion
+                    "department": student.department,
+                    "allocated_preference": student.preferences[project_id], })
+        data=pd.DataFrame(data)
+        data.sort_values(by=['section','project','group'],inplace=True)
+        data.to_csv('allocated_students_data.csv',index=False)
     
 
     def get_allocation_metrics(self):
-        
         preference_scores_of_groups=[]
         project_cpi_diversity = [0] * self.numberOfProjects
         gender_diversity=0
@@ -67,7 +77,6 @@ class CourseAllocator:
             if(len(departments) > 1):  
                 department_diversity+=1
 
-                
         print("From professor point of view, the following metrics are important:")
         department_diversity = (department_diversity / len(self.groups))*100
         print("Department Diversity: ",department_diversity, "%")

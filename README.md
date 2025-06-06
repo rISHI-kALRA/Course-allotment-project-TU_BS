@@ -1,3 +1,6 @@
+Instructions to use: "python3 main.py", and then "streamlit run display_allocation.py"
+If you want to use different dataset, then uncomment the first line in main.py
+
 Quick glossary:
 1) Section: Initial division of total batch of students into 8 parts called as sections
 2) Department: The field of study (Example: Computer Science, Chemical Engineering)

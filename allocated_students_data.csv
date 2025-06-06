@@ -1,1326 +1,1326 @@
 section,project,group,name,gender,department,allocated_preference
-1,1,1,Yash Choudhary,male,EC,92
-1,1,1,Ronit Uday Gajbhiye,male,EP,91
-1,1,1,Ms. Anvi Gupta,female,MM,73
-1,1,1,Pranav Malpani,male,EE,92
-1,1,1,Chippalapally Avinash,male,CH,81
-1,1,1,Yuvraj Gupta,male,CS,67
-1,1,1,Atharv Bandgar,male,MM,78
-1,1,2,Agrim Jain,male,CL,77
-1,1,2,Utkarsh,male,CH,98
-1,1,2,Shlok Sunil Agrawal,male,MM,89
-1,1,2,Ms. Chandreyee Sarkar,female,ME,98
-1,1,2,Aman Dhoke,male,EE,82
-1,1,2,Ms. Pingle Shreya Rajesh,female,CL,93
-1,1,2,Ms. Sambangi Varshini,female,CS,87
-1,1,3,B Abhinav Reddy,male,ME,79
-1,1,3,Madhav R Babu,male,CS,99
-1,1,3,Shete Himanshu Mahesh,male,CE,91
-1,1,3,Harshit Sahu,male,EN,85
-1,1,3,Kshitij Panpatil,male,ME,60
-1,1,3,Ms. Patel Akanksha Nirmal,female,AE,79
-1,1,3,Naitik Kumar Agrawal,male,CL,81
-1,1,4,Divyansh Kumar,male,EP,84
-1,1,4,Gangurde Rudra Sunil,male,ME,97
-1,1,4,Divyansh Sharma,male,EN,89
-1,1,4,Netram,male,CL,63
-1,1,4,Jain Sanat Sanjog,male,MM,86
-1,1,4,Kundan Maiti,male,EE,86
-1,1,4,Mridul Gopalia,male,ME,100
-1,2,1,Ms. Anika Saanvi Sahoo,female,ES,76
-1,2,1,Aadit Amod Sule,male,ES,96
-1,2,1,Aghera Param Jagdish,male,CL,96
-1,2,1,Padimini Vamsodhar,male,EE,36
-1,2,1,Ritesh Dhayal,male,ME,94
-1,2,1,Samarth Aaggarwal,male,EN,78
-1,2,1,Aryan Badkul,male,CE,87
-1,2,2,Yash Vikas Sabale,male,CS,69
-1,2,2,Vedant Ramesh Zanwar,male,ME,72
-1,2,2,Sujal Kumar Sahoo,male,CL,100
-1,2,2,Abakash Meher,male,ME,97
-1,2,2,Ms. Chandni Minz,female,MM,30
-1,2,2,Ms. Boyina Sanjana,female,CS,88
-1,2,2,Shlok Pradeep Agrawal,male,ME,100
-1,2,3,Ms. Bhadrecha Ritika Mohan,female,CE,81
-1,2,3,Asil,male,EP,85
-1,2,3,Varun Surendra Chandak,male,MM,88
-1,2,3,Sahil Sanjay Wani,male,EE,78
-1,2,3,Priyarajsinh Jhala,male,EE,74
-1,2,3,Shubham Sharma,male,CL,75
-1,2,3,Abhi Jain,male,CS,96
-1,2,4,Hari Shankar Karthik,male,CS,90
-1,2,4,Tanay Amit Agrawal,male,EP,96
-1,2,4,Kunumalla Gautam Siddharth,male,CS,93
-1,2,4,Mridul Mantri,male,EE,97
-1,2,4,Arth Trivedy,male,CL,78
-1,2,4,Ayush Singh,male,EP,93
-1,2,4,Aaditya Shah,male,EC,99
-1,3,1,Ronit Meena,male,EE,86
-1,3,1,Vasu Kaavya Rajesh,male,ME,98
-1,3,1,Deepak Soni,male,ME,78
-1,3,1,Shivam Gupta,male,ME,75
-1,3,1,Joshi Rohan Harsh,male,ME,100
-1,3,1,Pushp Raj Choudhary,male,ME,92
-1,3,1,Devraj Meena,male,CE,82
-1,3,2,Aniket Kumar,male,MM,68
-1,3,2,Maisuriya Aum Urmishkumar,male,AE,87
-1,3,2,Ratan Kokal,male,AE,76
-1,3,2,Satvik Gautam,male,EC,99
-1,3,2,Dharavath Manoj,male,CL,90
-1,3,2,Krishang Singh,male,AE,92
-1,3,2,Jeedula Siddharth,male,CL,89
-1,3,3,Ms. Pragyan Paramita Behera,female,EE,100
-1,3,3,Dhruv Goyal,male,ME,73
-1,3,3,Deepak Kumar,male,EE,92
-1,3,3,Pendela Harshith,male,EE,100
-1,3,3,Vishnu Bijarniya,male,EE,98
-1,3,3,Parv Khandelwal,male,EC,91
-1,3,3,Varun Chaudhary,male,EE,95
-1,3,4,Pratik Sukhdeo Jadhao,male,CE,87
-1,3,4,Aryan Sanjay Bagde,male,CL,94
-1,3,4,Ms. Bhumi Barkur,female,MM,74
-1,3,4,Ms. Anshika Jain,female,EE,93
-1,3,4,Ms. Gouri Namdeo,female,EC,65
-1,3,4,Saksham Jain,male,CS,64
-1,3,4,Bhagavatula Sai Pranav,male,ME,79
-1,4,1,Nagireddy Balaaji Reddy,male,CS,86
-1,4,1,Ms. Avishi Raj,female,MM,92
-1,4,1,Ms. Purvi Rathore,female,ME,85
-1,4,1,Nasiruddin Kabir,male,AE,61
-1,4,1,Vanguri Eshwar,male,CS,83
-1,4,1,Neel Meena,male,MM,59
-1,4,1,Ms. Maanya Agrawal,female,CE,98
-1,4,2,Baral Prathmesh Santosh,male,EE,85
-1,4,2,Ms. Mudavath Sindhu,female,CE,49
-1,4,2,Akshit Kumar,male,CS,67
-1,4,2,Ms. Yaragani Akshara,female,EE,91
-1,4,2,Sanapala Venkata Aditya,male,CS,83
-1,4,2,Soumya Saha,male,CH,97
-1,4,2,Soumik Sahoo,male,EP,74
-1,4,3,Viraj Aniruddh Joshi,male,EE,44
-1,4,3,Ms. Neha Yadav,female,EP,82
-1,4,3,Aditya Anmol,male,ME,92
-1,4,3,Devangam Kishan Teja,male,CS,90
-1,4,3,Om Yadav,male,CL,100
-1,4,3,Bangalore Ankith Kumar,male,AE,77
-1,4,3,Ms. Desai Twara Ujjwal,female,CE,89
-1,4,4,Vrushabh Patil,male,AE,97
-1,4,4,Shivam Nitin Shaligram,male,EN,91
-1,4,4,Sarthak Toshniwal,male,EE,100
-1,4,4,Ms. Nandini Goyal,female,MM,93
-1,4,4,Aryan Chaudhary,male,CL,90
-1,4,4,R Hari Krishna,male,EN,84
-1,5,1,Devesh Prajapat,male,CH,91
-1,5,1,Abhinav Kumar,male,CL,91
-1,5,1,Soyal Khan,male,CE,74
-1,5,1,Ayush Kumar Jha,male,CL,90
-1,5,1,Ms. Palak Vishwakarma,female,CE,100
-1,5,1,Akshat Birla Kushwah,male,EP,75
-1,5,2,Abhinav Bijlani,male,EP,80
-1,5,2,Atharv Maheshwari,male,EP,54
-1,5,2,Ms. Tanvi Anand,female,ES,74
-1,5,2,Satyam Sinoliya,male,CS,93
-1,5,2,Shimpi Mangesh Prashant,male,MM,55
-1,5,2,Ms. Harshita Kumar,female,CE,84
-1,5,2,Nunase Om Shailesh,male,AE,86
-1,5,3,Gugulothu Pradyumna,male,CL,92
-1,5,3,Anuj Tiwari,male,EN,95
-1,5,3,Ankit Gond,male,CL,46
-1,5,3,Pavithiran Ravikumar,male,EP,91
-1,5,3,Aryan Meena,male,AE,79
-1,5,3,Ayush Ashish Kumar,male,ME,97
-1,5,3,Ms. Diya Sharma,female,CE,90
-1,5,4,Chandresh Thakur,male,ME,62
-1,5,4,Yash Krishnani,male,EE,82
-1,5,4,Patil Vaibhav Nitin,male,ME,79
-1,5,4,Harsh Kulhari,male,CE,90
-1,5,4,Kunal Pravin Jain,male,CE,85
-1,5,4,Velagala Deeraj Sathvik Reddy,male,CS,91
-1,5,4,Aditya Anand Gupta,male,ME,93
-1,6,1,Ms. Jahnvi Sharma,female,EE,90
-1,6,1,Meet Agrawal,male,EE,93
-1,6,1,Gottimukkula Soumith Reddy,male,CE,97
-1,6,1,Arjoe Basak,male,EE,99
-1,6,1,Shreyas Dhanaji Kumbhar,male,CE,94
-1,6,1,Ms. Anushka Bharti,female,AE,77
-1,6,2,Brajraj Chaturvedi,male,ME,98
-1,6,2,Aryan Abhijeet Moholkar,male,CH,62
-1,6,2,Aryan Mahajan,male,CS,81
-1,6,2,Arnav Gupta,male,ES,74
-1,6,2,Piyush Tailor,male,ME,52
-1,6,2,Nikhil Upadhyay,male,CE,71
-1,6,2,Mohith H,male,CL,80
-1,6,3,Arnav Prakash Ramteke,male,EE,99
-1,6,3,Pendurthi Nischal Subhash,male,CS,59
-1,6,3,Ms. Priyamvada,female,MM,73
-1,6,3,Ms. Riya Agrawal,female,CE,55
-1,6,3,Aditya Udeniya,male,ME,74
-1,6,3,Nenavath Sai Drupad Naik,male,ME,72
-1,6,3,Ms. Mohita Shanmugam,female,MM,93
-1,6,4,Shreeram Anil Jadhav,male,AE,100
-1,6,4,Renudhruva S,male,CL,82
-1,6,4,Ms. Sakshi Naresh Kanal,female,CE,87
-1,6,4,Karkar Akshat Ramesh Bhai,male,ES,71
-1,6,4,Arnav Prativ,male,AE,86
-1,6,4,Chetan Raj,male,MM,57
-1,6,4,Manit Jhajharia,male,EE,60
-2,1,1,Pranjal Patel,male,EE,89
-2,1,1,Kadam Gaurav Kailas,male,CL,68
-2,1,1,Parmar Henil Nageshkumar,male,AE,83
-2,1,1,Ms. Nakka Mahathi,female,CS,96
-2,1,1,Mrunal Dhiraj Barapatre,male,ME,89
-2,1,1,Harsh Suthar,male,CS,96
-2,1,1,Aditya Shukla,male,MM,98
-2,1,2,Arjun Jhunjhunwala,male,EE,87
-2,1,2,Bhagya Yogesh Agrawal,male,MM,100
-2,1,2,Diwesh Mallick,male,AE,98
-2,1,2,Mridul Sharma,male,CL,99
-2,1,2,Surendra Choudhary,male,CE,89
-2,1,2,Ms. Potnuru Saatvika,female,CS,90
-2,1,2,Srivathsa Thotakura,male,EE,100
-2,1,3,Ms. Neha,female,EP,99
-2,1,3,Ashutosh Kumar Verma,male,MM,41
-2,1,3,Dasari Saketh Naidu,male,CS,61
-2,1,3,Ms. Bhatta Hemasree,female,CL,98
-2,1,3,Ms. Ms Gayatri Sahu,female,CE,91
-2,1,3,Ms. Vidhi Tejas Morzaria,female,MM,95
-2,1,3,Ms. Nandini Agrawal,female,AE,97
-2,1,4,Ms. Bhumi Jain,female,CL,75
-2,1,4,Sunil Kumar Meena,male,ME,83
-2,1,4,Piyush Jain,male,CL,94
-2,1,4,Ms. Afra I K,female,CE,86
-2,1,4,Yakkanti Pani Venkata Maneendhar Reddy,male,CS,89
-2,1,4,Ramachandran S,male,CS,62
-2,1,4,Moksh Jain,male,MM,92
-2,2,1,Hrishikesh Vijay Mavily,male,AE,95
-2,2,1,Parv Rajesh Jain,male,ME,73
-2,2,1,Ayush Bhaskar,male,AE,75
-2,2,1,Palwe Yash Subhash,male,EP,75
-2,2,1,Param Mehta,male,MM,32
-2,2,1,Durgesh Kumar Jha,male,ES,87
-2,2,1,Milin Agrawal,male,EE,96
-2,2,2,Shenai Siddhanth Guruprasad,male,EE,100
-2,2,2,Pranav Goldar,male,ME,92
-2,2,2,Akshat,male,ES,87
-2,2,2,Ashwin Sandeep Mankar,male,CE,75
-2,2,2,Pondkule Viraj Vinayak,male,ME,94
-2,2,2,Ms. Dnyaneshwari Kate,female,ME,93
-2,2,3,Arham Biren Shah,male,ME,100
-2,2,3,Shaikh Adnan Matiyoddin,male,ES,83
-2,2,3,Meghav Singhal,male,CE,100
-2,2,3,Ms. Arya Suwalka,female,CS,81
-2,2,3,Ms. Anvitaa Goel,female,CL,92
-2,2,3,Akkapaka Karthik,male,EE,70
-2,2,3,Ms. Srishti Gupta,female,MM,70
-2,2,4,Ritwik Raghav,male,CH,74
-2,2,4,Pulin Tanmay Beck,male,EP,97
-2,2,4,Ms. Khushi Garg,female,AE,84
-2,2,4,Darsh Prakash Patel,male,EE,76
-2,2,4,Dev Arora,male,EE,99
-2,2,4,Vinayak Vikas Jalan,male,EC,58
-2,2,4,Vansh Satish Bansal,male,EE,79
-2,3,1,Dibyanshu Dash,male,CE,94
-2,3,1,Astitva Raj,male,EP,96
-2,3,1,Banoth Tharun Tej,male,CS,98
-2,3,1,Kanakala Sri Charan Raj,male,EE,98
-2,3,1,Ganesh Kiran Chandan,male,ME,96
-2,3,1,Sarthak Dattatray Hase,male,CL,94
-2,3,1,Ms. Kashyapi Mahajan,female,EE,98
-2,3,2,Ms. Meesala Pranathi Sreeja,female,CS,60
-2,3,2,Parv Agrawal,male,ME,69
-2,3,2,Prakhar Gupta,male,CE,96
-2,3,2,Aditya Raj Ji Chauhan,male,CE,90
-2,3,2,Parth Goel,male,MM,70
-2,3,2,Mishit Sharma,male,ME,80
-2,3,2,Siddhant Ahluwalia,male,EC,93
-2,3,3,Sarvagya Jain,male,CH,99
-2,3,3,Neel Tushar Shah,male,ES,62
-2,3,3,Gurbani Jeet Sunil,male,AE,61
-2,3,3,Anshumaan Singh,male,MM,88
-2,3,3,Patil Ved Vijay,male,EE,86
-2,3,3,Sharath Kumar MD,male,ME,96
-2,3,3,Abhineet Majety,male,CS,98
-2,3,4,Omprakash Pramod Chaturvedi,male,CE,81
-2,3,4,Gaikwad Surabh Rupchand,male,CE,90
-2,3,4,Ms. Sruthi Manepalli,female,EE,88
-2,3,4,Kare Amol Dipak,male,CL,93
-2,3,4,Ms. Pratiksha,female,ME,42
-2,3,4,Mohammad Shabir Peerzada,male,CE,84
-2,3,4,Talwalkar Prajwal Yashwant,male,MM,87
-2,4,1,Sameer Gupta,male,MM,83
-2,4,1,Ms. Paridhi Mittal,female,CL,65
-2,4,1,Shahab Ahmad,male,CE,71
-2,4,1,Karedla Balaji,male,CS,80
-2,4,1,Ms. Aditi Kadam,female,CE,90
-2,4,1,Jogdande Shreyas Santosh,male,MM,99
-2,4,1,Velamakanni Satwik,male,CS,82
-2,4,2,Sasthrula Joel Tenny,male,CS,79
-2,4,2,Jana Sahil Vivek,male,MM,84
-2,4,2,Gudepu Sathish Kumar Dora,male,MM,89
-2,4,2,Jash Vismay Dalal,male,EN,82
-2,4,2,Ashish Kumar Yadav,male,MM,78
-2,4,2,Ayushmaan Dhanai,male,CL,75
-2,4,2,Chirag Gautam,male,CS,92
-2,4,3,Ms. Chandak Khushi Chetan,female,EE,91
-2,4,3,Chinmayraj N P,male,ES,92
-2,4,3,Arjun Pradeep Andhare,male,MM,85
-2,4,3,Harsh Chopra,male,MM,81
-2,4,3,Ms. Avani Hasmukh Gala,female,MM,85
-2,4,3,Prakhar Jain,male,CS,97
-2,4,3,Param Ketan Pabari,male,ME,86
-2,4,4,Aviraj Khare,male,EC,57
-2,4,4,Priyanshu Kumar,male,CS,90
-2,4,4,Jay Dinesh Ajinkya,male,MM,97
-2,4,4,Abhinav Bhooshan Asia,male,CL,88
-2,4,4,Rakshit Swami,male,EP,99
-2,4,4,Vinay Ranjeri,male,ME,90
-2,4,4,Kaushik Mandal,male,CL,65
-2,5,1,Vipul Rajendrakumar Devvyas,male,ME,60
-2,5,1,Vedant Vyankatesh Deshpande,male,MM,97
-2,5,1,Prajapati Tanmay Rameshbhai,male,AE,89
-2,5,1,Abhijeet Dewanda,male,CH,86
-2,5,1,Bukke Girish,male,ME,89
-2,5,1,Kollapudi Jithin,male,EE,78
-2,5,1,Ms. Bhat Gayatri Uttam,female,EE,87
-2,5,2,Ms. Oruganti Kaavya Rao,female,AE,75
-2,5,2,Devansh Sridhar,male,EE,92
-2,5,2,Prince,male,CE,94
-2,5,2,Shiva Upman,male,CE,88
-2,5,2,Lay Deshbhratar,male,EP,84
-2,5,2,Goutam Singh,male,MM,89
-2,5,2,Nikhil Narera,male,CS,88
-2,5,3,Pinnu Shasank Reddy,male,CS,60
-2,5,3,Ms. Dayama Arpita Balkisan,female,CL,87
-2,5,3,Nawang Tashi,male,CE,84
-2,5,3,Pushpendra Uikey,male,CS,90
-2,5,3,Parv Seth,male,CE,95
-2,5,3,Aadish Vora,male,ME,79
-2,5,3,Aryan Sahu,male,EN,70
-2,5,4,Ms. Kopal Goel,female,EC,96
-2,5,4,Animesh Jain,male,CH,92
-2,5,4,Ms. Chhavi Yadav,female,EE,91
-2,5,4,Ms. Bhukya Akkshitha Rathod,female,CS,73
-2,5,4,Prabhakar Yadav,male,CE,100
-2,5,4,Krish Sachin Dedhia,male,CL,98
-2,6,1,Armogan Shahab,male,ME,99
-2,6,1,Dev Singal,male,ES,86
-2,6,1,Naidu Anish Venkata Balaji,male,ME,44
-2,6,1,Shivam,male,CL,76
-2,6,1,Achintya Jha,male,ES,92
-2,6,1,Jatin Meena,male,EN,79
-2,6,1,Ayush Jaiswal,male,CL,93
-2,6,2,Shreejit Ugale,male,CE,86
-2,6,2,Mukund Raj,male,ES,100
-2,6,2,Shivam Chaubey,male,EE,91
-2,6,2,Sanghavi Prabhav Dharmendrabhai,male,CL,86
-2,6,2,Ms. Kondepati Satvika Lily Grace,female,MM,98
-2,6,2,Ms. Morishetty Laxmi Prasanna,female,EE,49
-2,6,2,Anand,male,CE,77
-2,6,3,Shivam Shankar,male,EP,88
-2,6,3,Ms. Anika Dorle,female,CE,69
-2,6,3,Mahanti Shashank Naidu,male,EP,72
-2,6,3,Sanyam Singh,male,ME,97
-2,6,3,Rahul Ravi,male,CE,88
-2,6,3,Mahesh Bharat Naik,male,CL,95
-2,6,3,Aditya Kumar Agarwal,male,ME,53
-2,6,4,Advait Vivek Bhedasgaonkar,male,CL,97
-2,6,4,Ms. Gaikwad Arya,female,ES,63
-2,6,4,Arnav Shankar Durgam,male,EE,49
-2,6,4,Nitesh Kumar,male,EE,98
-2,6,4,Tanish Sahu,male,EP,71
-2,6,4,Anuj Yadav,male,ES,58
-3,1,1,Krishna Gahlod,male,CL,91
-3,1,1,Ms. Amisha Kumari,female,EP,79
-3,1,1,Pratham Ravindra Pandit,male,CE,98
-3,1,1,Nallapaneni Sreehari,male,ME,96
-3,1,1,Advant Arnav Suhas,male,EP,93
-3,1,1,Ms. Kethavath Advika,female,ME,66
-3,1,1,Ankit Rewar,male,ME,74
-3,1,2,Marumamula Venkata Pranay,male,CS,95
-3,1,2,Ms. Banothu Sonusree,female,CS,80
-3,1,2,Vineet Jangir,male,CE,64
-3,1,2,J Adarsh,male,CS,80
-3,1,2,Om Sachin Inamdar,male,ME,83
-3,1,2,Rakshit Sawarn,male,CL,97
-3,1,3,Pathulothu Ranga,male,MM,65
-3,1,3,Kaushal Vijayvergiya,male,CS,95
-3,1,3,Saubhagya Singh,male,EC,68
-3,1,3,Joshi Ojas Rahul,male,EN,97
-3,1,3,Peela Rathna Harsha,male,EE,54
-3,1,3,Arush Vivaswan Poddar,male,MM,93
-3,1,3,Ms. Anjali Jangid,female,CE,97
-3,1,4,Puranjay Bansal,male,CE,80
-3,1,4,Aryan,male,EN,92
-3,1,4,Lucky Meena,male,MM,97
-3,1,4,Ayush Vijay Agrawal,male,EN,100
-3,1,4,Ms. Himanshi Garg,female,CL,99
-3,1,4,Ms. Minal Bhojasia,female,CL,98
-3,1,4,Tripathi Aarush,male,EE,96
-3,2,1,Todkar Roshan Sudhakar,male,ME,78
-3,2,1,Prabhav Khandelwal,male,CS,85
-3,2,1,Parth Eknath Mahajan,male,EE,100
-3,2,1,Aayush Sharad Wagh,male,ES,77
-3,2,1,Punit Kumar,male,CS,96
-3,2,1,Ms. Ananya Latchupatula,female,CS,93
-3,2,1,Ms. Matti Gokula Sahithi,female,ME,84
-3,2,2,Pabitra Sarkar,male,CE,92
-3,2,2,Suryangshu Das,male,MM,93
-3,2,2,Rishu Raj,male,CE,100
-3,2,2,Raghav Gupta,male,ES,86
-3,2,2,Hardeep Singh Barnala,male,CH,98
-3,2,2,Kumbhar Digvijay Dagadu,male,EE,94
-3,2,2,Sumit Yadav,male,CE,99
-3,2,3,Yuvraj Singh Lodhi,male,CE,87
-3,2,3,Murudkar Soham Sameer,male,ME,86
-3,2,3,Nikhil,male,EN,100
-3,2,3,Kethavath Nithin Naik,male,CS,89
-3,2,3,Keshav Goyal,male,ME,100
-3,2,3,Dinesh Sahu,male,MM,95
-3,2,3,Ms. Yashasvee Vijay Taiwade,female,ME,85
-3,2,4,Anshuman Lodhi,male,CE,48
-3,2,4,Satyala Madhu Kiran,male,CS,99
-3,2,4,Swapnil Madan,male,MM,82
-3,2,4,Shikhar Rathi,male,CL,97
-3,2,4,Parth Mukunda Maske,male,CL,55
-3,2,4,Ms. Amboji M Hasita Chakravarthy,female,EE,71
-3,2,4,Ms. Deshmukh Vaishnavi Ishwar,female,ME,100
-3,3,1,Ms. Vaishnavi Rajput,female,CL,86
-3,3,1,Aditya Neeraje,male,CS,88
-3,3,1,Vishwajeet Sambhaji Natu,male,CE,73
-3,3,1,Nadeem Shabir Mir,male,CE,98
-3,3,1,Prakhar Singh,male,AE,81
-3,3,1,Prajapati Kavan Gautamkumar,male,CE,93
-3,3,1,Modi Anmol Alkeshkumar,male,CL,78
-3,3,2,Rohit Parmar,male,CL,71
-3,3,2,Ms. Bhawna Meena,female,EP,87
-3,3,2,Bolaj Soham Pradeep,male,MM,57
-3,3,2,Evuri Mohana Sreedhara Reddy,male,CS,98
-3,3,2,Mehul Borad,male,CS,94
-3,3,2,Mohd Suzaib Alam,male,EC,80
-3,3,2,Ms. Nehal Gupta,female,CE,87
-3,3,3,Keyaan Kartikeya Rajesh,male,CS,90
-3,3,3,Arya Sameer Joshi,male,EP,53
-3,3,3,Arnesh Mondal,male,EE,77
-3,3,3,N Deepan Balaji,male,EE,52
-3,3,3,Thallapally Mani Sharavan Goud,male,AE,90
-3,3,3,Krish Bansal,male,CE,100
-3,3,3,Ms. Yenuganti Vamsi Triveni,female,ME,85
-3,3,4,Chaitanyaa Mahesh Maheshwari,male,CS,80
-3,3,4,Kunsh Krishna Nyati,male,ME,100
-3,3,4,Ms. Sreesti Sahoo,female,EE,97
-3,3,4,Mihir Gajanan Wani,male,ME,86
-3,3,4,Ms. Aditi Agarwal,female,ES,91
-3,3,4,Ms. Kinnera Sai Sharanya,female,CH,78
-3,3,4,Kamyak Channa,male,CS,98
-3,4,1,Puneet Yadav,male,CE,95
-3,4,1,Ms. Amrutham Mansi,female,EE,89
-3,4,1,Manish Shaw,male,EC,96
-3,4,1,Jawale Sarang Sandip,male,EC,92
-3,4,1,Aryan Prasad,male,ME,83
-3,4,1,Aditya Arjun Jungade,male,EE,100
-3,4,2,Shivtej Sanjay Ghatage,male,EE,70
-3,4,2,Ms. Jain Kashish Mahaveer,female,AE,96
-3,4,2,Devanshu Jha,male,EP,93
-3,4,2,Gursheel Singh,male,CE,87
-3,4,2,N.K.Vishwaajith,male,CS,68
-3,4,2,Shresth Anand,male,ES,90
-3,4,2,Makarand Milind Rele,male,ME,99
-3,4,3,Jadhav Jay Karbhari,male,EE,92
-3,4,3,Bonde Rushabh Ramesh,male,CE,68
-3,4,3,Sahil Ravindra Patil,male,AE,70
-3,4,3,Ms. Monica S,female,EE,100
-3,4,3,Shubh Tangri,male,EE,96
-3,4,3,Ms. Himanshi Agrawal,female,EE,90
-3,4,3,Arnab Tiwari,male,ME,98
-3,4,4,Pranav Sadh,male,EE,100
-3,4,4,Mukund Kushwaha,male,AE,77
-3,4,4,Mridul Choudhary,male,EE,86
-3,4,4,Shiv Narang,male,CS,55
-3,4,4,Vivek Meena,male,CE,91
-3,4,4,Anulaya Khare,male,CE,70
-3,4,4,Yash Pant,male,CL,79
-3,5,1,Ms. Rode Shalmali Suresh,female,MM,76
-3,5,1,Ms. Sonal Kumari,female,CS,84
-3,5,1,Itthagoni Sathwik Goud,male,CS,61
-3,5,1,Krishna Chaudhary,male,ME,81
-3,5,1,Mehta Stavan Dhaval,male,EE,81
-3,5,1,Tejas Narendra Chaudhari,male,CS,91
-3,5,1,Manish Chahar,male,ME,86
-3,5,2,Sahil Labhane,male,ME,97
-3,5,2,Ms. Shruti Pikle,female,EP,83
-3,5,2,V Kawin Prashaath,male,CH,93
-3,5,2,Kartik Daga,male,EE,55
-3,5,2,Prajapati Neel Maheshbhai,male,AE,96
-3,5,2,Soma Harsha Nagamani Vardhan,male,EE,100
-3,5,2,Aditya Ojha,male,EN,87
-3,5,3,Adarsh,male,CE,61
-3,5,3,Atharv Sandeep Roday,male,EC,100
-3,5,3,Aadi Prashant Anaskure,male,MM,99
-3,5,3,Diggaj Maheshwari,male,CL,95
-3,5,3,Manyaman Naik,male,ME,97
-3,5,3,Arnav Gautam,male,ME,91
-3,5,3,Dependar Arya,male,CL,85
-3,5,4,Vidit Jain,male,MM,93
-3,5,4,Harsh Kumar Singh,male,MM,92
-3,5,4,Gulshan Kumar,male,CS,98
-3,5,4,Vaibhav Singh,male,CS,81
-3,5,4,Vivek Nanhoriya,male,MM,97
-3,5,4,Ms. Poorvi Bansal,female,CL,99
-3,5,4,Atahar Alam,male,MM,94
-3,6,1,Rathod Jay,male,EE,94
-3,6,1,Shresth Keshari,male,ME,94
-3,6,1,Ghuge Vedant Popatrao,male,EP,38
-3,6,1,J Sai Charan,male,MM,81
-3,6,1,Akshat Amit Patel,male,ME,83
-3,6,1,Tamas Sankar Saha,male,CE,95
-3,6,1,Ms. Kakarla Harika,female,ES,96
-3,6,2,Ms. Sakshi Daberao,female,EN,55
-3,6,2,Aareen Pitambar Humane,male,ME,83
-3,6,2,Shivam Singh Yadav,male,CS,76
-3,6,2,Dev Dharmesh Suthar,male,ME,86
-3,6,2,Pitta Abhinay Kumar,male,MM,99
-3,6,2,Himanshu Yadav,male,EC,79
-3,6,3,Doke Mohit,male,MM,77
-3,6,3,Moddu Manidheep Reddy,male,EE,92
-3,6,3,Vishal Tiwari,male,ME,69
-3,6,3,Ms. Anum Siddiqui,female,EE,82
-3,6,3,Ms. Sara Mukherjee,female,CS,88
-3,6,3,Rishit Kesharwani,male,CL,90
-3,6,3,Shaurya Goyal,male,AE,96
-3,6,4,Jayesh Verma,male,EE,88
-3,6,4,Jairaj Vidhyarthi,male,MM,96
-3,6,4,Ms. Manaswi Goyal,female,ME,82
-3,6,4,Kavi Aryamaan Anand,male,EN,85
-3,6,4,Anshu,male,MM,73
-3,6,4,Navya Garg,male,CS,95
-3,6,4,Kritin Gupta,male,CS,97
-4,1,1,Jay Choudhary,male,EE,95
-4,1,1,Udit Kumar,male,CE,85
-4,1,1,Samarla Tharun,male,CH,78
-4,1,1,Punumalli Lohit Adhitya Sai,male,CS,97
-4,1,1,Nikhil Kumar,male,CL,78
-4,1,1,Aman Raj,male,CL,64
-4,1,1,Patil Ishan Pandurang,male,ME,94
-4,1,2,Yougank Kumar,male,CS,99
-4,1,2,Mrunal Shrikant Vairagade,male,CS,91
-4,1,2,Gaurav Kumar,male,CS,89
-4,1,2,Aryansh Kukreja,male,EE,98
-4,1,2,Gaurish Kishor Khodke,male,ME,96
-4,1,2,Shashwat Pranav,male,CE,100
-4,1,3,Kokate Pradyumn Markandaya,male,CL,70
-4,1,3,Ranbir Rajat Sinha,male,CE,83
-4,1,3,Arshit Singh,male,EE,68
-4,1,3,Anshu Mishra,male,EE,95
-4,1,3,Manav Bhatt,male,ES,98
-4,1,3,Ms. Tanushree Singh,female,ME,70
-4,1,3,Abhinav Gupta,male,ES,86
-4,1,4,Ms. Mrinalini Bishnoi,female,CH,83
-4,1,4,Ramesh Surya Theja,male,CS,86
-4,1,4,Ms. Ette Hasini,female,CS,94
-4,1,4,Piyush Manish Gube,male,EE,96
-4,1,4,Kalp Rawat,male,EE,58
-4,1,4,Ms. Gowdu Charishma,female,CS,92
-4,1,4,Omkumar Nitin Borse,male,AE,95
-4,2,1,Jaykumar Chandwani,male,EC,90
-4,2,1,Ms. Muskan,female,ME,98
-4,2,1,Repudi Akshay Karthik,male,CS,59
-4,2,1,Hrishikesh Lal Baishya,male,CE,86
-4,2,1,Dhruv Chaturvedi,male,AE,71
-4,2,1,Ms. Patil Bhakti Santosh,female,EE,78
-4,2,1,Dinesh Methre,male,EE,70
-4,2,2,Ms. Akshika Jain,female,EC,48
-4,2,2,Nitin,male,CE,69
-4,2,2,Sammeta Avaneesh Sai,male,CS,87
-4,2,2,Moinam Paul,male,EE,97
-4,2,2,Harsh Mehta,male,MM,88
-4,2,2,Adi Gupta,male,EE,91
-4,2,3,Ujjwal Bindal,male,EP,97
-4,2,3,Yash Pawar,male,EP,99
-4,2,3,Soham Sahasrabuddhe,male,EP,91
-4,2,3,Prathamesh Mahendra Bende,male,CL,87
-4,2,3,Arnav Ritesh Jayswal,male,CL,90
-4,2,3,Prerak Patidar,male,EN,85
-4,2,3,Ms. Tapase Aditi Maniklal,female,CS,71
-4,2,4,Parth Niket Dhruv,male,CE,96
-4,2,4,Ayush Agarwal,male,ES,75
-4,2,4,Arvind Singh,male,CE,96
-4,2,4,Sangadi Vijaya Raghavendra,male,CS,90
-4,2,4,Ms. Siri Saathvika Irigi,female,ME,35
-4,2,4,Baria Pragneshkumar,male,MM,76
-4,2,4,Devangula Gouri Praneeth Kumar,male,EE,98
-4,3,1,Paluri Gnana Kousik Reddy,male,CS,84
-4,3,1,Tarun Rawat,male,EC,82
-4,3,1,Ms. Uditi Raymangia,female,CE,88
-4,3,1,Uday Vijay Doiphode,male,CE,85
-4,3,1,Jwngsar Baro,male,ES,68
-4,3,1,Vaghasiya Dhruvam Bharatbhai,male,MM,76
-4,3,1,Sonawane Ganesh Pandurang,male,EN,78
-4,3,2,Ms. Ahire Sara Parag,female,EP,85
-4,3,2,Ms. Kruthi S,female,EE,97
-4,3,2,Vinay Hariharan,male,EE,99
-4,3,2,Bathula Rithvik,male,CS,73
-4,3,2,Khushahal Varhat,male,CE,95
-4,3,2,Ms. Riyanshi Pal,female,EN,97
-4,3,2,Padiya Kartik Gopal,male,MM,36
-4,3,3,Nenavath Dheeraj Naik,male,EE,77
-4,3,3,Yashit Kumar,male,ME,76
-4,3,3,Shlok Pranay Rathi,male,MM,97
-4,3,3,Anuj Anil Nandedkar,male,EP,79
-4,3,3,Niral Charan,male,CS,71
-4,3,3,Haresh Gupta,male,CS,92
-4,3,3,Ms. Komrelly Snigdha Reddy,female,CS,59
-4,3,4,Matam Kushaal,male,EE,92
-4,3,4,Jainendrajeet,male,CS,96
-4,3,4,Ms. Anushka Singhal,female,CS,79
-4,3,4,Sankalp Rajesh Bhitkar,male,MM,98
-4,3,4,Manish Kumar Palsaniya,male,EE,90
-4,3,4,Bisen Tanmay Tejram,male,CL,55
-4,3,4,Rohit Sharma,male,MM,61
-4,4,1,Boddeda Saravan Kumar,male,EE,76
-4,4,1,Bhimanpalli Arvind Mohan,male,AE,96
-4,4,1,Kuljot Singh Bakshi,male,ES,90
-4,4,1,Dunggam Gao,male,CE,99
-4,4,1,Rahul Kumar,male,EE,66
-4,4,1,Ojas Goel,male,CL,60
-4,4,1,Ms. Jigyasa Chouhan,female,CS,100
-4,4,2,Abhishek Kumar,male,ME,80
-4,4,2,Yash Singh,male,CS,92
-4,4,2,Kamal,male,EE,72
-4,4,2,Chinmay Purohit,male,EE,81
-4,4,2,Ms. Barpati Spoorthi Sree,female,MM,83
-4,4,2,Ms. Burri Gehna Chelvi,female,CS,52
-4,4,2,Ms. S Shruti Tejasvi,female,EN,98
-4,4,3,Tushar Kumar,male,MM,86
-4,4,3,Aditya Sinha,male,ME,91
-4,4,3,Tiyash Dutta,male,EN,79
-4,4,3,Anish Patel,male,MM,90
-4,4,3,Markhale Shubham Suryakant,male,CL,91
-4,4,3,Mayuresh Uday Kathe,male,AE,83
-4,4,3,Anasmit Mitra,male,MM,87
-4,4,4,Tanishq Mahesh Mandhane,male,CS,94
-4,4,4,Rahul Sharma,male,MM,88
-4,4,4,Vinay Kathiriya,male,AE,99
-4,4,4,Katika Tarun Kumar,male,ME,93
-4,4,4,Hiray Vineet Dhananjay,male,ME,78
-4,4,4,Shikhar Rajurkar,male,EE,100
-4,5,1,Harish Sepat,male,CH,63
-4,5,1,Dhruv Sanjay Jain,male,CS,78
-4,5,1,Ms. Dhara Prafulla Rangari,female,CL,98
-4,5,1,Bunke Vaibhav Anil,male,ES,77
-4,5,1,Rushikesh Vishal Mahajan,male,EE,94
-4,5,1,Ms. Nayakanti Naga Bhavya Sree,female,CS,75
-4,5,1,Shreyas Venkata Ramanan,male,EP,73
-4,5,2,Sanapala Anirudh,male,CS,82
-4,5,2,Vikas H R,male,ME,98
-4,5,2,Abhishek Dixit,male,EP,73
-4,5,2,Gatik Milind Shambharkar,male,MM,90
-4,5,2,Divam Jain,male,CL,72
-4,5,2,Khushal Kumawat,male,MM,99
-4,5,2,Yaman Singh,male,ME,74
-4,5,3,Aryan Dwivedi,male,MM,100
-4,5,3,Shreyas Neeralagi,male,EE,94
-4,5,3,Yuvraj Verma,male,ME,90
-4,5,3,Manepalli Revanth,male,EE,70
-4,5,3,Banoth Akash,male,CL,71
-4,5,3,Ms. Inampudi Harshitha,female,CS,83
-4,5,3,Raunak Ghosh,male,ME,100
-4,5,4,Shashwat Parmeshwar Tripathi,male,ME,81
-4,5,4,Divyansh Agrawal,male,ME,85
-4,5,4,Ms. Ambika Soni,female,AE,89
-4,5,4,Rihan Ashraf,male,ME,87
-4,5,4,Ms. Swati Pandey,female,CE,96
-4,5,4,Lavudi Shiva Balaji,male,AE,95
-4,5,4,Himansu Sahu,male,EE,86
-4,6,1,Akketi Swethank Reddy,male,CE,85
-4,6,1,Ms. Azmeera Bhuvitha,female,MM,94
-4,6,1,Bheesetti Yaswanth Ram Kumar,male,EE,85
-4,6,1,Nikhil Pal,male,CE,98
-4,6,1,Ayush Kumar,male,AE,99
-4,6,1,Vachan Vinod Velu,male,EN,78
-4,6,1,Vennela Yasasvi Naidu,male,CS,94
-4,6,2,Nimish Sharma,male,CE,98
-4,6,2,Koppu Bharath,male,CH,90
-4,6,2,Ishan Yadu,male,ES,91
-4,6,2,Parth Maheshwari,male,CE,97
-4,6,2,Varun Mishra,male,EE,97
-4,6,2,Viswa Teja Gannu,male,EE,97
-4,6,2,Rahul Meena,male,EE,87
-4,6,3,Veeraditya Karan Parakh,male,EN,96
-4,6,3,Adeep Sidharth Sinai Kuncalienker,male,ME,88
-4,6,3,Ms. Adrika Das,female,ME,83
-4,6,3,Yash Laxmikant Asore,male,ME,97
-4,6,3,Moulik Jindal,male,CS,97
-4,6,3,Ms. Prachi Arya,female,CE,95
-4,6,3,Cheera Harsha Vardhan,male,ME,89
-4,6,4,Ms. Mrunal Turalkar,female,CL,93
-4,6,4,Paras Banshkar,male,MM,53
-4,6,4,Pavitpal Singh,male,EE,50
-4,6,4,Devansh Gupta,male,CE,88
-4,6,4,Patil Arvind Shamrao,male,CL,86
-4,6,4,Aadish Jain,male,CE,85
-4,6,4,Chavan Soyam Sunil,male,ME,98
-5,1,1,Deshank Pratap Singh,male,CS,95
-5,1,1,Sahaj Jitendrabhai Kavathiya,male,ME,95
-5,1,1,Manav Parmar,male,MM,90
-5,1,1,Tushar Bajaj,male,ME,84
-5,1,1,Merugu Vishnuvardhan,male,EN,76
-5,1,1,Samanth Martis,male,AE,96
-5,1,1,Makwana Hitansh Dipakbhai,male,MM,82
-5,1,2,C S Pruthveesh,male,ME,84
-5,1,2,Gaurav,male,EE,40
-5,1,2,Achintya Aravind Rai,male,AE,87
-5,1,2,Tejas Satish Narkhede,male,ME,64
-5,1,2,Ms. Dhriti Singh,female,ME,93
-5,1,2,Menda V Venkata Harsha Vardhan,male,CS,83
-5,1,3,Joshi Ajitesh Chandrashekhar,male,ME,83
-5,1,3,Ayush Tayal,male,CL,92
-5,1,3,Ms. Najma Khan,female,MM,84
-5,1,3,Saksham Verma,male,CL,97
-5,1,3,Kayande Aryan Anand,male,ME,80
-5,1,3,Lavudi Thushar,male,EE,77
-5,1,3,Taru Sumedh Raju,male,MM,73
-5,1,4,Ms. Taniya,female,CH,80
-5,1,4,Jadav Rajendra Kishanbhai,male,AE,94
-5,1,4,Asif M,male,ME,92
-5,1,4,Shinde Rushikesh Bhagwan,male,EN,85
-5,1,4,Ms. Juee Nilesh Jahagirdar,female,ME,99
-5,1,4,Sudhindra Sahoo,male,EE,80
-5,1,4,Depavath Praveen,male,ES,50
-5,2,1,Ashok Kumar,male,CE,97
-5,2,1,Varun Rajesh Inamdar,male,ME,99
-5,2,1,Aditya Dattatray Gavali,male,ES,82
-5,2,1,Uddeshya Lodhi,male,CE,99
-5,2,1,Ms. Aditi Sharma,female,ES,79
-5,2,1,Rachit Kumar,male,CL,88
-5,2,1,Manav Mathew Sebastian,male,ME,73
-5,2,2,Husain Batterywala,male,CL,93
-5,2,2,Kshitij Pravin Malve,male,AE,93
-5,2,2,Ms. Yashvi Trivedi,female,MM,89
-5,2,2,Ms. Neha Kant,female,EE,91
-5,2,2,Tanmay Agarwal,male,MM,97
-5,2,2,Ms. Khushi Yadav,female,CL,86
-5,2,2,Ms. Sneha Mane,female,CL,74
-5,2,3,Goda Mahesh,male,CH,73
-5,2,3,Pearsh Gumasta,male,ES,98
-5,2,3,Kshitij Raj Suryavanshi,male,CL,96
-5,2,3,Aditya Khandegar,male,CL,77
-5,2,3,Kshirsagar Nikhil Arjun,male,ES,59
-5,2,3,Ghanisht,male,CE,97
-5,2,3,Vinamra Patil,male,CE,97
-5,2,4,Atharv Jangale,male,ME,71
-5,2,4,Arpit Vikram Prajapati,male,CL,85
-5,2,4,Maloth Ram Charan,male,CL,89
-5,2,4,Mehul Bafna,male,AE,100
-5,2,4,Daksh Yashwant Sawke,male,EE,83
-5,2,4,Harshil Amitkumar Solanki,male,CS,86
-5,3,1,Ms. Vedika Sandeep Sarode,female,CL,100
-5,3,1,Anwesh Das,male,AE,91
-5,3,1,Anish Rajendra Chakane,male,ME,78
-5,3,1,Sachin Thappa,male,CE,98
-5,3,1,Nikhil Khandelwal,male,MM,95
-5,3,1,Udit Sarkar,male,CS,82
-5,3,1,Jingar Gaurav Praveen Kumar,male,EN,89
-5,3,2,Mayank Soni,male,CS,78
-5,3,2,Dhruvam Parekh,male,ME,100
-5,3,2,Nagul Varadd Mahesh,male,CL,90
-5,3,2,Sanit Jethwani,male,ME,94
-5,3,2,Ms. Maradana Anusri,female,CS,85
-5,3,2,Siddharth Mungee,male,CE,81
-5,3,2,Arin Dhananjay Pendharkar,male,MM,96
-5,3,3,Pendse Damodar Ketan,male,CL,94
-5,3,3,Merchant Dhruvraj Vijaykumar,male,CS,71
-5,3,3,Krish Gupta,male,CS,93
-5,3,3,Sameer Arvind Patil,male,CS,95
-5,3,3,Ms. Eshika Mishra,female,CL,96
-5,3,3,Ms. Penumatsa Mahitha,female,ME,84
-5,3,3,Podduturi Snehith Reddy,male,CE,93
-5,3,4,Ashish Kumar,male,CE,96
-5,3,4,Devansh Yadav,male,EN,83
-5,3,4,Ms. Mahima Sahu,female,ME,100
-5,3,4,Ms. Aarya Rajani Krishna,female,EE,92
-5,3,4,Gokul M,male,CL,79
-5,3,4,Harith S,male,CS,99
-5,3,4,Priyanshu Sharma,male,CE,81
-5,4,1,Aman Russell,male,EE,92
-5,4,1,Patange Sarvesh Satish,male,CL,72
-5,4,1,Guthikonda Abhiram,male,CS,91
-5,4,1,Aryan Kashyap,male,CE,97
-5,4,1,Temkar Saahil Avadhut,male,ES,88
-5,4,1,Adwait Shelke,male,ME,100
-5,4,1,Ms. Tarushi Gupta,female,CL,65
-5,4,2,Arjun Singh,male,EE,98
-5,4,2,Jatavath Saikumar,male,MM,67
-5,4,2,Ms. Jiya Batheja,female,EC,78
-5,4,2,Praveen Kumar,male,CE,99
-5,4,2,Ms. Ayushi Naharwal,female,CL,66
-5,4,2,Ankit Bagariya,male,EE,100
-5,4,2,Aditya Anand,male,CE,97
-5,4,3,Chavda Jeet Sunil,male,EN,85
-5,4,3,Gaurav Mankele,male,CL,97
-5,4,3,Ms. Agrima Wrat,female,CL,74
-5,4,3,Ved Kumar Seth,male,EP,97
-5,4,3,Kontham Sri Harsha,male,EE,100
-5,4,3,Kondasani Lingareddy,male,AE,95
-5,4,3,Atharva Milind Patil,male,ES,70
-5,4,4,Ms. Urvi Lohana,female,AE,96
-5,4,4,Ms. Abhilasha Sharma Suman,female,CS,47
-5,4,4,Menbahadur Yadav,male,ME,98
-5,4,4,Nimbalkar Aditya Manohar,male,ME,85
-5,4,4,Meet Ashok Vanja,male,EE,85
-5,4,4,Hemang Dave,male,EE,86
-5,4,4,Mohit,male,ME,93
-5,5,1,Patel Chaitanya Divyesh,male,AE,91
-5,5,1,Avhad Vaibhav Santosh,male,MM,88
-5,5,1,Banothu Ashok Kumar,male,EP,92
-5,5,1,Amrit Kumar Meena,male,MM,93
-5,5,1,Satyavrat Bajpai,male,EN,99
-5,5,1,Chinthaparthi Babu Sujan Reddy,male,CS,73
-5,5,1,Sujay Agrawal,male,ME,71
-5,5,2,Johan Sam Biju,male,ME,90
-5,5,2,Subham Agrawal,male,EE,52
-5,5,2,Ms. Shreya Tiwari,female,MM,100
-5,5,2,Ms. Shivali Sandeep Pacharne,female,ME,84
-5,5,2,Jaywardhan Raghu,male,CE,96
-5,5,2,Ms. Seemala Varsha,female,CS,96
-5,5,2,Har Bhajan Chaudhary,male,ME,95
-5,5,3,Ms. Aboli Ganesh Malshikare,female,EE,61
-5,5,3,Sahil Tanania,male,ME,82
-5,5,3,Hitesh Kumar Khiani,male,MM,97
-5,5,3,Madhur Sonkar,male,EE,99
-5,5,3,Bikkina Abhinav Chowdary,male,CS,68
-5,5,3,Krishna Kanta Mondal,male,CE,96
-5,5,3,Kaushal Pandey,male,CE,66
-5,5,4,Ms. Mahima Anil Singh,female,EE,90
-5,5,4,Konda Venkata Srivatchav,male,AE,89
-5,5,4,Ms. Amishi Jain,female,ME,58
-5,5,4,Dharmander Mina,male,EE,92
-5,5,4,Veeresh S Kambalyal,male,EE,87
-5,5,4,Gokularamanan Ravichandran Selvarani,male,EP,69
-5,6,1,Ayush Lodhi,male,EE,95
-5,6,1,Sajjad Sajid Nakhwa,male,CE,98
-5,6,1,Ojas Somani,male,ES,71
-5,6,1,Tadikonda Sreeavyay,male,EE,89
-5,6,1,Jadhav Raju,male,EE,89
-5,6,1,Ms. Kandalkar Yashashree Dilip,female,AE,74
-5,6,1,Kabeer Prashant Pawar,male,EE,95
-5,6,2,Aditya Agrawal,male,CE,98
-5,6,2,Aminesh Gogia,male,EE,66
-5,6,2,Ms. Jaya Meena,female,CL,100
-5,6,2,Lakshaditya Singh,male,ME,79
-5,6,2,Rajat Kumar Sunda,male,ME,97
-5,6,2,Ms. Pathi Nikitha,female,CS,84
-5,6,2,Jay Patel,male,EE,84
-5,6,3,Aryamman Bhatia,male,EE,56
-5,6,3,Vedant Bhardwaj,male,AE,97
-5,6,3,Sarthak Dhananjay Thakare,male,CS,88
-5,6,3,Kartikeya Shukla,male,CE,89
-5,6,3,Chhotu Singh,male,ME,98
-5,6,3,Ishaan Jajodia,male,CL,89
-5,6,3,Rahul,male,CL,100
-5,6,4,Ms. Sambireddy Nikhila Reddy,female,CH,86
-5,6,4,Madhav Agrawal,male,EN,93
-5,6,4,Ms. Naik Sanskruti Raju,female,EE,97
-5,6,4,Arjun Bhardwaj,male,CE,92
-5,6,4,Nenwani Paawan Riteshkumar,male,MM,86
-5,6,4,Samartha Maheshwari,male,CE,84
-5,6,4,Ashish Kumar,male,CS,99
-6,1,1,Priyanshu Sengar,male,ME,99
-6,1,1,Bavurupudi Ritwik,male,CS,98
-6,1,1,Ms. Nandana M A,female,EE,96
-6,1,1,Satarkar Karan Vijay,male,CE,92
-6,1,1,Athav Vantan B,male,EE,97
-6,1,1,Ms. Sandhita Das,female,ME,93
-6,1,1,Devesh Rawat,male,CE,99
-6,1,2,Siddharth Subhash Tayade,male,CE,92
-6,1,2,Ms. Chenna Sreeja,female,EP,96
-6,1,2,Bhavesh Chandra Kampa,male,EC,86
-6,1,2,Devang Tibrewal,male,CS,83
-6,1,2,Kush Dewangan,male,EC,93
-6,1,2,Ms. Tunuguntla Saisree Maneesha,female,ES,86
-6,1,2,Cris Chudasama,male,AE,85
-6,1,3,Patel Om Rajeshkumar,male,AE,53
-6,1,3,Jagdish Singh,male,CL,93
-6,1,3,Ms. Diya Nitin Shirbhate,female,EN,98
-6,1,3,Ms. Mrunal Pachpande,female,CE,82
-6,1,3,Ms. Astha Tomar,female,CH,85
-6,1,3,Konda Puspa Kumar Reddy,male,CS,49
-6,1,3,Ms. D K Mithra,female,ME,50
-6,1,4,Arit Misra,male,CE,91
-6,1,4,Chaitanya Suryan,male,CE,81
-6,1,4,Nenavath Sree Vamshi Madhav,male,CS,85
-6,1,4,Prathmesh Mangesh Walimbe,male,CE,100
-6,1,4,Amit Jaiswal,male,MM,66
-6,1,4,Priyanshu Gehlot,male,CE,98
-6,2,1,Abhishek Ahirwar,male,CL,93
-6,2,1,Kabir S Prakash,male,CS,90
-6,2,1,Suthar Harshul Sanjaybhai,male,CS,65
-6,2,1,Visvakrt Kodanda Ram,male,MM,79
-6,2,1,Ashish Singh,male,MM,82
-6,2,1,Jashanpreet Singh,male,CS,98
-6,2,1,Thammaneni Dheeraj,male,CS,98
-6,2,2,Devasish Behera,male,ME,83
-6,2,2,Ms. Chaheti Rathore,female,AE,89
-6,2,2,Ankit Kharkwal,male,CE,97
-6,2,2,Abhishek Singh,male,CL,85
-6,2,2,Garv Agrawal,male,CL,87
-6,2,2,Ms. Vadde Shanvitha Reddy,female,CS,73
-6,2,3,Sandeep Reddy Nallamilli,male,CS,80
-6,2,3,Ms. Runjhun Brijesh Shah,female,EN,85
-6,2,3,Dawar Jyoti Deka,male,AE,67
-6,2,3,Ms. Preksha Pc,female,MM,81
-6,2,3,Aniket Gupta,male,EE,87
-6,2,3,Shinde Anand,male,CE,96
-6,2,3,Abdul Alan T,male,EE,65
-6,2,4,Bhavya Hiteshkumar Chaudhari,male,EE,79
-6,2,4,Mandavyapuram Jaswin Reddy,male,EE,97
-6,2,4,Shubham Kumar,male,CL,73
-6,2,4,Chandane Nihil Harishchandra,male,ES,95
-6,2,4,Awatade Ayush,male,MM,73
-6,2,4,Jatsya Jariwala,male,CS,88
-6,2,4,Ms. Kota Tejasri,female,EN,79
-6,3,1,Chaudhari Avinash Janardhan,male,CS,95
-6,3,1,Prasham Satra,male,EE,95
-6,3,1,Kushagra Gupta,male,EE,71
-6,3,1,Yash Krunal Shah,male,CL,91
-6,3,1,Ruchir Yogesh Kulkarni,male,MM,88
-6,3,1,Sujit Adiga,male,EE,100
-6,3,1,Dola Surya Sai,male,CS,77
-6,3,2,Ms. Foram Payal Trivedi,female,EE,91
-6,3,2,Narayankar Tanishq Mahesh,male,ME,95
-6,3,2,Gagandeep,male,EN,96
-6,3,2,Ms. Varala Charishma,female,CS,93
-6,3,2,Ms. Putta Sravika Sree,female,CE,76
-6,3,2,Bhavishya Singh Premi,male,EE,59
-6,3,2,Ridam Jain,male,CS,98
-6,3,3,Ansh Goyal,male,CE,98
-6,3,3,Tanuj Kumawat,male,EE,94
-6,3,3,Aagam Sheetalkumar Kasaliwal,male,ME,80
-6,3,3,Sabarish S,male,ME,81
-6,3,3,Abinesh A,male,MM,95
-6,3,3,Ms. Bhumi Bramhanand Ghadage,female,CE,94
-6,3,3,Dhruv Agarwal,male,CL,91
-6,3,4,Kanishk Sehra,male,CE,90
-6,3,4,Abhishek Meena,male,CL,98
-6,3,4,Bhuvan K Prasad,male,AE,87
-6,3,4,Arjun Pankaj Kabra,male,CH,78
-6,3,4,Alok Ashok Kale,male,ES,94
-6,3,4,Sanidhya Katiyar,male,ME,84
-6,3,4,Vaibhav Semwal,male,EE,85
-6,4,1,Anurag Etarvi,male,CL,76
-6,4,1,Siddharth Kumar Khanda,male,CE,85
-6,4,1,Ms. Anjali Gurudatt Joshi,female,EE,87
-6,4,1,Ishaan Srivastava,male,ME,91
-6,4,1,Bondala Somanath Vasanth Yadav,male,CS,93
-6,4,1,Pranav Munukutla,male,EE,90
-6,4,1,Mausam Madhesia,male,MM,100
-6,4,2,Rudraksh Sharma,male,MM,96
-6,4,2,Santhosh Kumar B,male,EE,97
-6,4,2,Hemant Singh,male,ME,77
-6,4,2,Ronak Gupta,male,ME,88
-6,4,2,Amogh Srivastav,male,EP,74
-6,4,2,Mohammad Hasaan Naurez,male,CL,79
-6,4,2,Ms. Trupti Lande,female,CL,100
-6,4,3,Mohammad Yusuf,male,MM,91
-6,4,3,Domala Shiva Prasad,male,ME,80
-6,4,3,Ms. Saniya Khinvasara,female,EE,97
-6,4,3,More Soham Himmat,male,CL,94
-6,4,3,Ms. Karri Ganga Dhana Sri,female,CS,82
-6,4,3,Geet Prashant Sethi,male,ME,93
-6,4,3,Dikshit Singla,male,EE,99
-6,4,4,Parandhi Sahith,male,EP,49
-6,4,4,Hridayesh Sahu,male,CH,83
-6,4,4,Quraishi Abdur Rahman,male,MM,95
-6,4,4,Sagnik Nandi,male,CS,81
-6,4,4,Maitranya Mahesh Patil,male,EE,86
-6,4,4,Komarapu Vivek Vardhan,male,CS,94
-6,4,4,Suketu Parag Patni,male,EE,98
-6,5,1,Shah Vraj Alpeshbhai,male,ME,99
-6,5,1,Ayush Patel,male,AE,90
-6,5,1,Malakwade Piyush Ritesh,male,MM,77
-6,5,1,Allam Sujay,male,CS,82
-6,5,1,Joseph Prince Perikalakattu,male,AE,77
-6,5,1,Ms. Prarthana Mittal,female,CE,87
-6,5,1,Adwait Subodh Kane,male,MM,92
-6,5,2,Ms. Sanchita Chaurasia,female,CS,100
-6,5,2,Goru Gokul,male,EE,85
-6,5,2,Garvit Yadav,male,EE,91
-6,5,2,Ainsley Fernandes,male,AE,75
-6,5,2,Ms. Bhakti Bansal,female,ME,97
-6,5,2,Vishwat Dubey,male,CE,97
-6,5,2,Ms. Kanika Sharma,female,ME,91
-6,5,3,Gokulram Ramachandran,male,EP,86
-6,5,3,Bahirwar Avishkar,male,CE,100
-6,5,3,Aditya,male,CE,85
-6,5,3,Taha Rafik Chikte,male,CL,53
-6,5,3,Ms. Mandakini Dalwee,female,CL,81
-6,5,3,Ms. Aastha Borkar,female,CE,79
-6,5,3,Keshav Sharma,male,EP,100
-6,5,4,Prashant Singh,male,CE,83
-6,5,4,Dev Kumar,male,MM,94
-6,5,4,Sivakrishna Sasi,male,ME,89
-6,5,4,Ms. Shreshtha Agarwal,female,ME,99
-6,5,4,Pandhare Rohan Vijaykumar,male,ME,93
-6,5,4,Ms. Krupa Guruprasad Pai,female,AE,100
-6,6,1,Ms. Smitirani Haripal,female,CH,96
-6,6,1,Ms. Riddhi Gupta,female,EE,74
-6,6,1,Rishith Gupta,male,EE,90
-6,6,1,Divya Nayan Mehta,male,AE,92
-6,6,1,Karamthotu Prudhvi Raj,male,ME,59
-6,6,1,Udit Agrawal,male,CE,98
-6,6,1,Ms. Kadam Manasvi Ujjan,female,EE,37
-6,6,2,Bharat Arora,male,MM,87
-6,6,2,Ms. Savaram Moony,female,EE,94
-6,6,2,Sunil,male,MM,86
-6,6,2,Sanju Mahavar,male,ES,82
-6,6,2,Yanamala Nava Teja,male,CE,76
-6,6,2,Rishab N Jain,male,MM,84
-6,6,2,Prince Kumar,male,EC,96
-6,6,3,Ved Prakash Singh Maravi,male,ES,98
-6,6,3,Soham Dasgupta,male,EE,93
-6,6,3,Ansh Yadav,male,EC,61
-6,6,3,Arijit Mandal,male,CS,90
-6,6,3,Saumya Mehta,male,ME,87
-6,6,3,Arijit Chatterjee,male,MM,60
-6,6,3,Banavathu Karthik,male,ME,61
-6,6,4,Ms. Kokkiligadda Manaswi,female,CS,87
-6,6,4,Atharva Amit Lele,male,CE,91
-6,6,4,Harshvardhan Shrivastav,male,EN,60
-6,6,4,Yog Suresh Sonawane,male,ME,50
-6,6,4,Jadhav Harsh Manesh,male,CL,81
-6,6,4,Ujwal L Shankar,male,CS,73
-6,6,4,Chandra Shekhar Yadav,male,CE,99
-7,1,1,Ms. Diksha Tembhurne,female,ME,59
-7,1,1,Benake Shantanu Ranaba,male,MM,82
-7,1,1,Prateek Kumar Behera,male,ME,93
-7,1,1,Armaan Valecha,male,CL,73
-7,1,1,Aakash Gupta,male,CS,93
-7,1,1,Senapathi Surya Chandra Bheem Kumar,male,ME,84
-7,1,1,Ankush Kumar Mandal,male,CE,85
-7,1,2,Krishna Kalpeshkumar Bhatt,male,AE,96
-7,1,2,Arnav Akshaya Bhate,male,EE,78
-7,1,2,Ms. Sai Sandeep Tambaku,female,CL,92
-7,1,2,Samridh Tiwari,male,EP,100
-7,1,2,Arijit Paul,male,EE,85
-7,1,2,Ms. Khushi Taxak,female,EE,97
-7,1,2,Vavilala Chidvilas Reddy,male,CS,84
-7,1,3,Ms. Shreya Taria,female,AE,65
-7,1,3,Ms. Vijaylaxmi Mahesh Maitri,female,ME,97
-7,1,3,Aarya Ajay Kshirsagar,male,ME,75
-7,1,3,Ms. Khushi,female,ME,88
-7,1,3,Deepak Soni,male,ME,67
-7,1,3,Ms. Konda Sri Vyshnavi,female,EE,93
-7,1,3,Ms. Anshika Tripathi,female,CE,70
-7,1,4,Tejas Baid,male,ME,77
-7,1,4,Ms. Srinidhi Balasubramanian,female,CL,84
-7,1,4,Chatla Anil,male,EE,83
-7,1,4,Ms. Banoth Mythili,female,EC,82
-7,1,4,Ms. Ananya Priyaroop,female,EP,89
-7,1,4,Ashwini Kumar Mishra,male,CE,75
-7,1,4,Prabhat Kumar,male,CE,80
-7,2,1,Shubham G Korade,male,MM,90
-7,2,1,Ms. Challa Akshitha,female,CE,100
-7,2,1,Arash Dev Ahlawat,male,EP,64
-7,2,1,Jagdish Sajeesh,male,AE,89
-7,2,1,A Naveen,male,CL,92
-7,2,1,Ojas Anand Pathak,male,CL,98
-7,2,1,Chennu Rakesh Kumar Reddy,male,CS,75
-7,2,2,B Chandra Shekhar Uke,male,CE,94
-7,2,2,Pratyush Rankawat,male,EC,98
-7,2,2,Ms. Karipe Hima Varsha,female,ME,96
-7,2,2,Nandipati Sai Durga Reddy,male,CS,100
-7,2,2,Deepanshu Mandawat,male,EE,100
-7,2,2,Ms. Lopamudra Biswal,female,AE,97
-7,2,2,Kawade Pranav Pratap,male,CL,92
-7,2,3,Duggineni Venkata Yugesh,male,CS,89
-7,2,3,Hitesh Meena,male,EE,98
-7,2,3,Ashwini Singh Tomar,male,EC,78
-7,2,3,Rushabh Dnyaneshwar Gayakwad,male,MM,90
-7,2,3,Yash Pankaj Baldawa,male,ME,97
-7,2,3,Ms. Nancy Soni,female,CE,79
-7,2,4,Dinesh Kumar,male,MM,100
-7,2,4,Yogendra Shankar Anand,male,CE,79
-7,2,4,Aditya Rana,male,CL,94
-7,2,4,Ms. Aditi Singh,female,CS,67
-7,2,4,Sangam Prithvi Chakravarthy,male,EE,91
-7,2,4,Akshat Sharma,male,CL,95
-7,2,4,Vedant Milind Abhangrao,male,ME,85
-7,3,1,Ms. D Maneesha,female,ME,68
-7,3,1,Ms. Neha Kanwadiya,female,EP,100
-7,3,1,Hiremath Tejomay Mrutyunjay,male,EC,69
-7,3,1,Parvesh Meena,male,AE,85
-7,3,1,Shreyas Prashant Kamble,male,ME,100
-7,3,1,Ms. Aanvi,female,ME,98
-7,3,1,Amrutanshu Mohanty,male,EE,77
-7,3,2,Manan Mehta,male,CL,99
-7,3,2,Adarsh John,male,EP,62
-7,3,2,Ritesh Kumar Ahirwar,male,CL,82
-7,3,2,Aditya Patil,male,CE,95
-7,3,2,Patil Udayanraje Balasaheb,male,CL,95
-7,3,2,Siddhant Sumit Gupta,male,EN,100
-7,3,2,Vangapandu Venkata Sai Surya Prakash,male,CS,81
-7,3,3,Vassu Sharma,male,CL,77
-7,3,3,Jay Shah,male,CL,60
-7,3,3,Toyaj Kabi,male,CL,99
-7,3,3,Patel Divyanshkumar,male,EP,86
-7,3,3,Ms. Gupta Ritthika Raja,female,AE,82
-7,3,3,Regidi Dinesh,male,AE,58
-7,3,3,Soumya Gour,male,EE,71
-7,3,4,Hiwre Anurag Uddhavrao,male,AE,92
-7,3,4,Ark Vinodkumar Singh,male,MM,97
-7,3,4,Deepak Dhinwa,male,ME,86
-7,3,4,Natraj Thounty,male,ME,85
-7,3,4,Saud Ahmed Quadri,male,EN,99
-7,3,4,Kuldeep Mallya K M,male,CL,92
-7,3,4,Shamik Sandip Banerjee,male,ME,43
-7,4,1,Jadhav Om,male,MM,97
-7,4,1,Ms. Priyam Raj,female,CE,78
-7,4,1,Ishant,male,CL,97
-7,4,1,Ms. Tanushree Meena,female,CE,89
-7,4,1,Rugved Dattatraya Fiske,male,ME,90
-7,4,1,Siddhant Mulkikar,male,CS,85
-7,4,1,Golekar Avdhoot Trimbak,male,AE,71
-7,4,2,Gursale Soham Prakash,male,CL,82
-7,4,2,Aman Khatri,male,EE,88
-7,4,2,Banoth Sanath Kumar,male,MM,83
-7,4,2,Manya Unnat Shah,male,EE,62
-7,4,2,Bhavya Bansal,male,CS,90
-7,4,2,Ghanshyam Choudhary,male,CE,79
-7,4,2,B Shashank,male,CS,90
-7,4,3,Ms. Mudrika Gupta,female,CE,65
-7,4,3,Anvit Navin Khade,male,EP,94
-7,4,3,Haris Narrendran R,male,EP,82
-7,4,3,Gunda Sushanth,male,CS,91
-7,4,3,Vansh Chandarana,male,CE,93
-7,4,3,Nilay Ashish Shahapure,male,ME,83
-7,4,3,Omshiva Balraaj Kotkar,male,EC,84
-7,4,4,Raghav Goyal,male,CS,79
-7,4,4,Harsh Chavda,male,CL,62
-7,4,4,Ms. Aastha Maliwal,female,MM,91
-7,4,4,M Siddharth,male,MM,88
-7,4,4,Deepraj Singh Kasherwal,male,MM,97
-7,4,4,Lavudya Yashwanth,male,CE,62
-7,4,4,Aditya Bhardwaj,male,CH,89
-7,5,1,Ms. Dipti Meshram,female,AE,94
-7,5,1,Shourya Goyal,male,CE,93
-7,5,1,V S Vishnu,male,EE,90
-7,5,1,Maradana Dheeraj Kumar,male,CS,91
-7,5,1,Kaarmukilan B,male,EE,93
-7,5,1,Shaileshram Sivakumar,male,EE,75
-7,5,1,Ms. Purvi Jain,female,EN,87
-7,5,2,Manish,male,CL,86
-7,5,2,Ms. Mishkat Fatma,female,ME,55
-7,5,2,Pudi Ajay Kumar,male,CS,86
-7,5,2,Ms. Akshara,female,CS,62
-7,5,2,Yajat Sharma,male,CL,87
-7,5,2,Mayank Tatwade,male,ME,98
-7,5,2,Sangeet Saikia,male,ME,100
-7,5,3,Aarav Jitendra Rangwani,male,ES,91
-7,5,3,Dumpala Paneendra Nadha Reddy,male,CS,96
-7,5,3,Kush Agrawal,male,EE,98
-7,5,3,Ms. Seemon Suryabhan Bansod,female,CL,96
-7,5,3,Harpreet Singh,male,MM,90
-7,5,3,Ms. Jaya Jareda,female,EE,88
-7,5,4,Udtyavath Sai Likhith,male,CS,92
-7,5,4,Yogesh Panthi,male,CE,87
-7,5,4,Rajat Das,male,CS,96
-7,5,4,Aman Nehra,male,CS,97
-7,5,4,Ms. Palaparthi Venkata Naga Sai Sri Varshini,female,CL,71
-7,5,4,Anuj Patel,male,MM,87
-7,5,4,Arnav Manish Narayane,male,CE,96
-7,6,1,Kale Chinmay Jagdish,male,EP,90
-7,6,1,Ms. Dishika Nawal,female,EE,75
-7,6,1,Lokesh Jangir,male,CL,62
-7,6,1,Wagh Tanishq Abhishek,male,EN,100
-7,6,1,Guntuku Santosh Sagar,male,ME,100
-7,6,1,Ms. Vara Nishma,female,EN,70
-7,6,1,Ms. Samruddhi Santoshkumar Kulkarni,female,EP,81
-7,6,2,Somya Dahiaya,male,CS,80
-7,6,2,Abhinav Singh,male,CS,86
-7,6,2,Rajat Bhadane,male,EN,77
-7,6,2,Ms. Subhi D,female,MM,86
-7,6,2,Ms. Bhumi Sharma,female,CE,78
-7,6,2,Arnav Kumar,male,CE,89
-7,6,2,Ms. Patil Bhumi Prabhakar,female,MM,92
-7,6,3,Darshan Avinash Sonawane,male,EN,53
-7,6,3,Avaneesh Vinayak Khadye,male,ME,46
-7,6,3,Akshat Rakesh Pandey,male,ME,97
-7,6,3,Onkar Bhagvan Sathe Patil,male,CE,86
-7,6,3,Ms. Punse Janhavi Rajesh,female,CE,96
-7,6,3,Ms. Himanshi Meena,female,CL,95
-7,6,3,Rishik Yadav,male,ME,85
-7,6,4,Vansh Arora,male,CE,52
-7,6,4,Sunny Khobragade,male,AE,83
-7,6,4,Ms. Rutuja Manoj Dhabarde,female,EC,98
-7,6,4,Aditya Singh,male,EN,88
-7,6,4,Shaashvat Sekhar,male,EE,91
-7,6,4,Uday Gajanan Darade,male,CS,100
-8,1,1,Ms. Falguni Kashyap,female,AE,100
-8,1,1,Kotadiya Het Pravinbhai,male,CE,100
-8,1,1,Jayant Padmanabha Deshmukh,male,CL,88
-8,1,1,Dhruv Vashistha,male,AE,85
-8,1,1,Amit Bhartiya,male,EC,93
-8,1,1,Ms. Suvvada Mounisha Naidu,female,CS,99
-8,1,1,Ayush Lonakadi,male,ME,82
-8,1,2,Sahil Kukreja,male,MM,96
-8,1,2,Vivaan Shah,male,CL,88
-8,1,2,Ms. Niharika,female,CE,78
-8,1,2,Ms. Kanak P Tembhare,female,MM,97
-8,1,2,Shantanu Saharan,male,CL,76
-8,1,2,Ms. Peela Teja Sri,female,CS,64
-8,1,2,Pranav Gopal Rathi,male,CE,84
-8,1,3,Addagada Venkata Sivaram,male,CS,66
-8,1,3,Manthan Goyal,male,CE,90
-8,1,3,Akhil Tripathi,male,CL,95
-8,1,3,Kamble Swastish Satish,male,ES,95
-8,1,3,Sidhdant Kamble,male,EP,100
-8,1,3,Apoorv Goyal,male,EE,79
-8,1,3,Pratyaksh Bhardwaj,male,MM,92
-8,1,4,Devarsh Kaushal Mehta,male,ME,65
-8,1,4,Kalla Lakshmi Surya,male,CS,94
-8,1,4,Dudigani Lathik Abhinay,male,CS,96
-8,1,4,Killampalli Vara Srinivas,male,AE,88
-8,1,4,Shubham Talwaria,male,EE,76
-8,1,4,Atharav Sonawane,male,MM,97
-8,1,4,Ms. Devanshi Khandelwal,female,ES,86
-8,2,1,Rohit Kumar Meena,male,EE,90
-8,2,1,Ms. Shreya Nigam,female,EE,87
-8,2,1,Rajdeep Paul,male,AE,98
-8,2,1,Harshit Raj,male,CS,94
-8,2,1,Shashwat Mishra,male,MM,96
-8,2,1,Mayank Mudgal,male,EE,63
-8,2,1,Ansari Mohammad Zaif Jahangir Ahmed,male,CL,94
-8,2,2,Sameer Chopra,male,ES,72
-8,2,2,Bharat Gupta,male,ME,82
-8,2,2,Ashish Ranjan,male,ME,97
-8,2,2,Krishna Murmu,male,AE,90
-8,2,2,Tarachand,male,MM,89
-8,2,2,Ms. Anousha Puvvala,female,ME,98
-8,2,2,Tanishq Sahaj,male,ME,86
-8,2,3,E Saiharshavardhan,male,MM,94
-8,2,3,Daksh Jain,male,MM,99
-8,2,3,Shaik Sahil Chanda,male,CS,99
-8,2,3,Raj Solanki,male,CH,88
-8,2,3,Monarch Mohan Shankar,male,CL,88
-8,2,3,K Bhuvanesh,male,AE,98
-8,2,3,Ms. Vankudoth Bhanu Prasanna,female,EE,96
-8,2,4,Rishabh Agarwal,male,CE,89
-8,2,4,Guduru Adarsh,male,CS,59
-8,2,4,Kabra Gaurav Sandeep,male,CL,99
-8,2,4,Ayush Beniwal,male,EP,96
-8,2,4,Ms. Swati Kumari,female,EE,94
-8,2,4,Koduri Swarandeep,male,ME,97
-8,2,4,Aniket Kumar Agarwal,male,CL,83
-8,3,1,Varri Shyam Sri Vardhan,male,CS,76
-8,3,1,Anirudh Maindargikar,male,ME,95
-8,3,1,Ms. Gauri Mahajan,female,AE,97
-8,3,1,Sumit Kumar Adhya,male,EP,80
-8,3,1,Bangi Karthikesh,male,CE,99
-8,3,1,Sarthak Kamble,male,EE,97
-8,3,1,Ms. Aarya Sanjay Kokate,female,EE,96
-8,3,1,Ms. Mehak,female,ES,73
-8,3,1,Divig Bansal,male,EE,67
-8,3,2,Samay Rakshit,male,CE,95
-8,3,2,Devam Jasani,male,EC,77
-8,3,2,Mradul Kaushal,male,EE,94
-8,3,2,Lakshya Mehar,male,EE,92
-8,3,2,Vaibhav Verma,male,EC,91
-8,3,2,Parth Gupta,male,EE,72
-8,3,3,Ms. Aarushi Nirav Shah,female,EC,97
-8,3,3,Gundi Raghuram,male,EN,58
-8,3,3,Ms. Vanshika Bansal,female,ME,98
-8,3,3,Krishna Gilda,male,ME,95
-8,3,3,Satyam Mani Tripathi,male,CE,88
-8,3,3,Tanmoy Das,male,CL,89
-8,3,4,Ms. Vaka Sri Varshitha,female,CS,97
-8,3,4,Pamarthi Harsha Sai Srinivas,male,EE,78
-8,3,4,Ms. Khushi Sharma,female,ME,96
-8,3,4,Aarya Vora,male,EE,99
-8,3,4,Rahul Lalmohan Singh,male,AE,98
-8,3,4,Ms. Akepati Sriya,female,CS,94
-8,3,4,Lucky Gupta,male,CL,100
-8,3,4,Deshbhratar Laukik Sushil,male,AE,78
-8,4,1,Manan Garg,male,EE,77
-8,4,1,Ankit Saini,male,ME,89
-8,4,1,Tank Param Dashrathbhai,male,ME,63
-8,4,1,Rathva Keyurkumar,male,CE,84
-8,4,1,Ms. Shaha Khushi Shrikantkumar,female,CH,79
-8,4,1,Affaan Ali Fakih,male,EE,100
-8,4,1,Advay Bapat,male,EE,96
-8,4,1,Krunal Vaghela,male,EE,100
-8,4,1,Ms. Bhalerao Mrunmai Vidyadhar,female,ME,100
-8,4,2,Ms. Khyati Singh,female,EE,94
-8,4,2,Namala Varun Sri Teja,male,EP,100
-8,4,2,Veer Vishal Lohia,male,MM,75
-8,4,2,Ms. Hase Tanisha Shantaram,female,EE,80
-8,4,2,Sanjay Kumar,male,EE,75
-8,4,2,Ishan Jain,male,EE,79
-8,4,3,Ms. Shravya Karna,female,CS,90
-8,4,3,Akshit Mina,male,EC,92
-8,4,3,Prasham Pangtey,male,ME,99
-8,4,3,Aayush Kumar Singh,male,MM,85
-8,4,3,Ms. Suhani Shah,female,MM,77
-8,4,3,Paresh Kumar Sabar,male,CL,92
-8,4,3,Yashvardhan Khandegar,male,EE,76
-8,4,4,Anghan Omkumar Dineshbhai,male,CL,75
-8,4,4,Shashwat Gakre,male,CL,63
-8,4,4,Tamilaruvi S,male,EE,87
-8,4,4,Rishabh Vinayak Jalgaonkar,male,ME,94
-8,4,4,Mohammad Noorain Ansari,male,EE,81
-8,4,4,Dheeraj Kumar,male,AE,91
-8,4,4,Mradul Sonkar,male,CS,81
-8,5,1,Aayush Martand Borkar,male,CS,66
-8,5,1,Patel Karan Hareshkumar,male,CE,95
-8,5,1,Ms. Gowri K Balakrishnan,female,CS,67
-8,5,1,Doshi Taksh Dhanesh,male,CL,69
-8,5,1,Vedant Umesh Bagde,male,EN,92
-8,5,1,Jinay Kishore Vora,male,CE,50
-8,5,1,Prashant Vashisht,male,ME,80
-8,5,2,Arush Narayan Srivastav,male,CH,100
-8,5,2,Ms. Dhruvi Deepak Desai,female,CE,88
-8,5,2,Ms. Sneha Shandilya,female,CL,82
-8,5,2,Rishi Kalra,male,CS,81
-8,5,2,Arth Agrawal,male,EN,67
-8,5,2,Siddhesh Santosh Sonawane,male,ME,51
-8,5,2,Aryan Nagpal,male,EP,97
-8,5,3,Saksham Saharia,male,CS,65
-8,5,3,Maddela Sainath,male,EE,89
-8,5,3,Kunsoth Chandrashen Nayak,male,CS,92
-8,5,3,Jigar Nikhil Mehta,male,EE,72
-8,5,3,Rayapati Dinesh Sai,male,CS,100
-8,5,3,Dheeravath Thanuj,male,CS,74
-8,5,3,Vysyaraju Srikar Nihal,male,CS,83
-8,5,4,Ms. Chavan Piyusha Namdev,female,EE,95
-8,5,4,Abhishek,male,CE,97
-8,5,4,Ms. Rupanshi Vijayvargiya,female,MM,88
-8,5,4,Mukund Alias Aryan Siddhesh Sinai Kakodkar,male,CL,92
-8,5,4,Atharva Gajbe,male,CH,93
-8,5,4,Vivaan Vimal Jain,male,CE,88
-8,5,4,Abhav Singh,male,EC,54
-8,6,1,Ms. Avasthi Jain,female,ME,90
-8,6,1,Sumedh S S,male,CS,74
-8,6,1,Malay Kedia,male,CS,93
-8,6,1,Rudra Pratap Singh,male,EP,78
-8,6,1,Vinay Agrawal,male,EE,99
-8,6,1,Bhavishya Gupta,male,CL,96
-8,6,1,Dev Joshi,male,CE,73
-8,6,2,Ms. Manya Kulshreshtha,female,EE,68
-8,6,2,Arepalli Jishnuchandra,male,ME,74
-8,6,2,Shaik Awez Mehtab,male,CS,94
-8,6,2,Akshay Venugopalan,male,AE,90
-8,6,2,Ms. Ishita,female,CS,91
-8,6,2,Ms. Maldode Sneha Prabhakar,female,CE,91
-8,6,2,Gyanendra,male,CL,87
-8,6,3,Tushar Singha Roy,male,EE,95
-8,6,3,Farhan Ahmad,male,EP,84
-8,6,3,Pritam Halder,male,CE,95
-8,6,3,Pothina Madhav,male,CS,98
-8,6,3,Somya Srivastava,male,ME,98
-8,6,3,Pulkit Priyadarshi,male,CE,94
-8,6,3,Vishal Chandra Patel,male,CE,99
-8,6,4,Sidharth Pramod C,male,MM,93
-8,6,4,Aadi Suketu Bharatia,male,EP,92
-8,6,4,Kunj Bhesaniya,male,CS,85
-8,6,4,Shubham,male,MM,86
-8,6,4,Ayuwansinh Chudasama,male,AE,100
-8,6,4,Sabil Ahmad,male,CS,100
-8,6,4,Dipen Sojitra,male,CS,80
+1,1,1,Param Ketan Pabari,male,ME,89
+1,1,1,Ms. Ayushi Naharwal,female,CL,94
+1,1,1,Aagam Sheetalkumar Kasaliwal,male,ME,91
+1,1,1,Ishant,male,CL,99
+1,1,1,Ms. Shravya Karna,female,CS,83
+1,1,1,Vipul Rajendrakumar Devvyas,male,ME,86
+1,1,2,Aayush Kumar Singh,male,MM,91
+1,1,2,Harshvardhan Shrivastav,male,EN,78
+1,1,2,Duggineni Venkata Yugesh,male,CS,94
+1,1,2,Ms. Avasthi Jain,female,ME,94
+1,1,2,Aayush Martand Borkar,male,CS,99
+1,1,2,Ms. Dhriti Singh,female,ME,90
+1,1,3,Dola Surya Sai,male,CS,100
+1,1,3,Gunda Sushanth,male,CS,97
+1,1,3,Tamilaruvi S,male,EE,97
+1,1,3,Vishal Tiwari,male,ME,77
+1,1,3,Aryan Dwivedi,male,MM,86
+1,1,3,Arjun Jhunjhunwala,male,EE,96
+1,1,4,Himansu Sahu,male,EE,89
+1,1,4,Ms. Gouri Namdeo,female,EC,92
+1,1,4,Bhavesh Chandra Kampa,male,EC,100
+1,1,4,Hitesh Kumar Khiani,male,MM,94
+1,1,4,Arjun Pankaj Kabra,male,CH,87
+1,1,4,Arnav Gautam,male,ME,86
+1,1,5,Ashish Kumar,male,CE,69
+1,1,5,Dheeravath Thanuj,male,CS,100
+1,1,5,Ms. Anvi Gupta,female,MM,93
+1,1,5,Meet Ashok Vanja,male,EE,68
+1,1,5,Vangapandu Venkata Sai Surya Prakash,male,CS,92
+1,1,5,Satarkar Karan Vijay,male,CE,91
+1,2,1,Ms. Sambangi Varshini,female,CS,85
+1,2,1,Praveen Kumar,male,CE,85
+1,2,1,Banoth Akash,male,CL,98
+1,2,1,Ms. Prachi Arya,female,CE,55
+1,2,1,Joseph Prince Perikalakattu,male,AE,84
+1,2,1,Nawang Tashi,male,CE,92
+1,2,2,Ms. Ananya Priyaroop,female,EP,95
+1,2,2,Maitranya Mahesh Patil,male,EE,90
+1,2,2,Ms. Himanshi Garg,female,CL,92
+1,2,2,Uday Vijay Doiphode,male,CE,96
+1,2,2,Divya Nayan Mehta,male,AE,91
+1,2,2,Rishik Yadav,male,ME,97
+1,2,3,Ayush Kumar,male,AE,96
+1,2,3,Aditya Neeraje,male,CS,92
+1,2,3,Satyala Madhu Kiran,male,CS,90
+1,2,3,Dev Dharmesh Suthar,male,ME,92
+1,2,3,Devangam Kishan Teja,male,CS,77
+1,2,3,Vinayak Vikas Jalan,male,EC,94
+1,2,4,Shlok Sunil Agrawal,male,MM,80
+1,2,4,Sahil Tanania,male,ME,91
+1,2,4,Ms. Chaheti Rathore,female,AE,78
+1,2,4,Kabra Gaurav Sandeep,male,CL,97
+1,2,4,Patil Vaibhav Nitin,male,ME,100
+1,2,4,Deepak Soni,male,ME,62
+1,2,5,Ms. Falguni Kashyap,female,AE,98
+1,2,5,Mahesh Bharat Naik,male,CL,92
+1,2,5,Gottimukkula Soumith Reddy,male,CE,70
+1,2,5,Krish Bansal,male,CE,85
+1,2,5,Ms. Kethavath Advika,female,ME,95
+1,2,5,Jairaj Vidhyarthi,male,MM,94
+1,3,1,Marumamula Venkata Pranay,male,CS,76
+1,3,1,Ronak Gupta,male,ME,89
+1,3,1,Arnav Prativ,male,AE,86
+1,3,1,Shashwat Mishra,male,MM,92
+1,3,1,Ms. Shruti Pikle,female,EP,76
+1,3,1,Ms. Ishita,female,CS,93
+1,3,2,Shlok Pradeep Agrawal,male,ME,91
+1,3,2,E Saiharshavardhan,male,MM,97
+1,3,2,Ms. Manya Kulshreshtha,female,EE,88
+1,3,2,Harith S,male,CS,97
+1,3,2,Ms. Challa Akshitha,female,CE,100
+1,3,2,Devansh Gupta,male,CE,92
+1,3,2,Shubham G Korade,male,MM,99
+1,3,3,Ayuwansinh Chudasama,male,AE,86
+1,3,3,Garv Agrawal,male,CL,99
+1,3,3,Shresth Anand,male,ES,96
+1,3,3,Krishna Murmu,male,AE,72
+1,3,3,Nallapaneni Sreehari,male,ME,95
+1,3,3,Sarthak Kamble,male,EE,95
+1,3,3,Ms. Suvvada Mounisha Naidu,female,CS,67
+1,3,4,Prabhav Khandelwal,male,CS,95
+1,3,4,Shamik Sandip Banerjee,male,ME,69
+1,3,4,Vennela Yasasvi Naidu,male,CS,98
+1,3,4,Vasu Kaavya Rajesh,male,ME,82
+1,3,4,Koppu Bharath,male,CH,65
+1,3,4,Aryan Kashyap,male,CE,98
+1,3,4,Punumalli Lohit Adhitya Sai,male,CS,80
+1,4,1,Ansh Yadav,male,EC,100
+1,4,1,Ishaan Jajodia,male,CL,87
+1,4,1,Jatavath Saikumar,male,MM,89
+1,4,1,Karamthotu Prudhvi Raj,male,ME,99
+1,4,1,Advant Arnav Suhas,male,EP,98
+1,4,1,Ms. Sara Mukherjee,female,CS,96
+1,4,2,Ms. Aastha Borkar,female,CE,96
+1,4,2,Arnav Shankar Durgam,male,EE,76
+1,4,2,Manit Jhajharia,male,EE,89
+1,4,2,Tanay Amit Agrawal,male,EP,84
+1,4,2,Shaikh Adnan Matiyoddin,male,ES,78
+1,4,2,Maloth Ram Charan,male,CL,99
+1,4,3,Ms. Chandak Khushi Chetan,female,EE,96
+1,4,3,Ms. Banoth Mythili,female,EC,86
+1,4,3,Chinmay Purohit,male,EE,88
+1,4,3,Maddela Sainath,male,EE,85
+1,4,3,Kanakala Sri Charan Raj,male,EE,94
+1,4,3,Prajapati Kavan Gautamkumar,male,CE,68
+1,4,4,Kalp Rawat,male,EE,72
+1,4,4,Durgesh Kumar Jha,male,ES,89
+1,4,4,Monarch Mohan Shankar,male,CL,91
+1,4,4,Aditya Singh,male,EN,86
+1,4,4,Patil Udayanraje Balasaheb,male,CL,74
+1,4,4,Nitesh Kumar,male,EE,92
+1,4,5,Parth Goel,male,MM,72
+1,4,5,Keshav Sharma,male,EP,89
+1,4,5,Ms. Shreya Taria,female,AE,96
+1,4,5,Shivam,male,CL,74
+1,4,5,Shubham,male,MM,95
+1,4,5,Surendra Choudhary,male,CE,76
+1,5,1,Hiremath Tejomay Mrutyunjay,male,EC,58
+1,5,1,Rudra Pratap Singh,male,EP,97
+1,5,1,Kokate Pradyumn Markandaya,male,CL,62
+1,5,1,Pratik Sukhdeo Jadhao,male,CE,98
+1,5,1,Kamble Swastish Satish,male,ES,98
+1,5,1,Mehta Stavan Dhaval,male,EE,66
+1,5,2,Ms. Bhukya Akkshitha Rathod,female,CS,85
+1,5,2,Tripathi Aarush,male,EE,89
+1,5,2,Abhishek Singh,male,CL,89
+1,5,2,Bavurupudi Ritwik,male,CS,78
+1,5,2,Mrunal Dhiraj Barapatre,male,ME,100
+1,5,2,Ms. Tunuguntla Saisree Maneesha,female,ES,80
+1,5,3,Velagala Deeraj Sathvik Reddy,male,CS,99
+1,5,3,Vikas H R,male,ME,96
+1,5,3,Shete Himanshu Mahesh,male,CE,87
+1,5,3,Kaushal Vijayvergiya,male,CS,89
+1,5,3,Ms. Varala Charishma,female,CS,86
+1,5,3,Aarya Vora,male,EE,97
+1,5,4,Aditya Anmol,male,ME,58
+1,5,4,A Naveen,male,CL,99
+1,5,4,Pulin Tanmay Beck,male,EP,79
+1,5,4,Ms. Vaka Sri Varshitha,female,CS,93
+1,5,4,Bheesetti Yaswanth Ram Kumar,male,EE,92
+1,5,4,Nitin,male,CE,73
+1,6,1,Mradul Sonkar,male,CS,99
+1,6,1,Sujit Adiga,male,EE,94
+1,6,1,Anuj Patel,male,MM,94
+1,6,1,Rajat Bhadane,male,EN,89
+1,6,1,Manyaman Naik,male,ME,58
+1,6,1,Ranbir Rajat Sinha,male,CE,100
+1,6,2,Arnesh Mondal,male,EE,58
+1,6,2,Ms. Afra I K,female,CE,96
+1,6,2,Aman Khatri,male,EE,92
+1,6,2,Ayush Beniwal,male,EP,67
+1,6,2,Arin Dhananjay Pendharkar,male,MM,56
+1,6,2,Sanju Mahavar,male,ES,87
+1,6,3,Daksh Yashwant Sawke,male,EE,89
+1,6,3,Ms. Punse Janhavi Rajesh,female,CE,90
+1,6,3,Aman Dhoke,male,EE,85
+1,6,3,Ms. Kruthi S,female,EE,73
+1,6,3,Jay Dinesh Ajinkya,male,MM,88
+1,6,3,Kethavath Nithin Naik,male,CS,91
+1,6,4,Pavithiran Ravikumar,male,EP,92
+1,6,4,Ms. Jiya Batheja,female,EC,95
+1,6,4,Pearsh Gumasta,male,ES,82
+1,6,4,Chandra Shekhar Yadav,male,CE,94
+1,6,4,Sangeet Saikia,male,ME,82
+1,6,4,Satyam Mani Tripathi,male,CE,88
+2,1,1,Paluri Gnana Kousik Reddy,male,CS,99
+2,1,1,Mridul Choudhary,male,EE,99
+2,1,1,Harsh Suthar,male,CS,93
+2,1,1,Ms. Uditi Raymangia,female,CE,56
+2,1,1,Sameer Gupta,male,MM,69
+2,1,1,Ms. Kakarla Harika,female,ES,85
+2,1,2,Ms. Aastha Maliwal,female,MM,97
+2,1,2,Harish Sepat,male,CH,94
+2,1,2,Kundan Maiti,male,EE,88
+2,1,2,Astitva Raj,male,EP,95
+2,1,2,Aniket Kumar,male,MM,70
+2,1,2,Prince,male,CE,93
+2,1,2,Kondasani Lingareddy,male,AE,83
+2,1,3,Hari Shankar Karthik,male,CS,58
+2,1,3,Joshi Ajitesh Chandrashekhar,male,ME,88
+2,1,3,Ms. Vaishnavi Rajput,female,CL,85
+2,1,3,Baral Prathmesh Santosh,male,EE,69
+2,1,3,Ms. Aanvi,female,ME,78
+2,1,3,Akketi Swethank Reddy,male,CE,100
+2,1,3,Ronit Uday Gajbhiye,male,EP,95
+2,1,4,Rishabh Vinayak Jalgaonkar,male,ME,86
+2,1,4,Benake Shantanu Ranaba,male,MM,97
+2,1,4,Gaurav Kumar,male,CS,88
+2,1,4,Aryan Abhijeet Moholkar,male,CH,97
+2,1,4,Vishal Chandra Patel,male,CE,74
+2,1,4,Goutam Singh,male,MM,74
+2,1,4,Shaurya Goyal,male,AE,89
+2,2,1,Siddhant Sumit Gupta,male,EN,88
+2,2,1,Nikhil Pal,male,CE,93
+2,2,1,Ms. Mahima Anil Singh,female,EE,87
+2,2,1,Vansh Arora,male,CE,95
+2,2,1,Subham Agrawal,male,EE,72
+2,2,1,Sunny Khobragade,male,AE,100
+2,2,2,Manish,male,CL,83
+2,2,2,Ms. Potnuru Saatvika,female,CS,98
+2,2,2,Gaurav Mankele,male,CL,87
+2,2,2,Nadeem Shabir Mir,male,CE,78
+2,2,2,Apoorv Goyal,male,EE,99
+2,2,2,Jinay Kishore Vora,male,CE,95
+2,2,3,Aarya Ajay Kshirsagar,male,ME,84
+2,2,3,Mehul Bafna,male,AE,81
+2,2,3,Kunal Pravin Jain,male,CE,79
+2,2,3,Ms. Avishi Raj,female,MM,97
+2,2,3,Ms. Sai Sandeep Tambaku,female,CL,84
+2,2,3,Pabitra Sarkar,male,CE,40
+2,2,4,Bonde Rushabh Ramesh,male,CE,90
+2,2,4,Jaywardhan Raghu,male,CE,98
+2,2,4,Akshat Amit Patel,male,ME,86
+2,2,4,Anshuman Lodhi,male,CE,86
+2,2,4,Prajapati Neel Maheshbhai,male,AE,92
+2,2,4,Mukund Kushwaha,male,AE,88
+2,2,5,Abhijeet Dewanda,male,CH,90
+2,2,5,Sanapala Anirudh,male,CS,100
+2,2,5,Devangula Gouri Praneeth Kumar,male,EE,100
+2,2,5,Sachin Thappa,male,CE,98
+2,2,5,Abhav Singh,male,EC,80
+2,2,5,Abhishek,male,CE,100
+2,3,1,Samarth Aaggarwal,male,EN,89
+2,3,1,Aryan Meena,male,AE,78
+2,3,1,Sanyam Singh,male,ME,79
+2,3,1,Parv Agrawal,male,ME,93
+2,3,1,Ms. Sandhita Das,female,ME,91
+2,3,1,Saksham Saharia,male,CS,78
+2,3,2,Ms. Dnyaneshwari Kate,female,ME,72
+2,3,2,Koduri Swarandeep,male,ME,92
+2,3,2,Kaushal Pandey,male,CE,65
+2,3,2,Ashish Kumar Yadav,male,MM,77
+2,3,2,Pushp Raj Choudhary,male,ME,92
+2,3,2,Satvik Gautam,male,EC,74
+2,3,3,Parth Mukunda Maske,male,CL,41
+2,3,3,Peela Rathna Harsha,male,EE,94
+2,3,3,Ms. Kopal Goel,female,EC,79
+2,3,3,Dibyanshu Dash,male,CE,88
+2,3,3,Doshi Taksh Dhanesh,male,CL,94
+2,3,3,Ms. Rutuja Manoj Dhabarde,female,EC,92
+2,3,4,Gundi Raghuram,male,EN,88
+2,3,4,Arepalli Jishnuchandra,male,ME,79
+2,3,4,Akshay Venugopalan,male,AE,83
+2,3,4,Karkar Akshat Ramesh Bhai,male,ES,89
+2,3,4,Ms. Chavan Piyusha Namdev,female,EE,97
+2,3,4,Keshav Goyal,male,ME,77
+2,3,5,Ashwini Kumar Mishra,male,CE,76
+2,3,5,Vishnu Bijarniya,male,EE,78
+2,3,5,Prasham Pangtey,male,ME,91
+2,3,5,Arjun Bhardwaj,male,CE,63
+2,3,5,Arnav Prakash Ramteke,male,EE,100
+2,3,5,Sagnik Nandi,male,CS,98
+2,4,1,Viraj Aniruddh Joshi,male,EE,87
+2,4,1,Vaibhav Verma,male,EC,98
+2,4,1,Addagada Venkata Sivaram,male,CS,81
+2,4,1,Ms. Diya Nitin Shirbhate,female,EN,98
+2,4,1,Aryamman Bhatia,male,EE,99
+2,4,1,Rahul,male,CL,80
+2,4,2,Ms. Dayama Arpita Balkisan,female,CL,86
+2,4,2,Arshit Singh,male,EE,94
+2,4,2,Shlok Pranay Rathi,male,MM,92
+2,4,2,Manish Chahar,male,ME,90
+2,4,2,Chennu Rakesh Kumar Reddy,male,CS,81
+2,4,2,Omkumar Nitin Borse,male,AE,89
+2,4,3,Ghanshyam Choudhary,male,CE,91
+2,4,3,Pushpendra Uikey,male,CS,100
+2,4,3,Yash Vikas Sabale,male,CS,93
+2,4,3,Parth Gupta,male,EE,86
+2,4,3,Sajjad Sajid Nakhwa,male,CE,69
+2,4,3,Ms. Sanchita Chaurasia,female,CS,94
+2,4,4,Ms. Mrunal Pachpande,female,CE,55
+2,4,4,Soham Sahasrabuddhe,male,EP,74
+2,4,4,Bhavya Hiteshkumar Chaudhari,male,EE,91
+2,4,4,Pranav Sadh,male,EE,94
+2,4,4,Abhi Jain,male,CS,97
+2,4,4,Ms. Boyina Sanjana,female,CS,73
+2,5,1,Ms. Taniya,female,CH,97
+2,5,1,Ritesh Kumar Ahirwar,male,CL,45
+2,5,1,Ms. Karipe Hima Varsha,female,ME,90
+2,5,1,Sanapala Venkata Aditya,male,CS,98
+2,5,1,Rishit Kesharwani,male,CL,86
+2,5,1,Ayush Bhaskar,male,AE,95
+2,5,2,Prateek Kumar Behera,male,ME,95
+2,5,2,Shreyas Prashant Kamble,male,ME,77
+2,5,2,Sangadi Vijaya Raghavendra,male,CS,78
+2,5,2,Rishabh Agarwal,male,CE,99
+2,5,2,Sasthrula Joel Tenny,male,CS,76
+2,5,2,Kare Amol Dipak,male,CL,90
+2,5,3,Pranav Malpani,male,EE,85
+2,5,3,Jaykumar Chandwani,male,EC,85
+2,5,3,B Chandra Shekhar Uke,male,CE,90
+2,5,3,Ms. Manaswi Goyal,female,ME,99
+2,5,3,Meghav Singhal,male,CE,93
+2,5,3,Vivek Nanhoriya,male,MM,97
+2,5,4,Ms. Monica S,female,EE,82
+2,5,4,Madhur Sonkar,male,EE,63
+2,5,4,Somya Dahiaya,male,CS,97
+2,5,4,Shashwat Pranav,male,CE,88
+2,5,4,Pulkit Priyadarshi,male,CE,91
+2,5,4,Anuj Anil Nandedkar,male,EP,61
+2,6,1,Kunj Bhesaniya,male,CS,97
+2,6,1,Ashish Kumar,male,CS,98
+2,6,1,Ms. Bhalerao Mrunmai Vidyadhar,female,ME,64
+2,6,1,Samay Rakshit,male,CE,85
+2,6,1,Kuldeep Mallya K M,male,CL,97
+2,6,1,Ms. Saniya Khinvasara,female,EE,49
+2,6,2,Jayesh Verma,male,EE,95
+2,6,2,Ms. D Maneesha,female,ME,99
+2,6,2,Sahil Kukreja,male,MM,99
+2,6,2,Katika Tarun Kumar,male,ME,98
+2,6,2,Ms. Abhilasha Sharma Suman,female,CS,85
+2,6,2,Shikhar Rajurkar,male,EE,92
+2,6,3,Ms. Arya Suwalka,female,CS,85
+2,6,3,Kshitij Raj Suryavanshi,male,CL,53
+2,6,3,Ms. Jain Kashish Mahaveer,female,AE,72
+2,6,3,Puranjay Bansal,male,CE,76
+2,6,3,Ganesh Kiran Chandan,male,ME,95
+2,6,3,Vivaan Shah,male,CL,96
+2,6,4,Ms. Himanshi Meena,female,CL,57
+2,6,4,Ritesh Dhayal,male,ME,86
+2,6,4,Ms. Aditi Kadam,female,CE,82
+2,6,4,Tejas Narendra Chaudhari,male,CS,84
+2,6,4,Ankit Kharkwal,male,CE,95
+2,6,4,Senapathi Surya Chandra Bheem Kumar,male,ME,53
+2,6,5,Keyaan Kartikeya Rajesh,male,CS,79
+2,6,5,Depavath Praveen,male,ES,97
+2,6,5,Manan Garg,male,EE,63
+2,6,5,Nagireddy Balaaji Reddy,male,CS,97
+2,6,5,Ms. Nancy Soni,female,CE,89
+2,6,5,Dhruvam Parekh,male,ME,100
+3,1,1,Kotadiya Het Pravinbhai,male,CE,77
+3,1,1,Kamal,male,EE,99
+3,1,1,Prabhakar Yadav,male,CE,93
+3,1,1,Ms. Ette Hasini,female,CS,82
+3,1,1,Cheera Harsha Vardhan,male,ME,74
+3,1,1,Hardeep Singh Barnala,male,CH,84
+3,1,2,Ankit Saini,male,ME,94
+3,1,2,Abhinav Singh,male,CS,83
+3,1,2,Bukke Girish,male,ME,98
+3,1,2,Pratham Ravindra Pandit,male,CE,95
+3,1,2,Vinay Hariharan,male,EE,88
+3,1,2,Anish Patel,male,MM,99
+3,1,2,Khushal Kumawat,male,MM,93
+3,1,3,Deepak Dhinwa,male,ME,94
+3,1,3,Ms. Gowri K Balakrishnan,female,CS,46
+3,1,3,Aryan Sanjay Bagde,male,CL,97
+3,1,3,J Sai Charan,male,MM,76
+3,1,3,Patel Divyanshkumar,male,EP,94
+3,1,3,Manya Unnat Shah,male,EE,82
+3,1,3,Gatik Milind Shambharkar,male,MM,83
+3,1,4,Viswa Teja Gannu,male,EE,91
+3,1,4,Aditya Raj Ji Chauhan,male,CE,93
+3,1,4,Rahul Meena,male,EE,84
+3,1,4,Ms. Seemala Varsha,female,CS,73
+3,1,4,Gulshan Kumar,male,CS,97
+3,1,4,Sameer Arvind Patil,male,CS,98
+3,1,4,Ms. Tanushree Meena,female,CE,82
+3,2,1,Soumya Gour,male,EE,91
+3,2,1,Aman Nehra,male,CS,51
+3,2,1,Aditya Agrawal,male,CE,93
+3,2,1,Kaushik Mandal,male,CL,96
+3,2,1,Narayankar Tanishq Mahesh,male,ME,94
+3,2,1,Shivam Shankar,male,EP,64
+3,2,2,Taha Rafik Chikte,male,CL,83
+3,2,2,Ms. Rode Shalmali Suresh,female,MM,80
+3,2,2,Rishu Raj,male,CE,88
+3,2,2,Piyush Manish Gube,male,EE,77
+3,2,2,Ms. Jaya Jareda,female,EE,94
+3,2,2,Asif M,male,ME,55
+3,2,3,Lokesh Jangir,male,CL,97
+3,2,3,Ghanisht,male,CE,85
+3,2,3,Ayush Vijay Agrawal,male,EN,93
+3,2,3,Ms. Maanya Agrawal,female,CE,94
+3,2,3,Divyansh Sharma,male,EN,95
+3,2,3,Nimish Sharma,male,CE,100
+3,2,4,Ms. Smitirani Haripal,female,CH,82
+3,2,4,Ms. Kokkiligadda Manaswi,female,CS,100
+3,2,4,Ankush Kumar Mandal,male,CE,78
+3,2,4,Chippalapally Avinash,male,CH,99
+3,2,4,Shenai Siddhanth Guruprasad,male,EE,96
+3,2,4,Abhishek Dixit,male,EP,100
+3,3,1,Dinesh Kumar,male,MM,82
+3,3,1,Ms. Seemon Suryabhan Bansod,female,CL,65
+3,3,1,Makarand Milind Rele,male,ME,52
+3,3,1,Rajat Kumar Sunda,male,ME,100
+3,3,1,Evuri Mohana Sreedhara Reddy,male,CS,87
+3,3,1,Brajraj Chaturvedi,male,ME,96
+3,3,2,Gangurde Rudra Sunil,male,ME,96
+3,3,2,Pranav Gopal Rathi,male,CE,75
+3,3,2,Kshitij Panpatil,male,ME,96
+3,3,2,Ms. Mrunal Turalkar,female,CL,94
+3,3,2,Nenwani Paawan Riteshkumar,male,MM,92
+3,3,2,Maisuriya Aum Urmishkumar,male,AE,70
+3,3,3,Jigar Nikhil Mehta,male,EE,83
+3,3,3,Avaneesh Vinayak Khadye,male,ME,98
+3,3,3,Amrutanshu Mohanty,male,EE,75
+3,3,3,More Soham Himmat,male,CL,96
+3,3,3,Madhav R Babu,male,CS,76
+3,3,3,Ms. Mohita Shanmugam,female,MM,94
+3,3,4,Ms. Sakshi Daberao,female,EN,69
+3,3,4,Prakhar Singh,male,AE,55
+3,3,4,Aviraj Khare,male,EC,78
+3,3,4,Jatsya Jariwala,male,CS,95
+3,3,4,Pavitpal Singh,male,EE,73
+3,3,4,Ms. Azmeera Bhuvitha,female,MM,77
+3,3,5,Dev Kumar,male,MM,95
+3,3,5,Abakash Meher,male,ME,89
+3,3,5,Divam Jain,male,CL,91
+3,3,5,B Abhinav Reddy,male,ME,97
+3,3,5,Nasiruddin Kabir,male,AE,94
+3,3,5,Nilay Ashish Shahapure,male,ME,91
+3,4,1,Swapnil Madan,male,MM,98
+3,4,1,Devam Jasani,male,EC,94
+3,4,1,Ayush Lodhi,male,EE,83
+3,4,1,Priyanshu Gehlot,male,CE,98
+3,4,1,Shaik Awez Mehtab,male,CS,92
+3,4,1,Armaan Valecha,male,CL,87
+3,4,2,Gaurish Kishor Khodke,male,ME,99
+3,4,2,Adwait Subodh Kane,male,MM,79
+3,4,2,Ms. Anika Saanvi Sahoo,female,ES,78
+3,4,2,Bahirwar Avishkar,male,CE,92
+3,4,2,Ms. Pragyan Paramita Behera,female,EE,96
+3,4,2,Ms. Akshika Jain,female,EC,24
+3,4,3,Vinay Ranjeri,male,ME,99
+3,4,3,Mayank Soni,male,CS,67
+3,4,3,Tanmay Agarwal,male,MM,61
+3,4,3,Aditya Patil,male,CE,95
+3,4,3,Yanamala Nava Teja,male,CE,87
+3,4,3,Parandhi Sahith,male,EP,90
+3,4,4,Ayush Agarwal,male,ES,72
+3,4,4,Shaik Sahil Chanda,male,CS,75
+3,4,4,Jingar Gaurav Praveen Kumar,male,EN,68
+3,4,4,Aadi Prashant Anaskure,male,MM,97
+3,4,4,Himanshu Yadav,male,EC,94
+3,4,4,Saksham Verma,male,CL,72
+3,4,5,Parv Khandelwal,male,EC,96
+3,4,5,Vineet Jangir,male,CE,96
+3,4,5,Ms. Eshika Mishra,female,CL,72
+3,4,5,Ayush Singh,male,EP,94
+3,4,5,Ronit Meena,male,EE,83
+3,4,5,Aakash Gupta,male,CS,91
+3,5,1,Goda Mahesh,male,CH,100
+3,5,1,Nagul Varadd Mahesh,male,CL,91
+3,5,1,Jay Patel,male,EE,76
+3,5,1,Gudepu Sathish Kumar Dora,male,MM,85
+3,5,1,Amit Jaiswal,male,MM,69
+3,5,1,Ansari Mohammad Zaif Jahangir Ahmed,male,CL,72
+3,5,2,Ms. Dishika Nawal,female,EE,97
+3,5,2,Jadhav Om,male,MM,94
+3,5,2,Ms. Purvi Jain,female,EN,97
+3,5,2,Gaurav,male,EE,100
+3,5,2,Vansh Chandarana,male,CE,93
+3,5,2,Anshumaan Singh,male,MM,92
+3,5,3,Divyansh Kumar,male,EP,89
+3,5,3,Pamarthi Harsha Sai Srinivas,male,EE,99
+3,5,3,Ramachandran S,male,CS,95
+3,5,3,Banoth Sanath Kumar,male,MM,83
+3,5,3,Akshat Rakesh Pandey,male,ME,92
+3,5,3,Ms. Akshara,female,CS,75
+3,5,4,Shah Vraj Alpeshbhai,male,ME,100
+3,5,4,Gaikwad Surabh Rupchand,male,CE,100
+3,5,4,Vachan Vinod Velu,male,EN,88
+3,5,4,Kritin Gupta,male,CS,96
+3,5,4,Aditya Anand Gupta,male,ME,66
+3,5,4,Kshirsagar Nikhil Arjun,male,ES,99
+3,5,5,Atharv Bandgar,male,MM,91
+3,5,5,Aryansh Kukreja,male,EE,72
+3,5,5,Samanth Martis,male,AE,98
+3,5,5,Madhav Agrawal,male,EN,80
+3,5,5,Ms. Nandana M A,female,EE,78
+3,5,5,Abhinav Bijlani,male,EP,60
+3,6,1,Sanjay Kumar,male,EE,96
+3,6,1,Ms. Morishetty Laxmi Prasanna,female,EE,57
+3,6,1,Varun Mishra,male,EE,96
+3,6,1,Moddu Manidheep Reddy,male,EE,100
+3,6,1,Ms. Nandini Agrawal,female,AE,60
+3,6,1,Nenavath Sai Drupad Naik,male,ME,100
+3,6,2,Ms. Mrinalini Bishnoi,female,CH,87
+3,6,2,Ms. Tanvi Anand,female,ES,68
+3,6,2,Yog Suresh Sonawane,male,ME,100
+3,6,2,Shashwat Gakre,male,CL,85
+3,6,2,Bangalore Ankith Kumar,male,AE,91
+3,6,2,Sabil Ahmad,male,CS,96
+3,6,3,Banothu Ashok Kumar,male,EP,87
+3,6,3,Lay Deshbhratar,male,EP,94
+3,6,3,Toyaj Kabi,male,CL,93
+3,6,3,Ishaan Srivastava,male,ME,93
+3,6,3,Krishna Chaudhary,male,ME,95
+3,6,3,Nikhil Khandelwal,male,MM,99
+3,6,4,Rakshit Sawarn,male,CL,96
+3,6,4,Harshit Raj,male,CS,98
+3,6,4,Dhruv Goyal,male,ME,82
+3,6,4,Aditya Dattatray Gavali,male,ES,94
+3,6,4,Yashvardhan Khandegar,male,EE,92
+3,6,4,B Shashank,male,CS,97
+4,1,1,Harsh Kulhari,male,CE,86
+4,1,1,Ms. Patel Akanksha Nirmal,female,AE,84
+4,1,1,Somya Srivastava,male,ME,60
+4,1,1,Atharva Amit Lele,male,CE,96
+4,1,1,Ms. Juee Nilesh Jahagirdar,female,ME,94
+4,1,1,Gurbani Jeet Sunil,male,AE,88
+4,1,2,Deshbhratar Laukik Sushil,male,AE,100
+4,1,2,Manav Mathew Sebastian,male,ME,93
+4,1,2,Jadhav Jay Karbhari,male,EE,91
+4,1,2,Pinnu Shasank Reddy,male,CS,57
+4,1,2,Thallapally Mani Sharavan Goud,male,AE,99
+4,1,2,Abhishek Meena,male,CL,96
+4,1,3,Anshu,male,MM,92
+4,1,3,Bisen Tanmay Tejram,male,CL,90
+4,1,3,Bunke Vaibhav Anil,male,ES,79
+4,1,3,Rayapati Dinesh Sai,male,CS,97
+4,1,3,Vassu Sharma,male,CL,95
+4,1,3,Guntuku Santosh Sagar,male,ME,94
+4,1,4,Mridul Gopalia,male,ME,78
+4,1,4,Ayush Kumar Jha,male,CL,100
+4,1,4,Chaitanyaa Mahesh Maheshwari,male,CS,95
+4,1,4,Sammeta Avaneesh Sai,male,CS,96
+4,1,4,Anirudh Maindargikar,male,ME,76
+4,1,4,Prakhar Gupta,male,CE,85
+4,1,5,Chavda Jeet Sunil,male,EN,57
+4,1,5,Ms. Amishi Jain,female,ME,89
+4,1,5,Jagdish Singh,male,CL,99
+4,1,5,Utkarsh,male,CH,97
+4,1,5,Chaudhari Avinash Janardhan,male,CS,87
+4,1,5,Ms. Aditi Agarwal,female,ES,99
+4,2,1,Pendse Damodar Ketan,male,CL,69
+4,2,1,Lucky Gupta,male,CL,94
+4,2,1,R Hari Krishna,male,EN,46
+4,2,1,Hiwre Anurag Uddhavrao,male,AE,92
+4,2,1,Saubhagya Singh,male,EC,91
+4,2,1,Arth Trivedy,male,CL,82
+4,2,2,Gokularamanan Ravichandran Selvarani,male,EP,59
+4,2,2,Sahil Labhane,male,ME,67
+4,2,2,Ms. Anshika Jain,female,EE,67
+4,2,2,Jashanpreet Singh,male,CS,89
+4,2,2,Sumit Kumar Adhya,male,EP,87
+4,2,2,V Kawin Prashaath,male,CH,89
+4,2,2,Arnav Kumar,male,CE,98
+4,2,3,Ms. Komrelly Snigdha Reddy,female,CS,63
+4,2,3,Nikhil Narera,male,CS,99
+4,2,3,Chandane Nihil Harishchandra,male,ES,60
+4,2,3,Ojas Goel,male,CL,91
+4,2,3,Rudraksh Sharma,male,MM,76
+4,2,3,K Bhuvanesh,male,AE,82
+4,2,3,Modi Anmol Alkeshkumar,male,CL,96
+4,2,4,Ms. Khyati Singh,female,EE,84
+4,2,4,Pudi Ajay Kumar,male,CS,89
+4,2,4,Repudi Akshay Karthik,male,CS,96
+4,2,4,Ghuge Vedant Popatrao,male,EP,93
+4,2,4,Dhruv Chaturvedi,male,AE,98
+4,2,4,Rugved Dattatraya Fiske,male,ME,86
+4,2,4,Ms. Nandini Goyal,female,MM,78
+4,3,1,Harsh Chavda,male,CL,84
+4,3,1,Ms. Anushka Bharti,female,AE,98
+4,3,1,Ms. Pingle Shreya Rajesh,female,CL,98
+4,3,1,Ayush Patel,male,AE,90
+4,3,1,Arnab Tiwari,male,ME,77
+4,3,1,Abdul Alan T,male,EE,87
+4,3,2,Thammaneni Dheeraj,male,CS,81
+4,3,2,Temkar Saahil Avadhut,male,ES,98
+4,3,2,Jadhav Harsh Manesh,male,CL,89
+4,3,2,Ved Kumar Seth,male,EP,70
+4,3,2,Geet Prashant Sethi,male,ME,96
+4,3,2,Ms. Gupta Ritthika Raja,female,AE,92
+4,3,3,Chatla Anil,male,EE,82
+4,3,3,Shiva Upman,male,CE,85
+4,3,3,Vishwajeet Sambhaji Natu,male,CE,96
+4,3,3,Puneet Yadav,male,CE,98
+4,3,3,Siddhant Ahluwalia,male,EC,96
+4,3,3,Ms. Siri Saathvika Irigi,female,ME,87
+4,3,4,Namala Varun Sri Teja,male,EP,97
+4,3,4,Parth Maheshwari,male,CE,78
+4,3,4,Ms. Bhat Gayatri Uttam,female,EE,98
+4,3,4,Banavathu Karthik,male,ME,89
+4,3,4,Siddhesh Santosh Sonawane,male,ME,72
+4,3,4,Sankalp Rajesh Bhitkar,male,MM,97
+4,4,1,Ashutosh Kumar Verma,male,MM,99
+4,4,1,Ms. Banothu Sonusree,female,CS,83
+4,4,1,Anand,male,CE,87
+4,4,1,Quraishi Abdur Rahman,male,MM,91
+4,4,1,Bhavishya Singh Premi,male,EE,100
+4,4,1,Chetan Raj,male,MM,88
+4,4,2,Krunal Vaghela,male,EE,99
+4,4,2,Rushabh Dnyaneshwar Gayakwad,male,MM,93
+4,4,2,Ms. Shaha Khushi Shrikantkumar,female,CH,94
+4,4,2,Ms. Anushka Singhal,female,CS,79
+4,4,2,Mohammad Shabir Peerzada,male,CE,92
+4,4,2,Ridam Jain,male,CS,64
+4,4,3,Patange Sarvesh Satish,male,CL,62
+4,4,3,Soham Dasgupta,male,EE,77
+4,4,3,Nenavath Sree Vamshi Madhav,male,CS,91
+4,4,3,Siddhant Mulkikar,male,CS,94
+4,4,3,Nikhil,male,EN,52
+4,4,3,Ms. Amisha Kumari,female,EP,86
+4,4,4,Ms. Amrutham Mansi,female,EE,38
+4,4,4,Shantanu Saharan,male,CL,88
+4,4,4,Shivam Chaubey,male,EE,80
+4,4,4,Tejas Satish Narkhede,male,ME,97
+4,4,4,Aadi Suketu Bharatia,male,EP,95
+4,4,4,Aman Russell,male,EE,83
+4,4,5,Sujay Agrawal,male,ME,99
+4,4,5,Satyam Sinoliya,male,CS,88
+4,4,5,Jain Sanat Sanjog,male,MM,87
+4,4,5,Kamyak Channa,male,CS,87
+4,4,5,Moksh Jain,male,MM,99
+4,4,5,Ms. Srinidhi Balasubramanian,female,CL,100
+4,5,1,Ms. Adrika Das,female,ME,92
+4,5,1,Malakwade Piyush Ritesh,male,MM,90
+4,5,1,Menbahadur Yadav,male,ME,40
+4,5,1,Ms. Neha Yadav,female,EP,60
+4,5,1,Niral Charan,male,CS,92
+4,5,1,Yogesh Panthi,male,CE,71
+4,5,2,Ms. Sruthi Manepalli,female,EE,94
+4,5,2,Kunumalla Gautam Siddharth,male,CS,90
+4,5,2,Makwana Hitansh Dipakbhai,male,MM,63
+4,5,2,Shreyas Dhanaji Kumbhar,male,CE,99
+4,5,2,Prashant Singh,male,CE,86
+4,5,2,Hrishikesh Vijay Mavily,male,AE,100
+4,5,3,Dev Singal,male,ES,90
+4,5,3,Anulaya Khare,male,CE,100
+4,5,3,Varri Shyam Sri Vardhan,male,CS,93
+4,5,3,Aareen Pitambar Humane,male,ME,98
+4,5,3,Har Bhajan Chaudhary,male,ME,83
+4,5,3,J Adarsh,male,CS,85
+4,5,4,Jeedula Siddharth,male,CL,92
+4,5,4,Om Yadav,male,CL,97
+4,5,4,Ms. Preksha Pc,female,MM,98
+4,5,4,Meet Agrawal,male,EE,69
+4,5,4,Ms. Aboli Ganesh Malshikare,female,EE,97
+4,5,4,Shubham Talwaria,male,EE,73
+4,5,5,Akhil Tripathi,male,CL,68
+4,5,5,Guthikonda Abhiram,male,CS,99
+4,5,5,Patel Om Rajeshkumar,male,AE,97
+4,5,5,Ms. Patil Bhumi Prabhakar,female,MM,91
+4,5,5,Ms. Najma Khan,female,MM,90
+4,5,5,Maradana Dheeraj Kumar,male,CS,91
+4,6,1,Ms. Srishti Gupta,female,MM,76
+4,6,1,Vedant Milind Abhangrao,male,ME,94
+4,6,1,Srivathsa Thotakura,male,EE,98
+4,6,1,Ms. Foram Payal Trivedi,female,EE,74
+4,6,1,Ms. Jigyasa Chouhan,female,CS,57
+4,6,1,Ms. Yashvi Trivedi,female,MM,83
+4,6,2,Bhagavatula Sai Pranav,male,ME,100
+4,6,2,Farhan Ahmad,male,EP,91
+4,6,2,Bhuvan K Prasad,male,AE,94
+4,6,2,Anghan Omkumar Dineshbhai,male,CL,89
+4,6,2,Paresh Kumar Sabar,male,CL,96
+4,6,2,Vivek Meena,male,CE,96
+4,6,3,Rohit Sharma,male,MM,81
+4,6,3,Devanshu Jha,male,EP,88
+4,6,3,Vinay Agrawal,male,EE,98
+4,6,3,Anuj Yadav,male,ES,90
+4,6,3,Deepraj Singh Kasherwal,male,MM,61
+4,6,3,Komarapu Vivek Vardhan,male,CS,73
+4,6,4,Tadikonda Sreeavyay,male,EE,71
+4,6,4,Aadish Jain,male,CE,84
+4,6,4,Kush Dewangan,male,EC,93
+4,6,4,Ayush Jaiswal,male,CL,70
+4,6,4,Ms. Aarya Rajani Krishna,female,EE,98
+4,6,4,Shaashvat Sekhar,male,EE,92
+5,1,1,Ms. Runjhun Brijesh Shah,female,EN,99
+5,1,1,Ms. Urvi Lohana,female,AE,89
+5,1,1,Ms. Aarya Sanjay Kokate,female,EE,90
+5,1,1,Devesh Rawat,male,CE,83
+5,1,1,Cris Chudasama,male,AE,93
+5,1,1,Bharat Arora,male,MM,99
+5,1,2,Udit Sarkar,male,CS,99
+5,1,2,Ms. Prarthana Mittal,female,CE,97
+5,1,2,Ainsley Fernandes,male,AE,80
+5,1,2,Menda V Venkata Harsha Vardhan,male,CS,86
+5,1,2,Ms. Gowdu Charishma,female,CS,86
+5,1,2,Pathulothu Ranga,male,MM,91
+5,1,3,Jay Choudhary,male,EE,80
+5,1,3,Pranjal Patel,male,EE,99
+5,1,3,Shreyas Neeralagi,male,EE,100
+5,1,3,Ms. Minal Bhojasia,female,CL,92
+5,1,3,Ritwik Raghav,male,CH,58
+5,1,3,Adwait Shelke,male,ME,99
+5,1,4,Deshank Pratap Singh,male,CS,92
+5,1,4,Vrushabh Patil,male,AE,95
+5,1,4,Shubham Kumar,male,CL,75
+5,1,4,Pratyaksh Bhardwaj,male,MM,98
+5,1,4,Ms. Kandalkar Yashashree Dilip,female,AE,58
+5,1,4,Vivaan Vimal Jain,male,CE,96
+5,2,1,Shreyas Venkata Ramanan,male,EP,98
+5,2,1,Ms. Bhadrecha Ritika Mohan,female,CE,76
+5,2,1,Sonawane Ganesh Pandurang,male,EN,92
+5,2,1,Naidu Anish Venkata Balaji,male,ME,96
+5,2,1,Kavi Aryamaan Anand,male,EN,98
+5,2,1,Santhosh Kumar B,male,EE,85
+5,2,2,Varun Rajesh Inamdar,male,ME,94
+5,2,2,Milin Agrawal,male,EE,75
+5,2,2,Arijit Paul,male,EE,98
+5,2,2,Arjun Singh,male,EE,99
+5,2,2,Ms. Vara Nishma,female,EN,87
+5,2,2,Ms. Agrima Wrat,female,CL,98
+5,2,3,Pitta Abhinay Kumar,male,MM,86
+5,2,3,Vinamra Patil,male,CE,99
+5,2,3,Raunak Ghosh,male,ME,90
+5,2,3,Sidharth Pramod C,male,MM,84
+5,2,3,Devesh Prajapat,male,CH,59
+5,2,3,Rishith Gupta,male,EE,76
+5,2,4,Ms. Harshita Kumar,female,CE,67
+5,2,4,Om Sachin Inamdar,male,ME,76
+5,2,4,Kuljot Singh Bakshi,male,ES,79
+5,2,4,Soyal Khan,male,CE,96
+5,2,4,Ankit Rewar,male,ME,78
+5,2,4,Adarsh John,male,EP,98
+5,3,1,Mradul Kaushal,male,EE,97
+5,3,1,Sangam Prithvi Chakravarthy,male,EE,96
+5,3,1,Hiray Vineet Dhananjay,male,ME,83
+5,3,1,Suketu Parag Patni,male,EE,100
+5,3,1,Ms. Vadde Shanvitha Reddy,female,CS,99
+5,3,1,Bikkina Abhinav Chowdary,male,CS,74
+5,3,2,Parv Rajesh Jain,male,ME,65
+5,3,2,Aditya Sinha,male,ME,84
+5,3,2,Nikhil Kumar,male,CL,74
+5,3,2,Sanit Jethwani,male,ME,98
+5,3,2,Manav Bhatt,male,ES,99
+5,3,2,Tanmoy Das,male,CL,98
+5,3,3,Pranav Goldar,male,ME,82
+5,3,3,Tejas Baid,male,ME,99
+5,3,3,Yash Choudhary,male,EC,86
+5,3,3,Ms. Bhumi Bramhanand Ghadage,female,CE,79
+5,3,3,Darshan Avinash Sonawane,male,EN,91
+5,3,3,Kanishk Sehra,male,CE,72
+5,3,4,Ms. Tanushree Singh,female,ME,86
+5,3,4,Chaitanya Suryan,male,CE,89
+5,3,4,Bhimanpalli Arvind Mohan,male,AE,87
+5,3,4,Aniket Kumar Agarwal,male,CL,94
+5,3,4,Prakhar Jain,male,CS,90
+5,3,4,Ms. Shreshtha Agarwal,female,ME,99
+5,3,5,Ms. Dipti Meshram,female,AE,100
+5,3,5,Ms. Anjali Jangid,female,CE,96
+5,3,5,Manav Parmar,male,MM,65
+5,3,5,Ms. Suhani Shah,female,MM,86
+5,3,5,Ms. Nakka Mahathi,female,CS,81
+5,3,5,Sarthak Dattatray Hase,male,CL,95
+5,4,1,Yuvraj Gupta,male,CS,53
+5,4,1,Rahul Lalmohan Singh,male,AE,87
+5,4,1,Boddeda Saravan Kumar,male,EE,96
+5,4,1,Ms. Khushi Sharma,female,ME,95
+5,4,1,Lakshya Mehar,male,EE,96
+5,4,1,Rakshit Swami,male,EP,92
+5,4,2,Ms. Krupa Guruprasad Pai,female,AE,81
+5,4,2,Chinthaparthi Babu Sujan Reddy,male,CS,86
+5,4,2,Anshu Mishra,male,EE,95
+5,4,2,Ms. Khushi Garg,female,AE,90
+5,4,2,Neel Meena,male,MM,95
+5,4,2,Bhavishya Gupta,male,CL,97
+5,4,3,Patel Karan Hareshkumar,male,CE,97
+5,4,3,Amit Bhartiya,male,EC,85
+5,4,3,Jadhav Raju,male,EE,91
+5,4,3,Ms. Kondepati Satvika Lily Grace,female,MM,96
+5,4,3,Tushar Bajaj,male,ME,53
+5,4,3,Jwngsar Baro,male,ES,92
+5,4,4,Patel Chaitanya Divyesh,male,AE,76
+5,4,4,Visvakrt Kodanda Ram,male,MM,99
+5,4,4,Gyanendra,male,CL,99
+5,4,4,Prerak Patidar,male,EN,68
+5,4,4,Ms. Maldode Sneha Prabhakar,female,CE,99
+5,4,4,Ms. Bhawna Meena,female,EP,96
+5,4,5,Aditya Arjun Jungade,male,EE,91
+5,4,5,Awatade Ayush,male,MM,76
+5,4,5,Tiyash Dutta,male,EN,55
+5,4,5,Ms. Mehak,female,ES,86
+5,4,5,Rohit Parmar,male,CL,79
+5,4,5,Achintya Jha,male,ES,81
+5,5,1,Lavudi Shiva Balaji,male,AE,96
+5,5,1,Ms. Aarushi Nirav Shah,female,EC,79
+5,5,1,Ms. Mudrika Gupta,female,CE,96
+5,5,1,Abhinav Kumar,male,CL,94
+5,5,1,Amrit Kumar Meena,male,MM,87
+5,5,1,Banoth Tharun Tej,male,CS,97
+5,5,2,Aryan,male,EN,99
+5,5,2,Rathva Keyurkumar,male,CE,93
+5,5,2,Aadit Amod Sule,male,ES,70
+5,5,2,Soumik Sahoo,male,EP,80
+5,5,2,Pratyush Rankawat,male,EC,94
+5,5,2,Vaibhav Singh,male,CS,72
+5,5,2,Ms. Yenuganti Vamsi Triveni,female,ME,93
+5,5,3,Yash Pawar,male,EP,77
+5,5,3,Sudhindra Sahoo,male,EE,93
+5,5,3,Arnav Gupta,male,ES,96
+5,5,3,Ms. Mahima Sahu,female,ME,96
+5,5,3,Alok Ashok Kale,male,ES,91
+5,5,3,Natraj Thounty,male,ME,88
+5,5,3,Yuvraj Singh Lodhi,male,CE,96
+5,5,4,Shiv Narang,male,CS,94
+5,5,4,Agrim Jain,male,CL,90
+5,5,4,Kollapudi Jithin,male,EE,89
+5,5,4,Dinesh Methre,male,EE,83
+5,5,4,Shinde Rushikesh Bhagwan,male,EN,92
+5,5,4,Haresh Gupta,male,CS,87
+5,5,4,Devansh Sridhar,male,EE,66
+5,6,1,Aryan Badkul,male,CE,92
+5,6,1,Yogendra Shankar Anand,male,CE,57
+5,6,1,Ms. Samruddhi Santoshkumar Kulkarni,female,EP,99
+5,6,1,Avhad Vaibhav Santosh,male,MM,99
+5,6,1,Arth Agrawal,male,EN,86
+5,6,1,Aditya Kumar Agarwal,male,ME,80
+5,6,2,Ms. Sreesti Sahoo,female,EE,96
+5,6,2,Ujjwal Bindal,male,EP,74
+5,6,2,Diggaj Maheshwari,male,CL,86
+5,6,2,Arijit Chatterjee,male,MM,88
+5,6,2,Podduturi Snehith Reddy,male,CE,65
+5,6,2,Rahul Sharma,male,MM,81
+5,6,3,Shinde Anand,male,CE,97
+5,6,3,Anwesh Das,male,AE,94
+5,6,3,Devansh Yadav,male,EN,92
+5,6,3,Netram,male,CL,100
+5,6,3,Atharv Maheshwari,male,EP,92
+5,6,3,Ms. Mudavath Sindhu,female,CE,99
+5,6,4,Ms. Trupti Lande,female,CL,88
+5,6,4,Ankit Gond,male,CL,89
+5,6,4,Tushar Kumar,male,MM,89
+5,6,4,Affaan Ali Fakih,male,EE,92
+5,6,4,Mridul Sharma,male,CL,94
+5,6,4,Arham Biren Shah,male,ME,94
+5,6,5,Bathula Rithvik,male,CS,94
+5,6,5,Ms. Anshika Tripathi,female,CE,94
+5,6,5,Yash Pant,male,CL,80
+5,6,5,Ms. Bhakti Bansal,female,ME,76
+5,6,5,Adeep Sidharth Sinai Kuncalienker,male,ME,96
+5,6,5,Tank Param Dashrathbhai,male,ME,88
+6,1,1,Shikhar Rathi,male,CL,100
+6,1,1,Ms. Inampudi Harshitha,female,CS,96
+6,1,1,Ms. Matti Gokula Sahithi,female,ME,94
+6,1,1,Nandipati Sai Durga Reddy,male,CS,87
+6,1,1,Raghav Goyal,male,CS,98
+6,1,1,Ms. Anum Siddiqui,female,EE,94
+6,1,2,Renudhruva S,male,CL,92
+6,1,2,Vedant Bhardwaj,male,AE,84
+6,1,2,Gokulram Ramachandran,male,EP,96
+6,1,2,Markhale Shubham Suryakant,male,CL,96
+6,1,2,Dependar Arya,male,CL,79
+6,1,2,Krishna Kalpeshkumar Bhatt,male,AE,95
+6,1,3,Ms. Ms Gayatri Sahu,female,CE,70
+6,1,3,Mohd Suzaib Alam,male,EC,86
+6,1,3,Manepalli Revanth,male,EE,90
+6,1,3,Ishan Jain,male,EE,91
+6,1,3,Ms. Kashyapi Mahajan,female,EE,98
+6,1,3,Siddharth Kumar Khanda,male,CE,96
+6,1,4,Bangi Karthikesh,male,CE,81
+6,1,4,Ms. Kinnera Sai Sharanya,female,CH,98
+6,1,4,Aditya Anand,male,CE,76
+6,1,4,Kontham Sri Harsha,male,EE,79
+6,1,4,Ms. Subhi D,female,MM,91
+6,1,4,Sumit Yadav,male,CE,90
+6,2,1,Ms. Putta Sravika Sree,female,CE,50
+6,2,1,Ms. Vanshika Bansal,female,ME,95
+6,2,1,Arnav Akshaya Bhate,male,EE,86
+6,2,1,Matam Kushaal,male,EE,88
+6,2,1,Akshat Sharma,male,CL,79
+6,2,1,Kabir S Prakash,male,CS,86
+6,2,2,Vishwat Dubey,male,CE,96
+6,2,2,Ms. Bhumi Barkur,female,MM,68
+6,2,2,Atahar Alam,male,MM,95
+6,2,2,Piyush Tailor,male,ME,81
+6,2,2,Yash Laxmikant Asore,male,ME,95
+6,2,2,Varun Chaudhary,male,EE,85
+6,2,3,Ms. Bhumi Jain,female,CL,95
+6,2,3,Lucky Meena,male,MM,93
+6,2,3,Pandhare Rohan Vijaykumar,male,ME,74
+6,2,3,Ms. Karri Ganga Dhana Sri,female,CS,89
+6,2,3,Rihan Ashraf,male,ME,85
+6,2,3,Akshit Mina,male,EC,98
+6,2,4,Ojas Anand Pathak,male,CL,96
+6,2,4,Ms. Sakshi Naresh Kanal,female,CE,63
+6,2,4,Kadam Gaurav Kailas,male,CL,84
+6,2,4,Dharavath Manoj,male,CL,65
+6,2,4,Prabhat Kumar,male,CE,95
+6,2,4,Patil Ishan Pandurang,male,ME,100
+6,2,5,Rishi Kalra,male,CS,81
+6,2,5,Husain Batterywala,male,CL,82
+6,2,5,Ankit Bagariya,male,EE,91
+6,2,5,Garvit Yadav,male,EE,81
+6,2,5,Devang Tibrewal,male,CS,88
+6,2,5,Naitik Kumar Agrawal,male,CL,97
+6,3,1,Jatin Meena,male,EN,96
+6,3,1,Vedant Umesh Bagde,male,EN,82
+6,3,1,C S Pruthveesh,male,ME,97
+6,3,1,Anuj Tiwari,male,EN,77
+6,3,1,Ms. Ananya Latchupatula,female,CS,69
+6,3,1,Sameer Chopra,male,ES,97
+6,3,2,Gursale Soham Prakash,male,CL,92
+6,3,2,Ms. D K Mithra,female,ME,58
+6,3,2,Ms. Avani Hasmukh Gala,female,MM,77
+6,3,2,Uddeshya Lodhi,male,CE,84
+6,3,2,Dheeraj Kumar,male,AE,83
+6,3,2,Tarun Rawat,male,EC,49
+6,3,2,Krish Gupta,male,CS,88
+6,3,3,Anvit Navin Khade,male,EP,59
+6,3,3,Shreejit Ugale,male,CE,78
+6,3,3,Prajapati Tanmay Rameshbhai,male,AE,84
+6,3,3,Lakshaditya Singh,male,ME,81
+6,3,3,Aarav Jitendra Rangwani,male,ES,97
+6,3,3,Arvind Singh,male,CE,88
+6,3,3,Rushikesh Vishal Mahajan,male,EE,99
+6,3,4,Veeresh S Kambalyal,male,EE,85
+6,3,4,Diwesh Mallick,male,AE,90
+6,3,4,Devarsh Kaushal Mehta,male,ME,92
+6,3,4,Abhishek Ahirwar,male,CL,87
+6,3,4,Ms. Neha,female,EP,74
+6,3,4,V S Vishnu,male,EE,85
+6,3,4,Omprakash Pramod Chaturvedi,male,CE,75
+6,4,1,Abhishek Kumar,male,ME,79
+6,4,1,Suthar Harshul Sanjaybhai,male,CS,51
+6,4,1,Param Mehta,male,MM,92
+6,4,1,Mehul Borad,male,CS,89
+6,4,1,Sumedh S S,male,CS,73
+6,4,1,Merchant Dhruvraj Vijaykumar,male,CS,68
+6,4,2,Yaman Singh,male,ME,94
+6,4,2,Arpit Vikram Prajapati,male,CL,91
+6,4,2,Mridul Mantri,male,EE,94
+6,4,2,Ms. Neha Kanwadiya,female,EP,78
+6,4,2,Konda Puspa Kumar Reddy,male,CS,67
+6,4,2,Athav Vantan B,male,EE,45
+6,4,3,Rathod Jay,male,EE,89
+6,4,3,Sahil Sanjay Wani,male,EE,93
+6,4,3,Udit Agrawal,male,CE,100
+6,4,3,Ms. Sneha Shandilya,female,CL,94
+6,4,3,Udit Kumar,male,CE,95
+6,4,3,Ms. Khushi,female,ME,59
+6,4,4,Manish Kumar Palsaniya,male,EE,94
+6,4,4,Vansh Satish Bansal,male,EE,98
+6,4,4,Ms. Khushi Taxak,female,EE,98
+6,4,4,Arush Vivaswan Poddar,male,MM,99
+6,4,4,Ms. Palak Vishwakarma,female,CE,98
+6,4,4,Dhruv Vashistha,male,AE,79
+6,5,1,Akshat,male,ES,97
+6,5,1,Palwe Yash Subhash,male,EP,93
+6,5,1,Ms. Riyanshi Pal,female,EN,78
+6,5,1,Malay Kedia,male,CS,88
+6,5,1,Kumbhar Digvijay Dagadu,male,EE,91
+6,5,1,Armogan Shahab,male,ME,92
+6,5,2,Patil Ved Vijay,male,EE,98
+6,5,2,Ms. Ambika Soni,female,AE,94
+6,5,2,Aadish Vora,male,ME,90
+6,5,2,Advait Vivek Bhedasgaonkar,male,CL,77
+6,5,2,Ms. Gaikwad Arya,female,ES,81
+6,5,2,Manish Shaw,male,EC,95
+6,5,3,Yougank Kumar,male,CS,93
+6,5,3,Onkar Bhagvan Sathe Patil,male,CE,99
+6,5,3,Ms. Oruganti Kaavya Rao,female,AE,99
+6,5,3,Mukund Alias Aryan Siddhesh Sinai Kakodkar,male,CL,72
+6,5,3,Ms. Tarushi Gupta,female,CL,78
+6,5,3,Ms. Sneha Mane,female,CL,100
+6,5,4,Johan Sam Biju,male,ME,79
+6,5,4,Parth Niket Dhruv,male,CE,71
+6,5,4,Mohammad Noorain Ansari,male,EE,98
+6,5,4,Ramesh Surya Theja,male,CS,90
+6,5,4,Kayande Aryan Anand,male,ME,97
+6,5,4,Pranav Munukutla,male,EE,96
+6,5,5,Lavudi Thushar,male,EE,99
+6,5,5,Ms. Pathi Nikitha,female,CS,78
+6,5,5,Kartikeya Shukla,male,CE,91
+6,5,5,Vinay Kathiriya,male,AE,90
+6,5,5,Itthagoni Sathwik Goud,male,CS,89
+6,5,5,Anish Rajendra Chakane,male,ME,95
+6,6,1,Manthan Goyal,male,CE,66
+6,6,1,Ms. Yashasvee Vijay Taiwade,female,ME,85
+6,6,1,Ms. Pratiksha,female,ME,95
+6,6,1,Ms. Gauri Mahajan,female,AE,89
+6,6,1,Aryan Prasad,male,ME,92
+6,6,1,Ms. Meesala Pranathi Sreeja,female,CS,67
+6,6,2,Shivam Singh Yadav,male,CS,47
+6,6,2,Ms. Mishkat Fatma,female,ME,83
+6,6,2,Aryan Mahajan,male,CS,67
+6,6,2,Dhruv Agarwal,male,CL,94
+6,6,2,Ms. Lopamudra Biswal,female,AE,70
+6,6,2,Ms. Swati Kumari,female,EE,63
+6,6,3,Bhagya Yogesh Agrawal,male,MM,95
+6,6,3,Akkapaka Karthik,male,EE,94
+6,6,3,Ms. Swati Pandey,female,CE,78
+6,6,3,Jayant Padmanabha Deshmukh,male,CL,77
+6,6,3,Merugu Vishnuvardhan,male,EN,95
+6,6,3,Hemang Dave,male,EE,90
+6,6,4,Abinesh A,male,MM,70
+6,6,4,Arnav Manish Narayane,male,CE,98
+6,6,4,Dunggam Gao,male,CE,100
+6,6,4,Killampalli Vara Srinivas,male,AE,78
+6,6,4,N.K.Vishwaajith,male,CS,99
+6,6,4,Nimbalkar Aditya Manohar,male,ME,100
+6,6,5,Punit Kumar,male,CS,100
+6,6,5,Kunsoth Chandrashen Nayak,male,CS,82
+6,6,5,Ayushmaan Dhanai,male,CL,58
+6,6,5,Patil Arvind Shamrao,male,CL,100
+6,6,5,Kaarmukilan B,male,EE,98
+6,6,5,Golekar Avdhoot Trimbak,male,AE,60
+7,1,1,Moulik Jindal,male,CS,77
+7,1,1,Mrunal Shrikant Vairagade,male,CS,55
+7,1,1,Harsh Mehta,male,MM,93
+7,1,1,Velamakanni Satwik,male,CS,98
+7,1,1,Ms. Himanshi Agrawal,female,EE,78
+7,1,1,Ved Prakash Singh Maravi,male,ES,86
+7,1,2,Divyansh Agrawal,male,ME,89
+7,1,2,Ms. Desai Twara Ujjwal,female,CE,98
+7,1,2,Ms. Bhatta Hemasree,female,CL,99
+7,1,2,Ms. Naik Sanskruti Raju,female,EE,69
+7,1,2,Harshil Amitkumar Solanki,male,CS,66
+7,1,2,Ms. Shivali Sandeep Pacharne,female,ME,57
+7,1,2,Joshi Ojas Rahul,male,EN,100
+7,1,3,Chinmayraj N P,male,ES,91
+7,1,3,Ms. Vedika Sandeep Sarode,female,CL,70
+7,1,3,Ms. Burri Gehna Chelvi,female,CS,100
+7,1,3,Nenavath Dheeraj Naik,male,EE,93
+7,1,3,Dev Arora,male,EE,82
+7,1,3,Ansh Goyal,male,CE,81
+7,1,3,Prashant Vashisht,male,ME,99
+7,1,4,Dinesh Sahu,male,MM,100
+7,1,4,Jana Sahil Vivek,male,MM,72
+7,1,4,Ratan Kokal,male,AE,71
+7,1,4,Kalla Lakshmi Surya,male,CS,78
+7,1,4,Ms. Priyam Raj,female,CE,96
+7,1,4,Krishang Singh,male,AE,84
+7,1,4,Ms. Anika Dorle,female,CE,86
+7,2,1,Sunil Kumar Meena,male,ME,85
+7,2,1,Prathmesh Mangesh Walimbe,male,CE,100
+7,2,1,Ms. Ahire Sara Parag,female,EP,94
+7,2,1,Ms. Vijaylaxmi Mahesh Maitri,female,ME,82
+7,2,1,Ayush Tayal,male,CL,89
+7,2,1,Mahanti Shashank Naidu,male,EP,79
+7,2,2,Ms. Shreya Tiwari,female,MM,87
+7,2,2,Tarachand,male,MM,88
+7,2,2,Yuvraj Verma,male,ME,78
+7,2,2,Shahab Ahmad,male,CE,94
+7,2,2,Joshi Rohan Harsh,male,ME,97
+7,2,2,Shubham Sharma,male,CL,94
+7,2,3,Harsh Chopra,male,MM,81
+7,2,3,Akshat Birla Kushwah,male,EP,58
+7,2,3,Ms. Aditi Singh,female,CS,94
+7,2,3,Vedant Ramesh Zanwar,male,ME,87
+7,2,3,Ruchir Yogesh Kulkarni,male,MM,99
+7,2,3,Yash Pankaj Baldawa,male,ME,92
+7,2,4,Sarthak Toshniwal,male,EE,96
+7,2,4,Vavilala Chidvilas Reddy,male,CS,93
+7,2,4,Ashwini Singh Tomar,male,EC,93
+7,2,4,Dipen Sojitra,male,CS,66
+7,2,4,Gokul M,male,CL,82
+7,2,4,Soumya Saha,male,CH,96
+7,2,5,Ark Vinodkumar Singh,male,MM,88
+7,2,5,Ms. Anjali Gurudatt Joshi,female,EE,80
+7,2,5,Rohit Kumar Meena,male,EE,59
+7,2,5,Yakkanti Pani Venkata Maneendhar Reddy,male,CS,90
+7,2,5,Atharv Jangale,male,ME,87
+7,2,5,Mihir Gajanan Wani,male,ME,96
+7,3,1,Baria Pragneshkumar,male,MM,100
+7,3,1,Krish Sachin Dedhia,male,CL,75
+7,3,1,Bolaj Soham Pradeep,male,MM,82
+7,3,1,Aminesh Gogia,male,EE,100
+7,3,1,Raghav Gupta,male,ES,96
+7,3,1,Animesh Jain,male,CH,99
+7,3,2,Mausam Madhesia,male,MM,75
+7,3,2,Ms. Dhruvi Deepak Desai,female,CE,88
+7,3,2,Priyanshu Sengar,male,ME,95
+7,3,2,Ms. Anvitaa Goel,female,CL,99
+7,3,2,Amogh Srivastav,male,EP,96
+7,3,2,Ms. Rupanshi Vijayvargiya,female,MM,52
+7,3,3,Vysyaraju Srikar Nihal,male,CS,68
+7,3,3,Sarthak Dhananjay Thakare,male,CS,91
+7,3,3,Rajdeep Paul,male,AE,90
+7,3,3,Kshitij Pravin Malve,male,AE,98
+7,3,3,Ms. Neha Kant,female,EE,91
+7,3,3,Dharmander Mina,male,EE,64
+7,3,4,Deepanshu Mandawat,male,EE,65
+7,3,4,Anurag Etarvi,male,CL,96
+7,3,4,Krishna Gilda,male,ME,75
+7,3,4,Bondala Somanath Vasanth Yadav,male,CS,90
+7,3,4,Ms. Jaya Meena,female,CL,82
+7,3,4,Guduru Adarsh,male,CS,83
+7,4,1,Samridh Tiwari,male,EP,92
+7,4,1,Neel Tushar Shah,male,ES,75
+7,4,1,Aman Raj,male,CL,90
+7,4,1,Aniket Gupta,male,EE,94
+7,4,1,Sivakrishna Sasi,male,ME,69
+7,4,1,Ms. Konda Sri Vyshnavi,female,EE,98
+7,4,2,Aditya Khandegar,male,CL,93
+7,4,2,Goru Gokul,male,EE,65
+7,4,2,Siddharth Subhash Tayade,male,CE,68
+7,4,2,Jagdish Sajeesh,male,AE,99
+7,4,2,Shivam Gupta,male,ME,90
+7,4,2,Ms. Barpati Spoorthi Sree,female,MM,72
+7,4,3,Ms. Aditi Sharma,female,ES,96
+7,4,3,Kushagra Gupta,male,EE,86
+7,4,3,Aditya Rana,male,CL,96
+7,4,3,Shivam Nitin Shaligram,male,EN,82
+7,4,3,Ms. Akepati Sriya,female,CS,97
+7,4,3,Hitesh Meena,male,EE,78
+7,4,4,Anasmit Mitra,male,MM,81
+7,4,4,Aghera Param Jagdish,male,CL,98
+7,4,4,Abhinav Gupta,male,ES,64
+7,4,4,Ms. Palaparthi Venkata Naga Sai Sri Varshini,female,CL,50
+7,4,4,Omshiva Balraaj Kotkar,male,EC,71
+7,4,4,Adarsh,male,CE,91
+7,4,5,Khushahal Varhat,male,CE,99
+7,4,5,Rachit Kumar,male,CL,84
+7,4,5,Kunsh Krishna Nyati,male,ME,82
+7,4,5,Kawade Pranav Pratap,male,CL,72
+7,4,5,Deepak Kumar,male,EE,87
+7,4,5,Kartik Daga,male,EE,89
+7,5,1,Domala Shiva Prasad,male,ME,91
+7,5,1,Tanishq Sahaj,male,ME,100
+7,5,1,Ms. Kadam Manasvi Ujjan,female,EE,93
+7,5,1,Tushar Singha Roy,male,EE,88
+7,5,1,Jawale Sarang Sandip,male,EC,100
+7,5,1,Yashit Kumar,male,ME,95
+7,5,2,Rajat Das,male,CS,97
+7,5,2,Shivtej Sanjay Ghatage,male,EE,90
+7,5,2,Ashish Ranjan,male,ME,87
+7,5,2,Mayank Mudgal,male,EE,90
+7,5,2,Saud Ahmed Quadri,male,EN,97
+7,5,2,Vaghasiya Dhruvam Bharatbhai,male,MM,100
+7,5,3,Shubh Tangri,male,EE,96
+7,5,3,Pritam Halder,male,CE,100
+7,5,3,Ms. Nayakanti Naga Bhavya Sree,female,CS,45
+7,5,3,Sandeep Reddy Nallamilli,male,CS,91
+7,5,3,Ms. Chandreyee Sarkar,female,ME,75
+7,5,3,Ms. Muskan,female,ME,99
+7,5,4,Ms. Savaram Moony,female,EE,92
+7,5,4,Jash Vismay Dalal,male,EN,75
+7,5,4,Arjoe Basak,male,EE,96
+7,5,4,Shashwat Parmeshwar Tripathi,male,ME,77
+7,5,4,Ms. Chandni Minz,female,MM,94
+7,5,4,Padimini Vamsodhar,male,EE,98
+7,5,5,Ms. Priyamvada,female,MM,93
+7,5,5,Todkar Roshan Sudhakar,male,ME,100
+7,5,5,Prathamesh Mahendra Bende,male,CL,79
+7,5,5,Sanghavi Prabhav Dharmendrabhai,male,CL,100
+7,5,5,Ms. Chenna Sreeja,female,EP,97
+7,5,5,Sarvagya Jain,male,CH,86
+7,6,1,Nunase Om Shailesh,male,AE,86
+7,6,1,Advay Bapat,male,EE,93
+7,6,1,Vidit Jain,male,MM,66
+7,6,1,Parmar Henil Nageshkumar,male,AE,88
+7,6,1,Shourya Goyal,male,CE,81
+7,6,1,Ms. Amboji M Hasita Chakravarthy,female,EE,22
+7,6,2,Bharat Gupta,male,ME,53
+7,6,2,Atharav Sonawane,male,MM,84
+7,6,2,Ms. Riya Agrawal,female,CE,99
+7,6,2,Ms. Maradana Anusri,female,CS,84
+7,6,2,Tanishq Mahesh Mandhane,male,CS,100
+7,6,2,Aryan Nagpal,male,EP,72
+7,6,3,N Deepan Balaji,male,EE,100
+7,6,3,Arya Sameer Joshi,male,EP,100
+7,6,3,Ayush Ashish Kumar,male,ME,74
+7,6,3,Devraj Meena,male,CE,93
+7,6,3,Siddharth Mungee,male,CE,52
+7,6,3,Gagandeep,male,EN,98
+7,6,4,Paras Banshkar,male,MM,100
+7,6,4,M Siddharth,male,MM,97
+7,6,4,Ms. Khushi Yadav,female,CL,67
+7,6,4,Abhineet Majety,male,CS,64
+7,6,4,Gursheel Singh,male,CE,98
+7,6,4,Jainendrajeet,male,CS,100
+8,1,1,Saksham Jain,male,CS,95
+8,1,1,Dikshit Singla,male,EE,84
+8,1,1,Shimpi Mangesh Prashant,male,MM,87
+8,1,1,Arijit Mandal,male,CS,86
+8,1,1,Arush Narayan Srivastav,male,CH,84
+8,1,1,Ms. Kanak P Tembhare,female,MM,95
+8,1,2,Wagh Tanishq Abhishek,male,EN,81
+8,1,2,Moinam Paul,male,EE,83
+8,1,2,Ms. Vidhi Tejas Morzaria,female,MM,79
+8,1,2,Ms. Chhavi Yadav,female,EE,90
+8,1,2,Arnav Ritesh Jayswal,male,CL,66
+8,1,2,Jogdande Shreyas Santosh,male,MM,91
+8,1,3,Ms. Poorvi Bansal,female,CL,79
+8,1,3,Mayank Tatwade,male,ME,99
+8,1,3,Atharv Sandeep Roday,male,EC,98
+8,1,3,Sharath Kumar MD,male,ME,89
+8,1,3,Murudkar Soham Sameer,male,ME,56
+8,1,3,Vaibhav Semwal,male,EE,100
+8,1,3,Doke Mohit,male,MM,79
+8,1,4,Navya Garg,male,CS,71
+8,1,4,Ms. Sambireddy Nikhila Reddy,female,CH,84
+8,1,4,Ms. Mandakini Dalwee,female,CL,84
+8,1,4,Devasish Behera,male,ME,85
+8,1,4,Veer Vishal Lohia,male,MM,91
+8,1,4,Dawar Jyoti Deka,male,AE,87
+8,1,4,Chavan Soyam Sunil,male,ME,87
+8,2,1,Taru Sumedh Raju,male,MM,100
+8,2,1,Mohith H,male,CL,99
+8,2,1,Aditya Bhardwaj,male,CH,100
+8,2,1,Ms. Purvi Rathore,female,ME,94
+8,2,1,Ujwal L Shankar,male,CS,94
+8,2,1,Dhruv Sanjay Jain,male,CS,92
+8,2,2,Priyanshu Sharma,male,CE,88
+8,2,2,Ms. Nehal Gupta,female,CE,55
+8,2,2,Ms. Diksha Tembhurne,female,ME,94
+8,2,2,Allam Sujay,male,CS,99
+8,2,2,Talwalkar Prajwal Yashwant,male,MM,98
+8,2,2,Ms. Diya Sharma,female,CE,89
+8,2,3,Hemant Singh,male,ME,87
+8,2,3,Ms. Deshmukh Vaishnavi Ishwar,female,ME,83
+8,2,3,Mukund Raj,male,ES,73
+8,2,3,Akshit Kumar,male,CS,88
+8,2,3,Bhavya Bansal,male,CS,99
+8,2,3,Ms. Bhumi Sharma,female,CE,94
+8,2,4,Piyush Jain,male,CL,87
+8,2,4,Darsh Prakash Patel,male,EE,94
+8,2,4,Soma Harsha Nagamani Vardhan,male,EE,94
+8,2,4,Aaditya Shah,male,EC,91
+8,2,4,Sanidhya Katiyar,male,ME,65
+8,2,4,Parvesh Meena,male,AE,89
+8,2,5,Ashwin Sandeep Mankar,male,CE,100
+8,2,5,Varun Surendra Chandak,male,MM,94
+8,2,5,Pothina Madhav,male,CS,77
+8,2,5,Vanguri Eshwar,male,CS,98
+8,2,5,Ms. Shreya Nigam,female,EE,67
+8,2,5,Yash Krunal Shah,male,CL,92
+8,3,1,Kabeer Prashant Pawar,male,EE,78
+8,3,1,Veeraditya Karan Parakh,male,EN,97
+8,3,1,Tanish Sahu,male,EP,94
+8,3,1,Ms. Riddhi Gupta,female,EE,94
+8,3,1,Mandavyapuram Jaswin Reddy,male,EE,87
+8,3,1,Sabarish S,male,ME,92
+8,3,2,Aditya Udeniya,male,ME,68
+8,3,2,Kale Chinmay Jagdish,male,EP,97
+8,3,2,Manan Mehta,male,CL,66
+8,3,2,Arit Misra,male,CE,98
+8,3,2,Ayush Lonakadi,male,ME,78
+8,3,2,Jay Shah,male,CL,95
+8,3,3,Pondkule Viraj Vinayak,male,ME,93
+8,3,3,Aditya Shukla,male,MM,69
+8,3,3,Harshit Sahu,male,EN,93
+8,3,3,Mohammad Yusuf,male,MM,77
+8,3,3,Haris Narrendran R,male,EP,97
+8,3,3,Ashish Singh,male,MM,89
+8,3,4,Ms. Penumatsa Mahitha,female,ME,83
+8,3,4,Hridayesh Sahu,male,CH,100
+8,3,4,Ms. Kanika Sharma,female,ME,98
+8,3,4,Ms. S Shruti Tejasvi,female,EN,97
+8,3,4,Ojas Somani,male,ES,86
+8,3,4,Chirag Gautam,male,CS,91
+8,3,5,Aditya Ojha,male,EN,98
+8,3,5,Ms. Sonal Kumari,female,CS,87
+8,3,5,Mohit,male,ME,79
+8,3,5,Aditya,male,CE,72
+8,3,5,Chandresh Thakur,male,ME,86
+8,3,5,Raj Solanki,male,CH,83
+8,4,1,Chhotu Singh,male,ME,100
+8,4,1,Ms. Anousha Puvvala,female,ME,83
+8,4,1,Ms. Paridhi Mittal,female,CL,87
+8,4,1,Sidhdant Kamble,male,EP,89
+8,4,1,Aayush Sharad Wagh,male,ES,100
+8,4,1,Konda Venkata Srivatchav,male,AE,91
+8,4,2,Shaileshram Sivakumar,male,EE,72
+8,4,2,Satyavrat Bajpai,male,EN,79
+8,4,2,Regidi Dinesh,male,AE,99
+8,4,2,Abhinav Bhooshan Asia,male,CL,78
+8,4,2,Sahaj Jitendrabhai Kavathiya,male,ME,58
+8,4,2,Ashok Kumar,male,CE,87
+8,4,3,Ms. Tapase Aditi Maniklal,female,CS,81
+8,4,3,Krishna Gahlod,male,CL,73
+8,4,3,Krishna Kanta Mondal,male,CE,61
+8,4,3,Karedla Balaji,male,CS,92
+8,4,3,Harsh Kumar Singh,male,MM,70
+8,4,3,Arjun Pradeep Andhare,male,MM,84
+8,4,4,Mohammad Hasaan Naurez,male,CL,66
+8,4,4,Pendela Harshith,male,EE,88
+8,4,4,Priyarajsinh Jhala,male,EE,74
+8,4,4,Suryangshu Das,male,MM,68
+8,4,4,Rishab N Jain,male,MM,94
+8,4,4,Mishit Sharma,male,ME,65
+8,4,5,Ishan Yadu,male,ES,90
+8,4,5,Arash Dev Ahlawat,male,EP,87
+8,4,5,Adi Gupta,male,EE,99
+8,4,5,Ms. Devanshi Khandelwal,female,ES,91
+8,4,5,Pendurthi Nischal Subhash,male,CS,94
+8,4,5,Sunil,male,MM,99
+8,5,1,Priyanshu Kumar,male,CS,90
+8,5,1,Ms. Vankudoth Bhanu Prasanna,female,EE,69
+8,5,1,Hrishikesh Lal Baishya,male,CE,100
+8,5,1,Shresth Keshari,male,ME,98
+8,5,1,Divig Bansal,male,EE,86
+8,5,1,Atharva Milind Patil,male,ES,89
+8,5,2,Atharva Gajbe,male,CH,90
+8,5,2,Dumpala Paneendra Nadha Reddy,male,CS,69
+8,5,2,Ms. Astha Tomar,female,CH,57
+8,5,2,Harpreet Singh,male,MM,85
+8,5,2,Sujal Kumar Sahoo,male,CL,97
+8,5,2,Dev Joshi,male,CE,98
+8,5,3,Parv Seth,male,CE,95
+8,5,3,Ms. Kota Tejasri,female,EN,89
+8,5,3,Aryan Chaudhary,male,CL,93
+8,5,3,Padiya Kartik Gopal,male,MM,87
+8,5,3,Aryan Sahu,male,EN,99
+8,5,3,Prasham Satra,male,EE,87
+8,5,4,Ms. Yaragani Akshara,female,EE,97
+8,5,4,Gugulothu Pradyumna,male,CL,66
+8,5,4,Dudigani Lathik Abhinay,male,CS,86
+8,5,4,Ms. Dhara Prafulla Rangari,female,CL,87
+8,5,4,Parth Eknath Mahajan,male,EE,98
+8,5,4,Jadav Rajendra Kishanbhai,male,AE,77
+8,5,5,Ms. Peela Teja Sri,female,CS,82
+8,5,5,Achintya Aravind Rai,male,AE,99
+8,5,5,Yajat Sharma,male,CL,99
+8,5,5,Rahul Ravi,male,CE,98
+8,5,5,Rahul Kumar,male,EE,84
+8,5,5,Lavudya Yashwanth,male,CE,78
+8,6,1,Sahil Ravindra Patil,male,AE,100
+8,6,1,Tanuj Kumawat,male,EE,98
+8,6,1,Saumya Mehta,male,ME,79
+8,6,1,Kush Agrawal,male,EE,97
+8,6,1,Ms. Patil Bhakti Santosh,female,EE,94
+8,6,1,Vedant Vyankatesh Deshpande,male,MM,87
+8,6,2,Deepak Soni,male,ME,98
+8,6,2,Samartha Maheshwari,male,CE,66
+8,6,2,Asil,male,EP,85
+8,6,2,Ms. Jahnvi Sharma,female,EE,85
+8,6,2,Dasari Saketh Naidu,male,CS,92
+8,6,2,Nikhil Upadhyay,male,CE,80
+8,6,3,Prince Kumar,male,EC,89
+8,6,3,Tamas Sankar Saha,male,CE,100
+8,6,3,Daksh Jain,male,MM,92
+8,6,3,Yash Singh,male,CS,100
+8,6,3,Samarla Tharun,male,CH,91
+8,6,3,Shreeram Anil Jadhav,male,AE,100
+8,6,4,Mayuresh Uday Kathe,male,AE,88
+8,6,4,Uday Gajanan Darade,male,CS,93
+8,6,4,Yash Krishnani,male,EE,74
+8,6,4,Ms. Hase Tanisha Shantaram,female,EE,83
+8,6,4,Udtyavath Sai Likhith,male,CS,99
+8,6,4,Ms. Niharika,female,CE,95

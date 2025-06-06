@@ -10,6 +10,7 @@ from utils import Group, Project, variableContainer
 def groupAllocator(project: Project, groupSize: int) -> List[Group]:
         model = project._model
         numberOfStudents = len(project.students)
+        print(numberOfStudents)
         numberOfGroups = numberOfStudents// groupSize
         minNumberOfFemaleStudents = 1  # Assuming at least 1, can be adjusted later
         
@@ -22,7 +23,7 @@ def groupAllocator(project: Project, groupSize: int) -> List[Group]:
         for groupId, alphas in enumerate(transpose):
              groupContainers.append(variableContainer(alphas,groupId))
 
-
+        # print(groupSize)
         for group in groupContainers: #this group is of type variableContainer, dont confuse it with 'Group' class
             model.add(group.numberOfStudents() >= groupSize)
            
@@ -43,7 +44,13 @@ def groupAllocator(project: Project, groupSize: int) -> List[Group]:
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi <= abs_cpi[groupId])
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi >= -1*abs_cpi[groupId])
         
-        model.minimize(sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi))
+        groupsize_booleans=[]
+        for groupId,group in enumerate(groupContainers):
+            groupsize_booleans.append(model.new_bool_var(f'groupsize_isperfect_{groupId}'))
+            model.add(group.numberOfStudents()==groupSize).only_enforce_if(groupsize_booleans[-1])
+        # print(sum(groupsize_booleans))
+        model.maximize(sum(groupsize_booleans)) #We also want to maximise the number of groups which have size==groupSize
+        # model.minimize(sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi)) 
         
         solver = cp_model.CpSolver()
         status = solver.solve(model)

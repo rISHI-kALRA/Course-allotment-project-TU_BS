@@ -22,9 +22,20 @@ def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
              projectContainers.append(variableContainer(alphas,projectId))
         
         for project in projectContainers: #this project is of type variableContainer, dont confuse it with 'Project' class
-            model.add(project.numberOfStudents() >= numberOfStudents//numberOfProjects)
-            model.add(project.numberOfStudents() <= (numberOfStudents+numberOfProjects-1)//numberOfProjects)  #check, this restriction of only allowing +1 range might fail to have a mathematical solution 
-      
+            model.add(project.numberOfStudents() >= 6*((numberOfStudents//numberOfProjects)//6))
+            model.add(project.numberOfStudents() <= 6*((numberOfStudents//numberOfProjects)//6)+6)  #check, this restriction of only allowing +1 range might fail to have a mathematical solution 
+
+        projectsize_bools =[] #these represent whether project size is multiple of 6 or not
+        for projectId, project in enumerate(projectContainers):
+            projectsize_bools.append(model.new_bool_var(f'6multiple_{projectId}'))
+
+            projectsize = model.new_int_var(0,200,f'projectCardinality_{projectId}') #integer version of the boolean sum: project.numOfStudents() so as to use for modulo
+            model.add(projectsize==project.numberOfStudents())
+            projectsize_remainder = model.new_int_var(0,10,f'remainder_{projectId}')
+            model.add_modulo_equality(projectsize_remainder,projectsize,6)
+
+            model.add(projectsize_remainder==0).only_enforce_if(projectsize_bools[-1])
+
         # Objective function to maximize the number of students in their preferred projects
         #ToDo: Edit the objective function to include more things
         scaled_median_cpi = int(100*np.median([student.cpi for student in section.students])) #check
@@ -39,7 +50,7 @@ def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
 
         
         model.maximize(1000*sum(project.preferencesSum() for project in projectContainers)
-                        - sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi))
+                        - sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi) + 10000*sum(projectsize_bools))
 
         solver = cp_model.CpSolver()
         status = solver.solve(model)

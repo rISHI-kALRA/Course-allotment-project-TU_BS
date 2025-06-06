@@ -5,17 +5,12 @@ from pydantic import BaseModel, Field, constr, conint, confloat, conlist, String
 from typing import Literal, List, Annotated
 from typing_extensions import Annotated
 import random
+import ast
 
 #These below values are imported in all other files, so here is the place where we fix these values
 no_of_projects =6 
 no_of_sections = 8 #S1 to S8
 groupSize = 6
-
-list_of_students = [Student(**row) for row in pd.read_csv('students_data_with_preferences.csv').to_dict(orient='records')]
-roll_to_student = {}
-for student in list_of_students:
-    roll_to_student[student.rollNumber] = student #check whether python maps allow this
-
 
 class Student(BaseModel):
     name: str
@@ -28,6 +23,14 @@ class Student(BaseModel):
     
     def __init__(self,**data):
         super().__init__(**data)
+
+df = pd.read_csv('students_data_with_preferences.csv')
+df['preferences'] = df['preferences'].apply(ast.literal_eval)
+list_of_students = [Student(**row) for row in df.to_dict(orient='records')]
+roll_to_student = {}
+for student in list_of_students:
+    roll_to_student[student.rollNumber] = student #check whether python maps allow this
+
 
 class Section(BaseModel):
     section: Annotated[int,Field(ge=0,le=no_of_sections-1)] #note that section numbers are from 0 but not 1 (this is to maintain consistency while indexing)

@@ -7,6 +7,7 @@ from typing_extensions import Annotated
 import random
 import ast
 from collections import defaultdict
+from scipy.stats import truncnorm
 
 #These below values are imported in all other files, so here is the place where we fix these values
 no_of_projects =6 
@@ -141,12 +142,23 @@ class variableContainer:
 
 def generate_and_save_students_data(): #randomly generated CPI, preferences and saves it
     ##Last year's DE 250 dataset
-    student_df = pd.read_csv('students_data_2024.csv')
-    student_df['gender'] = student_df['name'].apply(lambda x: 'female' if x.split(" ")[0]=='Ms.' else 'male')
+    student_df = pd.read_csv('students_data_random_names.csv')
     student_count=  len(student_df)
+    
+    #Uniformly generated preferences and cpis
+    # preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] 
+    # cpis = [random.randint(600, 1000)/100 for _ in range(student_count)] 
+       
+    #Non uniform preferences and cpis
+    preferences = [[random.randint(70, 100), random.randint(0,40), random.randint(60,100), random.randint(0,20), random.randint(0,35),random.randint(0,100)] for _ in range(student_count)] #randomly generated preferences
+    cpi_low, cpi_high, cpi_mean= 6,10,8
+    std = 2
+    a, b = (cpi_low - cpi_mean) / std, (cpi_high - cpi_mean) / std  # if std=1, mean=8
+    trunc_normal = truncnorm(a, b, loc=cpi_mean, scale=std)
+    samples = trunc_normal.rvs(student_count).tolist() # generate 1000 samples
+    cpis = [round(sample,2) for sample in samples]
 
-    preferences = [[random.randint(0, 100) for _ in range(no_of_projects)] for _ in range(student_count)] #randomly generated preferences
-    cpis = [random.randint(600, 1000)/100 for _ in range(student_count)]    #randomly generated CPIs
+
     list_of_students = []
     for i,student in student_df.iterrows():
         list_of_students.append(Student(name=student['name'], gender =student['gender']  ,rollNumber=student['rollNumber'],cpi=cpis[i], department=student['department'], preferences=preferences[i]))

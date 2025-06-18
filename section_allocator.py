@@ -31,8 +31,8 @@ def sectionAllocator(students: List[Student],numberOfSections:int) -> List[Secti
 
     #Constraints and objectives
     for section_id, section in enumerate(sectionContainers):
-        model.add(section.numberOfStudents() >= len(students)//numberOfSections-15)  # Minimum number of students in each section
-        model.add(section.numberOfStudents() <= len(students)//numberOfSections+15)  # Maximum number of students in each section, allowing a range of +1
+        model.add(section.numberOfStudents() >= len(students)//numberOfSections-20)  #Check
+        model.add(section.numberOfStudents() <= len(students)//numberOfSections+20)  
 
 
     scaled_median_cpi = int(100*np.median([student.cpi for student in students])) #check
@@ -42,7 +42,7 @@ def sectionAllocator(students: List[Student],numberOfSections:int) -> List[Secti
         abs_cpi.append(absolute_value(section.cpiSumScaled() - section.numberOfStudents()*scaled_median_cpi,model))
 
 
-    ### Multiple of 6 constraint #Optional, check later whether this is needed or not ###
+   ## ------------------ Multiple of 6 constraint #Optional, check later whether this is needed or not ---------------------##
     # sectionsize_bools = []  # These represent whether section size is a multiple of 6 or not
     # for sectionId, section in enumerate(sectionContainers):
     #     sectionsize_bools.append(model.new_bool_var(f'6multiple_{sectionId}'))
@@ -51,6 +51,7 @@ def sectionAllocator(students: List[Student],numberOfSections:int) -> List[Secti
     #     sectionsize_remainder = model.new_int_var(0, 10, f'remainder_{sectionId}')
     #     model.add_modulo_equality(sectionsize_remainder, sectionsize, 6)
     #     model.add(sectionsize_remainder == 0).only_enforce_if(sectionsize_bools[-1])
+
 
     #Constraint of equal splitting of departments into its available section 
     students_per_slot_differences = []
@@ -63,12 +64,19 @@ def sectionAllocator(students: List[Student],numberOfSections:int) -> List[Secti
     
     model.maximize(-sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi) -sum(students_per_slot_differences) )  # Objective function to maximize the number of sections with size multiple of 6
 
-    solver = cp_model.CpSolver()
-    status = solver.solve(model)
-    if  status == 3:
-        print("No solution found for section allocation.")
-    sections = []
+    
 
+    solver = cp_model.CpSolver()
+    solver.parameters.max_time_in_seconds = 10.0
+    status = solver.solve(model)
+
+    if status != cp_model.OPTIMAL:
+        if(status!=cp_model.FEASIBLE):
+            raise RuntimeError("No solution found for section allocation. Constraints are impossible to satisfy")
+        else:
+            print(" Section solver timedout, giving the best solution found")
+
+    sections = []
     for sectionContainer in sectionContainers:
         sections.append(Section(section=sectionContainer.id,students=sectionContainer.getAllocation(solver)))
     return sections

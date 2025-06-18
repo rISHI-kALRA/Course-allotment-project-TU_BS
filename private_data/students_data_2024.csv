@@ -1,0 +1,1326 @@
+srNo,rollNumber,name,department,allocatedGroup,gender
+1,23B0419,Ms. Bhatta Hemasree,CL,S1A1,female
+2,23B0372,Kawade Pranav Pratap,CL,S1A1,male
+3,23B0434,Ayush Kumar Jha,CL,S1A1,male
+4,23B2113,Sunil Kumar Meena,ME,S1A1,male
+5,23B2275,Manish Chahar,ME,S1A1,male
+6,23B2179,Yuvraj Verma,ME,S1A1,male
+7,23B0423,Ms. Dayama Arpita Balkisan,CL,S1A2,female
+8,23B0319,Arnav Ritesh Jayswal,CL,S1A2,male
+9,23B0384,Parth Mukunda Maske,CL,S1A2,male
+10,23B2189,Bukke Girish,ME,S1A2,male
+11,23B2128,Krishna Chaudhary,ME,S1A2,male
+12,23B2145,Manyaman Naik,ME,S1A2,male
+13,23B0396,Ms. Pingle Shreya Rajesh,CL,S1A3,female
+14,23B0357,Abhishek Singh,CL,S1A3,male
+15,23B0311,Akshat Sharma,CL,S1A3,male
+16,23B2180,Bharat Gupta,ME,S1A3,male
+17,23B2149,Deepak Dhinwa,ME,S1A3,male
+18,23B0412,Arpit Vikram Prajapati,CL,S1A3,male
+19,23B0329,Lucky Gupta,CL,S1A4,male
+20,23B0326,Piyush Jain,CL,S1A4,male
+21,23B0345,Ms. Sneha Shandilya,CL,S1A4,female
+22,23B2193,Rihan Ashraf,ME,S1A4,male
+23,23B2195,Yashit Kumar,ME,S1A4,male
+24,23B2292,Mishit Sharma,ME,S1A4,male
+25,23B0346,Sanghavi Prabhav Dharmendrabhai,CL,S1A5,male
+26,23B0441,Kshitij Raj Suryavanshi,CL,S1A5,male
+27,23B0351,Ms. Sai Sandeep Tambaku,CL,S1A5,female
+28,23B2143,Kshitij Panpatil,ME,S1A5,male
+29,23B2217,Aditya Kumar Agarwal,ME,S1A5,male
+30,23B2276,Ritesh Dhayal,ME,S1A5,male
+31,23B0315,Ankit Gond,CL,S1B1,male
+32,23B0347,Ishaan Jajodia,CL,S1B1,male
+33,23B0392,Ms. Dhara Prafulla Rangari,CL,S1B1,female
+34,23B2285,Parv Rajesh Jain,ME,S1B1,male
+35,23B2109,Aditya Udeniya,ME,S1B1,male
+36,23B2101,Pranav Goldar,ME,S1B1,male
+37,23B0440,Naitik Kumar Agrawal,CL,S1B2,male
+38,23B0383,Shantanu Saharan,CL,S1B2,male
+39,23B0382,Ms. Vaishnavi Rajput,CL,S1B2,female
+40,23B2125,Raunak Ghosh,ME,S1B2,male
+41,23B2154,Parv Agrawal,ME,S1B2,male
+42,23B2186,Ms. Deshmukh Vaishnavi Ishwar,ME,S1B2,female
+43,23B0386,Rohit Parmar,CL,S1B3,male
+44,23B0430,Lokesh Jangir,CL,S1B3,male
+45,23B0411,Ms. Srinidhi Balasubramanian,CL,S1B3,female
+46,23B2118,Deepak Soni,ME,S1B3,male
+47,23B2224,Piyush Tailor,ME,S1B3,male
+48,23B2203,Varun Rajesh Inamdar,ME,S1B3,male
+49,23B0370,Taha Rafik Chikte,CL,S1B4,male
+50,23B0378,Jeedula Siddharth,CL,S1B4,male
+51,23B0304,Ms. Khushi Yadav,CL,S1B4,female
+52,23B2178,Mihir Gajanan Wani,ME,S1B4,male
+53,23B2255,Shreyas Prashant Kamble,ME,S1B4,male
+54,23B2107,Tushar Bajaj,ME,S1B4,male
+55,23B0303,Shikhar Rathi,CL,S1B5,male
+56,23B0327,A Naveen,CL,S1B5,male
+57,23B0364,Ms. Bhumi Jain,CL,S1B5,female
+58,23B2115,Har Bhajan Chaudhary,ME,S1B5,male
+59,23B2208,Nenavath Sai Drupad Naik,ME,S1B5,male
+60,23B2155,B Abhinav Reddy,ME,S1B5,male
+61,23B0446,Monarch Mohan Shankar,CL,S1C1,male
+62,23B0316,Banoth Akash,CL,S1C1,male
+63,23B0381,Ms. Palaparthi Venkata Naga Sai Sri Varshini,CL,S1C1,female
+64,23B2191,Joshi Ajitesh Chandrashekhar,ME,S1C1,male
+65,23B2141,C S Pruthveesh,ME,S1C1,male
+66,23B2288,Chavan Soyam Sunil,ME,S1C1,male
+67,23B0334,Abhishek Meena,CL,S1C2,male
+68,23B0406,Shubham Kumar,CL,S1C2,male
+69,23B0400,Ms. Mrunal Turalkar,CL,S1C2,female
+70,23B2192,Bhagavatula Sai Pranav,ME,S1C2,male
+71,23B2253,Ayush Lonakadi,ME,S1C2,male
+72,23B2162,Pondkule Viraj Vinayak,ME,S1C2,male
+73,23B0415,Krish Sachin Dedhia,CL,S1C3,male
+74,23B0302,Rachit Kumar,CL,S1C3,male
+75,23B0433,Ms. Himanshi Garg,CL,S1C3,female
+76,23B2202,Sanit Jethwani,ME,S1C3,male
+77,23B2216,Ashish Ranjan,ME,S1C3,male
+78,23B2254,Hiray Vineet Dhananjay,ME,S1C3,male
+79,23B0342,Nikhil Kumar,CL,S1C4,male
+80,23B0437,Kuldeep Mallya K M,CL,S1C4,male
+81,23B0398,Ms. Agrima Wrat,CL,S1C4,female
+82,23B2110,Aditya Sinha,ME,S1C4,male
+83,23B2133,Sangeet Saikia,ME,S1C4,male
+84,23B2257,Ms. Sandhita Das,ME,S1C4,female
+85,23B0426,Rakshit Sawarn,CL,S1C5,male
+86,23B0438,Om Yadav,CL,S1C5,male
+87,23B0391,Ms. Poorvi Bansal,CL,S1C5,female
+88,23B2241,Nallapaneni Sreehari,ME,S1C5,male
+89,23B2271,Tanishq Sahaj,ME,S1C5,male
+90,23B2219,Anirudh Maindargikar,ME,S1C5,male
+91,23B0374,Maloth Ram Charan,CL,S1D1,male
+92,23B0312,Shubham Sharma,CL,S1D1,male
+93,23B0356,Ms. Vedika Sandeep Sarode,CL,S1D1,female
+94,23B2116,Saumya Mehta,ME,S1D1,male
+95,23B2176,Ankit Rewar,ME,S1D1,male
+96,23B2147,Aryan Prasad,ME,S1D1,male
+97,23B0361,Gokul M,CL,S1D2,male
+98,23B0399,Aman Raj,CL,S1D2,male
+99,23B0442,Ms. Seemon Suryabhan Bansod,CL,S1D2,female
+100,23B2234,Deepak Soni,ME,S1D2,male
+101,23B2252,Abakash Meher,ME,S1D2,male
+102,23B2140,Tank Param Dashrathbhai,ME,S1D2,male
+103,23B0339,Aniket Kumar Agarwal,CL,S1D3,male
+104,23B0431,Jayant Padmanabha Deshmukh,CL,S1D3,male
+105,23B0387,Ms. Paridhi Mittal,CL,S1D3,female
+106,23B2188,Sahil Tanania,ME,S1D3,male
+107,23B2172,Vinay Ranjeri,ME,S1D3,male
+108,23B2169,Aareen Pitambar Humane,ME,S1D3,male
+109,23B0333,Dhruv Agarwal,CL,S1D4,male
+110,23B0367,Advait Vivek Bhedasgaonkar,CL,S1D4,male
+111,23B0418,Ms. Mandakini Dalwee,CL,S1D4,female
+112,23B2274,Patil Vaibhav Nitin,ME,S1D4,male
+113,23B2233,Dev Dharmesh Suthar,ME,S1D4,male
+114,23B2152,Pushp Raj Choudhary,ME,S1D4,male
+115,23B0375,Dharavath Manoj,CL,S1D5,male
+116,23B0320,More Soham Himmat,CL,S1D5,male
+117,23B0362,Ms. Himanshi Meena,CL,S1D5,female
+118,23B2119,Adwait Shelke,ME,S1D5,male
+119,23B2246,Ganesh Kiran Chandan,ME,S1D5,male
+120,23B2291,Devasish Behera,ME,S1D5,male
+121,23B0427,Ayush Jaiswal,CL,S1E1,male
+122,23B0380,Arth Trivedy,CL,S1E1,male
+123,23B0321,Ms. Trupti Lande,CL,S1E1,female
+124,23B2263,Om Sachin Inamdar,ME,S1E1,male
+125,23B2194,Vasu Kaavya Rajesh,ME,S1E1,male
+126,23B2251,Ms. Kethavath Advika,ME,S1E1,female
+127,23B0428,Ojas Anand Pathak,CL,S1E2,male
+128,23B0344,Sujal Kumar Sahoo,CL,S1E2,male
+129,23B0404,Ms. Minal Bhojasia,CL,S1E2,female
+130,23B2264,Sahil Labhane,ME,S1E2,male
+131,23B2206,Nilay Ashish Shahapure,ME,S1E2,male
+132,23B2221,Vipul Rajendrakumar Devvyas,ME,S1E2,male
+133,23B0447,Aghera Param Jagdish,CL,S1E3,male
+134,23B0376,Patil Arvind Shamrao,CL,S1E3,male
+135,23B0413,Ms. Anvitaa Goel,CL,S1E3,female
+136,23B2240,Shlok Pradeep Agrawal,ME,S1E3,male
+137,23B2181,Arepalli Jishnuchandra,ME,S1E3,male
+138,23B2157,Rishabh Vinayak Jalgaonkar,ME,S1E3,male
+139,23B0444,Mukund Alias Aryan Siddhesh Sinai Kakodkar,CL,S1E4,male
+140,23B0365,Mohith H,CL,S1E4,male
+141,23B0310,Ms. Sneha Mane,CL,S1E4,female
+142,23B2268,Mrunal Dhiraj Barapatre,ME,S1E4,male
+143,23B2103,Rishik Yadav,ME,S1E4,male
+144,23B2218,Rugved Dattatraya Fiske,ME,S1E4,male
+145,23B0429,Pendse Damodar Ketan,CL,S1E5,male
+146,23B0349,Markhale Shubham Suryakant,CL,S1E5,male
+147,23B0317,Ms. Jaya Meena,CL,S1E5,female
+148,23B2248,Pandhare Rohan Vijaykumar,ME,S1E5,male
+149,23B2187,Ishaan Srivastava,ME,S1E5,male
+150,23B2284,Arnab Tiwari,ME,S1E5,male
+151,23B0360,Garv Agrawal,CL,S1F1,male
+152,23B0385,Yash Pant,CL,S1F1,male
+153,23B0355,Ms. Ayushi Naharwal,CL,S1F1,female
+154,23B2289,Chandresh Thakur,ME,S1F1,male
+155,23B2122,Dhruv Goyal,ME,S1F1,male
+156,23B2144,Aditya Anand Gupta,ME,S1F1,male
+157,23B0436,Ishant,CL,S1F2,male
+158,23B0389,Agrim Jain,CL,S1F2,male
+159,23B0371,Ms. Eshika Mishra,CL,S1F2,female
+160,23B2104,Asif M,ME,S1F2,male
+161,23B2296,Murudkar Soham Sameer,ME,S1F2,male
+162,23B2136,Param Ketan Pabari,ME,S1F2,male
+163,23B0353,Mridul Sharma,CL,S1F3,male
+164,23B0424,Toyaj Kabi,CL,S1F3,male
+165,23B0363,Ms. Tarushi Gupta,CL,S1F3,female
+166,23B2174,Kayande Aryan Anand,ME,S1F3,male
+167,23B2279,Abhishek Kumar,ME,S1F3,male
+168,23B2151,Ms. Yenuganti Vamsi Triveni,ME,S1F3,female
+169,23B2467,Ms. Shreya Tiwari,MM,S2A1,female
+170,23B0659,Vansh Chandarana,CE,S2A1,male
+171,23B2425,Ashutosh Kumar Verma,MM,S2A1,male
+172,23B0741,Aryan Kashyap,CE,S2A1,male
+173,23B0673,Rahul Ravi,CE,S2A1,male
+174,23B2506,Sankalp Rajesh Bhitkar,MM,S2A1,male
+175,23B2511,Ms. Subhi D,MM,S2A2,female
+176,23B0748,Krishna Kanta Mondal,CE,S2A2,male
+177,23B2496,Rudraksh Sharma,MM,S2A2,male
+178,23B0740,Meghav Singhal,CE,S2A2,male
+179,23B0662,Aditya Anand,CE,S2A2,male
+180,23B0696,Aditya Agrawal,CE,S2A2,male
+181,23B0707,Ms. Aditi Kadam,CE,S2A3,female
+182,23B2443,Doke Mohit,MM,S2A3,male
+183,23B2453,Harsh Mehta,MM,S2A3,male
+184,23B0744,Nadeem Shabir Mir,CE,S2A3,male
+185,23B0654,Ankit Kharkwal,CE,S2A3,male
+186,23B2518,J Sai Charan,MM,S2A3,male
+187,23B2459,Ms. Aastha Maliwal,MM,S2A4,female
+188,23B0720,Aditya Patil,CE,S2A4,male
+189,23B2454,Ark Vinodkumar Singh,MM,S2A4,male
+190,23B0753,Samartha Maheshwari,CE,S2A4,male
+191,23B0628,Ashok Kumar,CE,S2A4,male
+192,23B0767,Yogendra Shankar Anand,CE,S2A4,male
+193,23B2433,Ms. Yashvi Trivedi,MM,S2A5,female
+194,23B0765,Bahirwar Avishkar,CE,S2A5,male
+195,23B2508,Sidharth Pramod C,MM,S2A5,male
+196,23B0742,Pabitra Sarkar,CE,S2A5,male
+197,23B0634,Siddharth Subhash Tayade,CE,S2A5,male
+198,23B2409,Shlok Pranay Rathi,MM,S2A5,male
+199,23B0763,Ms. Anika Dorle,CE,S2B1,female
+200,23B0616,Ms. Palak Vishwakarma,CE,S2B1,female
+201,23B2474,Parth Goel,MM,S2B1,male
+202,23B2464,Rushabh Dnyaneshwar Gayakwad,MM,S2B1,male
+203,23B0770,Shete Himanshu Mahesh,CE,S2B1,male
+204,23B0602,Chaitanya Suryan,CE,S2B1,male
+205,23B0710,Ms. Uditi Raymangia,CE,S2B2,female
+206,23B2410,Swapnil Madan,MM,S2B2,male
+207,23B2430,Manav Parmar,MM,S2B2,male
+208,23B0683,Vansh Arora,CE,S2B2,male
+209,23B0746,Uday Vijay Doiphode,CE,S2B2,male
+210,23B2465,Tarachand,MM,S2B2,male
+211,23B2469,Ms. Kondepati Satvika Lily Grace,MM,S2B3,female
+212,23B0700,Aadish Jain,CE,S2B3,male
+213,23B2431,Atahar Alam,MM,S2B3,male
+214,23B0656,Devraj Meena,CE,S2B3,male
+215,23B0641,Dev Joshi,CE,S2B3,male
+216,23B2426,Lucky Meena,MM,S2B3,male
+217,23B2495,Ms. Patil Bhumi Prabhakar,MM,S2B4,female
+218,23B0609,Sumit Yadav,CE,S2B4,male
+219,23B2489,Arin Dhananjay Pendharkar,MM,S2B4,male
+220,23B0758,Rishabh Agarwal,CE,S2B4,male
+221,23B0633,Pratham Ravindra Pandit,CE,S2B4,male
+222,23B2404,Dinesh Kumar,MM,S2B4,male
+223,23B2523,Ms. Avishi Raj,MM,S2C1,female
+224,23B0764,Nikhil Upadhyay,CE,S2C1,male
+225,23B0658,Atharva Amit Lele,CE,S2C1,male
+226,23B2484,Vedant Vyankatesh Deshpande,MM,S2C1,male
+227,23B0729,Jinay Kishore Vora,CE,S2C1,male
+228,23B0689,Aryan Badkul,CE,S2C1,male
+229,23B2473,Ms. Rupanshi Vijayvargiya,MM,S2C2,female
+230,23B0627,Arnav Manish Narayane,CE,S2C2,male
+231,23B0762,Vineet Jangir,CE,S2C2,male
+232,23B2501,Gudepu Sathish Kumar Dora,MM,S2C2,male
+233,23B0719,Pratik Sukhdeo Jadhao,CE,S2C2,male
+234,23B2499,Jogdande Shreyas Santosh,MM,S2C2,male
+235,23B0626,Ms. Priyam Raj,CE,S2C3,female
+236,23B0734,Ms. Prarthana Mittal,CE,S2C3,female
+237,23B2406,Arush Vivaswan Poddar,MM,S2C3,male
+238,23B0761,Siddharth Kumar Khanda,CE,S2C3,male
+239,23B2411,Moksh Jain,MM,S2C3,male
+240,23B0603,Anshuman Lodhi,CE,S2C3,male
+241,23B0721,Ms. Ms Gayatri Sahu,CE,S2C4,female
+242,23B2513,Mausam Madhesia,MM,S2C4,male
+243,23B0605,Ghanshyam Choudhary,CE,S2C4,male
+244,23B2461,Gatik Milind Shambharkar,MM,S2C4,male
+245,23B0682,Chandra Shekhar Yadav,CE,S2C4,male
+246,23B2421,Vidit Jain,MM,S2C4,male
+247,23B2412,Ms. Suhani Shah,MM,S2D1,female
+248,23B0768,Devansh Gupta,CE,S2D1,male
+249,23B0766,Vivek Meena,CE,S2D1,male
+250,23B2503,Daksh Jain,MM,S2D1,male
+251,23B0699,Kanishk Sehra,CE,S2D1,male
+252,23B2526,E Saiharshavardhan,MM,S2D1,male
+253,23B0681,Ms. Afra I K,CE,S2D2,female
+254,23B2507,Nenwani Paawan Riteshkumar,MM,S2D2,male
+255,23B0684,Uddeshya Lodhi,CE,S2D2,male
+256,23B2491,Benake Shantanu Ranaba,MM,S2D2,male
+257,23B0663,Pulkit Priyadarshi,CE,S2D2,male
+258,23B2451,Avhad Vaibhav Santosh,MM,S2D2,male
+259,23B0636,Ms. Anshika Tripathi,CE,S2D3,female
+260,23B2481,Anish Patel,MM,S2D3,male
+261,23B0735,Parth Maheshwari,CE,S2D3,male
+262,23B2480,Sahil Kukreja,MM,S2D3,male
+263,23B0631,Shiva Upman,CE,S2D3,male
+264,23B2477,Shimpi Mangesh Prashant,MM,S2D3,male
+265,23B0655,Ms. Desai Twara Ujjwal,CE,S2D4,female
+266,23B2475,Harpreet Singh,MM,S2D4,male
+267,23B0737,Jaywardhan Raghu,CE,S2D4,male
+268,23B2442,Banoth Sanath Kumar,MM,S2D4,male
+269,23B0650,Yogesh Panthi,CE,S2D4,male
+270,23B2532,Aadi Prashant Anaskure,MM,S2D4,male
+271,23B0687,Ms. Bhumi Sharma,CE,S2E1,female
+272,23B0705,Ms. Putta Sravika Sree,CE,S2E1,female
+273,23B2428,Goutam Singh,MM,S2E1,male
+274,23B0644,Anulaya Khare,CE,S2E1,male
+275,23B2438,Padiya Kartik Gopal,MM,S2E1,male
+276,23B0739,Siddharth Mungee,CE,S2E1,male
+277,23B2516,Ms. Barpati Spoorthi Sree,MM,S2E2,female
+278,23B0677,Ghanisht,CE,S2E2,male
+279,23B0610,Kotadiya Het Pravinbhai,CE,S2E2,male
+280,23B2435,Aniket Kumar,MM,S2E2,male
+281,23B0618,Aditya Raj Ji Chauhan,CE,S2E2,male
+282,23B2408,Anshumaan Singh,MM,S2E2,male
+283,23B0679,Ms. Prachi Arya,CE,S2E3,female
+284,23B2492,Aryan Dwivedi,MM,S2E3,male
+285,23B0622,Pranav Gopal Rathi,CE,S2E3,male
+286,23B2468,Malakwade Piyush Ritesh,MM,S2E3,male
+287,23B0692,Pritam Halder,CE,S2E3,male
+288,23B0608,Satyam Mani Tripathi,CE,S2E3,male
+289,23B2520,Ms. Srishti Gupta,MM,S2E4,female
+290,23B0726,Ashwin Sandeep Mankar,CE,S2E4,male
+291,23B0606,Abhishek,CE,S2E4,male
+292,23B2531,Anuj Patel,MM,S2E4,male
+293,23B0647,Shreyas Dhanaji Kumbhar,CE,S2E4,male
+294,23B2517,Shashwat Mishra,MM,S2E4,male
+295,23B0686,Praveen Kumar,CE,S2F1,male
+296,23B0678,Ms. Maanya Agrawal,CE,S2F1,female
+297,23B2449,Aayush Kumar Singh,MM,S2F1,male
+298,23B0660,Prabhat Kumar,CE,S2F1,male
+299,23B2441,Deepraj Singh Kasherwal,MM,S2F1,male
+300,23B0665,Ashish Kumar,CE,S2F1,male
+301,23B2423,Ms. Priyamvada,MM,S2F2,female
+302,23B0713,Shreejit Ugale,CE,S2F2,male
+303,23B0674,Vishwat Dubey,CE,S2F2,male
+304,23B2424,Chetan Raj,MM,S2F2,male
+305,23B0771,Prakhar Gupta,CE,S2F2,male
+306,23B2463,Jain Sanat Sanjog,MM,S2F2,male
+307,23B0757,Ms. Harshita Kumar,CE,S2F3,female
+308,23B2490,Ms. Chandni Minz,MM,S2F3,female
+309,23B0717,Mohammad Shabir Peerzada,CE,S2F3,male
+310,23B0727,Bangi Karthikesh,CE,S2F3,male
+311,23B2487,Taru Sumedh Raju,MM,S2F3,male
+312,23B0715,Gursheel Singh,CE,S2F3,male
+313,23B0716,Ms. Tanushree Meena,CE,S2F4,female
+314,23B2527,Rishab N Jain,MM,S2F4,male
+315,23B0651,Yanamala Nava Teja,CE,S2F4,male
+316,23B2456,Talwalkar Prajwal Yashwant,MM,S2F4,male
+317,23B0722,Surendra Choudhary,CE,S2F4,male
+318,23B2446,Visvakrt Kodanda Ram,MM,S2F4,male
+319,23B0927,Ms. Gowri K Balakrishnan,CS,S3A1,female
+320,23B0044,Mehul Bafna,AE,S3A1,male
+321,23B1033,Chinthaparthi Babu Sujan Reddy,CS,S3A1,male
+322,23B1064,Chaudhari Avinash Janardhan,CS,S3A1,male
+323,23B0960,J Adarsh,CS,S3A1,male
+324,23B2709,Hridayesh Sahu,CH,S3A1,male
+325,23B2719,Sarvagya Jain,CH,S3A2,male
+326,23B1012,Ms. Burri Gehna Chelvi,CS,S3A2,female
+327,23B0065,Konda Venkata Srivatchav,AE,S3A2,male
+328,23B0030,Mayuresh Uday Kathe,AE,S3A2,male
+329,23B1518,Jingar Gaurav Praveen Kumar,EN,S3A2,male
+330,23B1016,Harshil Amitkumar Solanki,CS,S3A2,male
+331,23B0941,Ms. Maradana Anusri,CS,S3A3,female
+332,23B0078,Omkumar Nitin Borse,AE,S3A3,male
+333,23B1542,Vachan Vinod Velu,EN,S3A3,male
+334,23B1029,Karedla Balaji,CS,S3A3,male
+335,23B0986,Tanishq Mahesh Mandhane,CS,S3A3,male
+336,23B2707,Samarla Tharun,CH,S3A3,male
+337,23B2713,Hardeep Singh Barnala,CH,S3A4,male
+338,23B0914,Ms. Suvvada Mounisha Naidu,CS,S3A4,female
+339,23B0064,K Bhuvanesh,AE,S3A4,male
+340,23B0071,Ayuwansinh Chudasama,AE,S3A4,male
+341,23B1539,Madhav Agrawal,EN,S3A4,male
+342,23B0925,Vangapandu Venkata Sai Surya Prakash,CS,S3A4,male
+343,23B0962,Ms. Banothu Sonusree,CS,S3A5,female
+344,23B0003,Nunase Om Shailesh,AE,S3A5,male
+345,23B0946,Itthagoni Sathwik Goud,CS,S3A5,male
+346,23B0919,Yougank Kumar,CS,S3A5,male
+347,23B1076,Aryan Mahajan,CS,S3A5,male
+348,23B2732,V Kawin Prashaath,CH,S3A5,male
+349,23B2706,Utkarsh,CH,S3B1,male
+350,23B0978,Ms. Gowdu Charishma,CS,S3B1,female
+351,23B0041,Nasiruddin Kabir,AE,S3B1,male
+352,23B0028,Patel Chaitanya Divyesh,AE,S3B1,male
+353,23B1513,Kavi Aryamaan Anand,EN,S3B1,male
+354,23B0956,Siddhant Mulkikar,CS,S3B1,male
+355,23B0015,Ayush Bhaskar,AE,S3B2,male
+356,23B1526,Satyavrat Bajpai,EN,S3B2,male
+357,23B0907,Hari Shankar Karthik,CS,S3B2,male
+358,23B0977,Keyaan Kartikeya Rajesh,CS,S3B2,male
+359,23B0931,Haresh Gupta,CS,S3B2,male
+360,23B2716,Ms. Smitirani Haripal,CH,S3B2,female
+361,23B2728,Ms. Shaha Khushi Shrikantkumar,CH,S3B3,female
+362,23B0013,Ms. Dipti Meshram,AE,S3B3,female
+363,23B0062,Bhimanpalli Arvind Mohan,AE,S3B3,male
+364,23B1525,Nikhil,EN,S3B3,male
+365,23B1082,Dheeravath Thanuj,CS,S3B3,male
+366,23B1068,Vaibhav Singh,CS,S3B3,male
+367,23B1046,Ms. Kokkiligadda Manaswi,CS,S3B4,female
+368,23B1546,Ayush Vijay Agrawal,EN,S3B4,male
+369,23B0985,Jashanpreet Singh,CS,S3B4,male
+370,23B1056,Addagada Venkata Sivaram,CS,S3B4,male
+371,23B0930,Mehul Borad,CS,S3B4,male
+372,23B2705,Goda Mahesh,CH,S3B4,male
+373,23B0067,Ms. Jain Kashish Mahaveer,AE,S3C1,female
+374,23B2722,Chippalapally Avinash,CH,S3C1,male
+375,23B0079,Ayush Kumar,AE,S3C1,male
+376,23B1531,Rajat Bhadane,EN,S3C1,male
+377,23B1063,Gunda Sushanth,CS,S3C1,male
+378,23B0971,Mayank Soni,CS,S3C1,male
+379,23B0922,Ms. Akshara,CS,S3C2,female
+380,23B0051,Krishang Singh,AE,S3C2,male
+381,23B1060,Madhav R Babu,CS,S3C2,male
+382,23B1009,Udit Sarkar,CS,S3C2,male
+383,23B1024,Pendurthi Nischal Subhash,CS,S3C2,male
+384,23B2720,Devesh Prajapat,CH,S3C2,male
+385,23B1039,Nenavath Sree Vamshi Madhav,CS,S3C3,male
+386,23B2733,Animesh Jain,CH,S3C3,male
+387,23B0075,Hiwre Anurag Uddhavrao,AE,S3C3,male
+388,23B0040,Krishna Kalpeshkumar Bhatt,AE,S3C3,male
+389,23B0964,Ms. Seemala Varsha,CS,S3C3,female
+390,23B1532,Aryan Sahu,EN,S3C3,male
+391,23B1543,Prerak Patidar,EN,S3C4,male
+392,23B0939,Bathula Rithvik,CS,S3C4,male
+393,23B0923,Abhineet Majety,CS,S3C4,male
+394,23B1015,Pinnu Shasank Reddy,CS,S3C4,male
+395,23B0990,Pothina Madhav,CS,S3C4,male
+396,23B2718,Ms. Astha Tomar,CH,S3C4,female
+397,23B2726,Ms. Kinnera Sai Sharanya,CH,S3D1,female
+398,23B0049,Ms. Lopamudra Biswal,AE,S3D1,female
+399,23B0057,Akshay Venugopalan,AE,S3D1,male
+400,23B1527,Aditya Ojha,EN,S3D1,male
+401,23B1057,Sabil Ahmad,CS,S3D1,male
+402,23B0913,Dipen Sojitra,CS,S3D1,male
+403,23B0921,Ms. Ishita,CS,S3D2,female
+404,23B0021,Vinay Kathiriya,AE,S3D2,male
+405,23B1017,Evuri Mohana Sreedhara Reddy,CS,S3D2,male
+406,23B0903,Abhi Jain,CS,S3D2,male
+407,23B0967,Guduru Adarsh,CS,S3D2,male
+408,23B2721,Soumya Saha,CH,S3D2,male
+409,23B1030,Ms. Vaka Sri Varshitha,CS,S3D3,female
+410,23B2711,Arjun Pankaj Kabra,CH,S3D3,male
+411,23B0008,Regidi Dinesh,AE,S3D3,male
+412,23B0070,Sunny Khobragade,AE,S3D3,male
+413,23B1514,Sonawane Ganesh Pandurang,EN,S3D3,male
+414,23B0905,Sagnik Nandi,CS,S3D3,male
+415,23B0991,Ms. Shravya Karna,CS,S3D4,female
+416,23B0005,Sahil Ravindra Patil,AE,S3D4,male
+417,23B1035,Sameer Arvind Patil,CS,S3D4,male
+418,23B1080,Shaik Awez Mehtab,CS,S3D4,male
+419,23B1041,Merchant Dhruvraj Vijaykumar,CS,S3D4,male
+420,23B2714,Aryan Abhijeet Moholkar,CH,S3D4,male
+421,23B0031,Ms. Patel Akanksha Nirmal,AE,S3D5,female
+422,23B2725,Raj Solanki,CH,S3D5,male
+423,23B0017,Prajapati Tanmay Rameshbhai,AE,S3D5,male
+424,23B0965,Ms. Nakka Mahathi,CS,S3D5,female
+425,23B1534,Gundi Raghuram,EN,S3D5,male
+426,23B0961,Arijit Mandal,CS,S3D5,male
+427,23B0025,Ms. Oruganti Kaavya Rao,AE,S3E1,female
+428,23B1529,Shinde Rushikesh Bhagwan,EN,S3E1,male
+429,23B1073,Marumamula Venkata Pranay,CS,S3E1,male
+430,23B1081,Rishi Kalra,CS,S3E1,male
+431,23B0969,Yakkanti Pani Venkata Maneendhar Reddy,CS,S3E1,male
+432,23B2724,Atharva Gajbe,CH,S3E1,male
+433,23B1048,Ms. Sanchita Chaurasia,CS,S3E2,female
+434,23B0034,Arnav Prativ,AE,S3E2,male
+435,23B2729,Harish Sepat,CH,S3E2,male
+436,23B0022,Mukund Kushwaha,AE,S3E2,male
+437,23B1511,Wagh Tanishq Abhishek,EN,S3E2,male
+438,23B1077,Bhavya Bansal,CS,S3E2,male
+439,23B0016,Kshitij Pravin Malve,AE,S3E3,male
+440,23B1025,Somya Dahiaya,CS,S3E3,male
+441,23B0912,Sanapala Venkata Aditya,CS,S3E3,male
+442,23B0950,Harshit Raj,CS,S3E3,male
+443,23B0994,Vavilala Chidvilas Reddy,CS,S3E3,male
+444,23B2734,Ms. Mrinalini Bishnoi,CH,S3E3,female
+445,23B2717,Ms. Sambireddy Nikhila Reddy,CH,S3E4,female
+446,23B1004,Ms. Karri Ganga Dhana Sri,CS,S3E4,female
+447,23B0036,Dawar Jyoti Deka,AE,S3E4,male
+448,23B0063,Deshbhratar Laukik Sushil,AE,S3E4,male
+449,23B1537,Chavda Jeet Sunil,EN,S3E4,male
+450,23B1084,Guthikonda Abhiram,CS,S3E4,male
+451,23B1053,Ms. Aditi Singh,CS,S3E5,female
+452,23B0080,Kondasani Lingareddy,AE,S3E5,male
+453,23B0932,Tejas Narendra Chaudhari,CS,S3E5,male
+454,23B1036,Kabir S Prakash,CS,S3E5,male
+455,23B1045,Niral Charan,CS,S3E5,male
+456,23B2704,Arush Narayan Srivastav,CH,S3E5,male
+457,23B0081,Ms. Chaheti Rathore,AE,S3F1,female
+458,23B2703,Aditya Bhardwaj,CH,S3F1,male
+459,23B0060,Golekar Avdhoot Trimbak,AE,S3F1,male
+460,23B1533,Ms. Runjhun Brijesh Shah,EN,S3F1,female
+461,23B0954,Bavurupudi Ritwik,CS,S3F1,male
+462,23B1007,Shivam Singh Yadav,CS,S3F1,male
+463,23B0910,Ms. Sonal Kumari,CS,S3F2,female
+464,23B1521,Harshit Sahu,EN,S3F2,male
+465,23B1059,Allam Sujay,CS,S3F2,male
+466,23B1058,Udtyavath Sai Likhith,CS,S3F2,male
+467,23B0955,Gulshan Kumar,CS,S3F2,male
+468,23B2723,Ritwik Raghav,CH,S3F2,male
+469,23B0072,Bangalore Ankith Kumar,AE,S3F3,male
+470,23B0984,Ms. Varala Charishma,CS,S3F3,female
+471,23B2701,Abhijeet Dewanda,CH,S3F3,male
+472,23B0052,Hrishikesh Vijay Mavily,AE,S3F3,male
+473,23B1516,Aryan,EN,S3F3,male
+474,23B1002,Sasthrula Joel Tenny,CS,S3F3,male
+475,23B0074,Aryan Meena,AE,S3F4,male
+476,23B1506,Ms. Diya Nitin Shirbhate,EN,S3F4,female
+477,23B0920,Maradana Dheeraj Kumar,CS,S3F4,male
+478,23B0940,Aditya Neeraje,CS,S3F4,male
+479,23B0973,Sammeta Avaneesh Sai,CS,S3F4,male
+480,23B2731,Koppu Bharath,CH,S3F4,male
+481,23B2710,Ms. Taniya,CH,S3F5,female
+482,23B0966,Ms. Ananya Latchupatula,CS,S3F5,female
+483,23B0073,Anwesh Das,AE,S3F5,male
+484,23B0007,Dhruv Chaturvedi,AE,S3F5,male
+485,23B1535,Harshvardhan Shrivastav,EN,S3F5,male
+486,23B1037,Vennela Yasasvi Naidu,CS,S3F5,male
+487,23B4216,Achintya Jha,ES,S4A1,male
+488,23B3004,Ms. Kopal Goel,EC,S4A1,female
+489,23B1823,Palwe Yash Subhash,EP,S4A1,male
+490,23B1239,Maitranya Mahesh Patil,EE,S4A1,male
+491,23B3913,Garvit Yadav,EE,S4A1,male
+492,23B3977,Aman Dhoke,EE,S4A1,male
+493,23B1846,Ms. Bhawna Meena,EP,S4A2,female
+494,23B4241,Atharva Milind Patil,ES,S4A2,male
+495,23B3015,Jawale Sarang Sandip,EC,S4A2,male
+496,23B3908,Rohit Kumar Meena,EE,S4A2,male
+497,23B1253,Jadhav Raju,EE,S4A2,male
+498,23B3921,Ronit Meena,EE,S4A2,male
+499,23B1243,Ms. Monica S,EE,S4A3,female
+500,23B4214,Sanju Mahavar,ES,S4A3,male
+501,23B1857,Haris Narrendran R,EP,S4A3,male
+502,23B3946,Patil Ved Vijay,EE,S4A3,male
+503,23B1218,Chatla Anil,EE,S4A3,male
+504,23B1303,Shikhar Rajurkar,EE,S4A3,male
+505,23B1220,Ms. Khyati Singh,EE,S4A4,female
+506,23B4229,Karkar Akshat Ramesh Bhai,ES,S4A4,male
+507,23B1829,Lay Deshbhratar,EP,S4A4,male
+508,23B3025,Saubhagya Singh,EC,S4A4,male
+509,23B3979,Shaashvat Sekhar,EE,S4A4,male
+510,23B1306,Athav Vantan B,EE,S4A4,male
+511,23B3935,Ms. Sruthi Manepalli,EE,S4A5,female
+512,23B1817,Arash Dev Ahlawat,EP,S4A5,male
+513,23B3022,Amit Bhartiya,EC,S4A5,male
+514,23B3924,Ms. Neha Kant,EE,S4A5,female
+515,23B3959,Shreyas Neeralagi,EE,S4A5,male
+516,23B3961,Aman Khatri,EE,S4A5,male
+517,23B1860,Ms. Chenna Sreeja,EP,S4B1,female
+518,23B4204,Aadit Amod Sule,ES,S4B1,male
+519,23B3014,Kush Dewangan,EC,S4B1,male
+520,23B1274,Anshu Mishra,EE,S4B1,male
+521,23B3929,Kabeer Prashant Pawar,EE,S4B1,male
+522,23B1234,Rishith Gupta,EE,S4B1,male
+523,23B4239,Ms. Gaikwad Arya,ES,S4B2,female
+524,23B1825,Soumik Sahoo,EP,S4B2,male
+525,23B1236,Kollapudi Jithin,EE,S4B2,male
+526,23B3962,Sarthak Kamble,EE,S4B2,male
+527,23B3936,Vaibhav Semwal,EE,S4B2,male
+528,23B3944,Varun Chaudhary,EE,S4B2,male
+529,23B4208,Abhinav Gupta,ES,S4B3,male
+530,23B1231,Ms. Aarya Rajani Krishna,EE,S4B3,female
+531,23B1833,Divyansh Kumar,EP,S4B3,male
+532,23B3018,Devam Jasani,EC,S4B3,male
+533,23B1259,Mehta Stavan Dhaval,EE,S4B3,male
+534,23B1210,Aminesh Gogia,EE,S4B3,male
+535,23B1842,Ms. Samruddhi Santoshkumar Kulkarni,EP,S4B4,female
+536,23B4246,Dev Singal,ES,S4B4,male
+537,23B3011,Vinayak Vikas Jalan,EC,S4B4,male
+538,23B1313,Kalp Rawat,EE,S4B4,male
+539,23B3953,Devangula Gouri Praneeth Kumar,EE,S4B4,male
+540,23B3956,Kushagra Gupta,EE,S4B4,male
+541,23B3981,Ms. Amboji M Hasita Chakravarthy,EE,S4C1,female
+542,23B1851,Shivam Shankar,EP,S4C1,male
+543,23B1278,Ms. Pragyan Paramita Behera,EE,S4C1,female
+544,23B1304,Darsh Prakash Patel,EE,S4C1,male
+545,23B1228,Dinesh Methre,EE,S4C1,male
+546,23B1298,Dharmander Mina,EE,S4C1,male
+547,23B4212,Akshat,ES,S4C2,male
+548,23B1217,Ms. Bhat Gayatri Uttam,EE,S4C2,female
+549,23B1811,Ujjwal Bindal,EP,S4C2,male
+550,23B3010,Akshit Mina,EC,S4C2,male
+551,23B3964,Kamal,EE,S4C2,male
+552,23B3958,Priyarajsinh Jhala,EE,S4C2,male
+553,23B4231,Ved Prakash Singh Maravi,ES,S4C3,male
+554,23B1214,Ms. Himanshi Agrawal,EE,S4C3,female
+555,23B1844,Rakshit Swami,EP,S4C3,male
+556,23B3032,Prince Kumar,EC,S4C3,male
+557,23B3971,Tadikonda Sreeavyay,EE,S4C3,male
+558,23B3943,Jayesh Verma,EE,S4C3,male
+559,23B4226,Kuljot Singh Bakshi,ES,S4C4,male
+560,23B1216,Ms. Nandana M A,EE,S4C4,female
+561,23B1858,Aadi Suketu Bharatia,EP,S4C4,male
+562,23B3021,Ashwini Singh Tomar,EC,S4C4,male
+563,23B3934,Aryansh Kukreja,EE,S4C4,male
+564,23B1292,Sangam Prithvi Chakravarthy,EE,S4C4,male
+565,23B3907,Ms. Yaragani Akshara,EE,S4C5,female
+566,23B4217,Depavath Praveen,ES,S4C5,male
+567,23B1818,Rudra Pratap Singh,EP,S4C5,male
+568,23B3957,Madhur Sonkar,EE,S4C5,male
+569,23B3940,Jay Choudhary,EE,S4C5,male
+570,23B1286,Tamilaruvi S,EE,S4C5,male
+571,23B1807,Ms. Neha Yadav,EP,S4D1,female
+572,23B1804,Ms. Ahire Sara Parag,EP,S4D1,female
+573,23B3023,Jaykumar Chandwani,EC,S4D1,male
+574,23B1219,Arijit Paul,EE,S4D1,male
+575,23B3927,Adi Gupta,EE,S4D1,male
+576,23B3967,Pavitpal Singh,EE,S4D1,male
+577,23B4244,Neel Tushar Shah,ES,S4D2,male
+578,23B1268,Ms. Saniya Khinvasara,EE,S4D2,female
+579,23B1861,Namala Varun Sri Teja,EP,S4D2,male
+580,23B3033,Yash Choudhary,EC,S4D2,male
+581,23B1290,Matam Kushaal,EE,S4D2,male
+582,23B3945,Sahil Sanjay Wani,EE,S4D2,male
+583,23B1820,Ms. Ananya Priyaroop,EP,S4D3,female
+584,23B4225,Ojas Somani,ES,S4D3,male
+585,23B3024,Himanshu Yadav,EC,S4D3,male
+586,23B3969,Manya Unnat Shah,EE,S4D3,male
+587,23B1275,Arshit Singh,EE,S4D3,male
+588,23B1238,Ishan Jain,EE,S4D3,male
+589,23B3920,Ms. Chandak Khushi Chetan,EE,S4D4,female
+590,23B4211,Manav Bhatt,ES,S4D4,male
+591,23B1814,Gokulram Ramachandran,EP,S4D4,male
+592,23B1299,Suketu Parag Patni,EE,S4D4,male
+593,23B3922,Boddeda Saravan Kumar,EE,S4D4,male
+594,23B1266,Apoorv Goyal,EE,S4D4,male
+595,23B3017,Ms. Akshika Jain,EC,S4D5,female
+596,23B4215,Alok Ashok Kale,ES,S4D5,male
+597,23B1802,Aryan Nagpal,EP,S4D5,male
+598,23B1221,Santhosh Kumar B,EE,S4D5,male
+599,23B3918,Mayank Mudgal,EE,S4D5,male
+600,23B3987,Rahul Meena,EE,S4D5,male
+601,23B1832,Ms. Shruti Pikle,EP,S4E1,female
+602,23B1291,Ms. Vankudoth Bhanu Prasanna,EE,S4E1,female
+603,23B1301,Soumya Gour,EE,S4E1,male
+604,23B3937,Divig Bansal,EE,S4E1,male
+605,23B1294,Soham Dasgupta,EE,S4E1,male
+606,23B1276,Arnesh Mondal,EE,S4E1,male
+607,23B1852,Ms. Neha Kanwadiya,EP,S4E2,female
+608,23B4201,Chinmayraj N P,ES,S4E2,male
+609,23B1249,Ankit Bagariya,EE,S4E2,male
+610,23B1237,Sanjay Kumar,EE,S4E2,male
+611,23B3991,Affaan Ali Fakih,EE,S4E2,male
+612,23B1289,Mandavyapuram Jaswin Reddy,EE,S4E2,male
+613,23B1264,Ms. Konda Sri Vyshnavi,EE,S4E3,female
+614,23B4205,Shresth Anand,ES,S4E3,male
+615,23B1841,Mahanti Shashank Naidu,EP,S4E3,male
+616,23B3006,Tarun Rawat,EC,S4E3,male
+617,23B3986,Pranjal Patel,EE,S4E3,male
+618,23B1213,Pranav Munukutla,EE,S4E3,male
+619,23B3029,Ms. Gouri Namdeo,EC,S4E4,female
+620,23B4238,Kamble Swastish Satish,ES,S4E4,male
+621,23B1840,Astitva Raj,EP,S4E4,male
+622,23B1280,Manish Kumar Palsaniya,EE,S4E4,male
+623,23B1261,Lakshya Mehar,EE,S4E4,male
+624,23B1297,Deepanshu Mandawat,EE,S4E4,male
+625,23B3903,Ms. Chavan Piyusha Namdev,EE,S4E5,female
+626,23B4240,Aayush Sharad Wagh,ES,S4E5,male
+627,23B1824,Advant Arnav Suhas,EP,S4E5,male
+628,23B1248,Nenavath Dheeraj Naik,EE,S4E5,male
+629,23B1224,Lavudi Thushar,EE,S4E5,male
+630,23B1271,Dev Arora,EE,S4E5,male
+631,23B1801,Ms. Neha,EP,S4F1,female
+632,23B3026,Siddhant Ahluwalia,EC,S4F1,male
+633,23B3968,Ms. Khushi Taxak,EE,S4F1,female
+634,23B1270,Aman Russell,EE,S4F1,male
+635,23B1205,Shaileshram Sivakumar,EE,S4F1,male
+636,23B3909,V S Vishnu,EE,S4F1,male
+637,23B3007,Ms. Rutuja Manoj Dhabarde,EC,S4F2,female
+638,23B4222,Jwngsar Baro,ES,S4F2,male
+639,23B1810,Ayush Beniwal,EP,S4F2,male
+640,23B3916,N Deepan Balaji,EE,S4F2,male
+641,23B1305,Srivathsa Thotakura,EE,S4F2,male
+642,23B1222,Piyush Manish Gube,EE,S4F2,male
+643,23B1241,Ms. Naik Sanskruti Raju,EE,S4F3,female
+644,23B4232,Pearsh Gumasta,ES,S4F3,male
+645,23B1827,Asil,EP,S4F3,male
+646,23B1257,Kumbhar Digvijay Dagadu,EE,S4F3,male
+647,23B3930,Deepak Kumar,EE,S4F3,male
+648,23B3917,Parth Eknath Mahajan,EE,S4F3,male
+649,23B4247,Ms. Kakarla Harika,ES,S4F4,female
+650,23B1806,Sumit Kumar Adhya,EP,S4F4,male
+651,23B3008,Satvik Gautam,EC,S4F4,male
+652,23B1226,Kartik Daga,EE,S4F4,male
+653,23B1284,Vansh Satish Bansal,EE,S4F4,male
+654,23B1273,Jigar Nikhil Mehta,EE,S4F4,male
+655,23B3939,Ms. Anum Siddiqui,EE,S4F5,female
+656,23B4207,Shaikh Adnan Matiyoddin,ES,S4F5,male
+657,23B1830,Akshat Birla Kushwah,EP,S4F5,male
+658,23B3002,Aviraj Khare,EC,S4F5,male
+659,23B1296,Moinam Paul,EE,S4F5,male
+660,23B1265,Manit Jhajharia,EE,S4F5,male
+661,23B0435,Gaurav Mankele,CL,S5A1,male
+662,23B0401,Gursale Soham Prakash,CL,S5A1,male
+663,23B2245,Ms. Bhalerao Mrunmai Vidyadhar,ME,S5A1,female
+664,23B2146,Tejas Satish Narkhede,ME,S5A1,male
+665,23B2161,Makarand Milind Rele,ME,S5A1,male
+666,23B2272,Shivam Gupta,ME,S5A1,male
+667,23B0420,Modi Anmol Alkeshkumar,CL,S5A2,male
+668,23B0341,Anurag Etarvi,CL,S5A2,male
+669,23B2269,Ms. Khushi,ME,S5A2,female
+670,23B2280,Tejas Baid,ME,S5A2,male
+671,23B2262,Vedant Milind Abhangrao,ME,S5A2,male
+672,23B2196,Priyanshu Sengar,ME,S5A2,male
+673,23B0425,Jay Shah,CL,S5A3,male
+674,23B0395,Sarthak Dattatray Hase,CL,S5A3,male
+675,23B2182,Ms. Khushi Sharma,ME,S5A3,female
+676,23B2278,Krishna Gilda,ME,S5A3,male
+677,23B2102,Patil Ishan Pandurang,ME,S5A3,male
+678,23B2265,Anish Rajendra Chakane,ME,S5A3,male
+679,23B0421,Saksham Verma,CL,S5A4,male
+680,23B0388,Mohammad Hasaan Naurez,CL,S5A4,male
+681,23B2159,Ms. Matti Gokula Sahithi,ME,S5A4,female
+682,23B2166,Aditya Anmol,ME,S5A4,male
+683,23B2105,Natraj Thounty,ME,S5A4,male
+684,23B2173,Joshi Rohan Harsh,ME,S5A4,male
+685,23B0325,Manan Mehta,CL,S5B1,male
+686,23B0410,Aryan Sanjay Bagde,CL,S5B1,male
+687,23B2213,Ms. Amishi Jain,ME,S5B1,female
+688,23B2184,Banavathu Karthik,ME,S5B1,male
+689,23B2220,Prashant Vashisht,ME,S5B1,male
+690,23B2114,Ankit Saini,ME,S5B1,male
+691,23B0305,Rahul,CL,S5B2,male
+692,23B0314,Ritesh Kumar Ahirwar,CL,S5B2,male
+693,23B2228,Ms. Vanshika Bansal,ME,S5B2,female
+694,23B2273,Ayush Ashish Kumar,ME,S5B2,male
+695,23B2167,Shamik Sandip Banerjee,ME,S5B2,male
+696,23B2209,Menbahadur Yadav,ME,S5B2,male
+697,23B0328,Paresh Kumar Sabar,CL,S5B3,male
+698,23B0445,Renudhruva S,CL,S5B3,male
+699,23B2211,Ms. Shreshtha Agarwal,ME,S5B3,female
+700,23B2205,Rajat Kumar Sunda,ME,S5B3,male
+701,23B2168,Todkar Roshan Sudhakar,ME,S5B3,male
+702,23B2290,Ms. Chandreyee Sarkar,ME,S5B3,female
+703,23B0409,Vassu Sharma,CL,S5B4,male
+704,23B0343,Aryan Chaudhary,CL,S5B4,male
+705,23B2106,Ms. Siri Saathvika Irigi,ME,S5B4,female
+706,23B2235,Arham Biren Shah,ME,S5B4,male
+707,23B2230,Lakshaditya Singh,ME,S5B4,male
+708,23B2120,Nimbalkar Aditya Manohar,ME,S5B4,male
+709,23B0340,Bhavishya Gupta,CL,S5B5,male
+710,23B0335,Jagdish Singh,CL,S5B5,male
+711,23B2227,Ms. Avasthi Jain,ME,S5B5,female
+712,23B2121,Keshav Goyal,ME,S5B5,male
+713,23B2239,Narayankar Tanishq Mahesh,ME,S5B5,male
+714,23B2214,Aadish Vora,ME,S5C1,male
+715,23B0332,Husain Batterywala,CL,S5C1,male
+716,23B0324,Abhinav Kumar,CL,S5C1,male
+717,23B2134,Ms. Bhakti Bansal,ME,S5C1,female
+718,23B2270,Gaurish Kishor Khodke,ME,S5C1,male
+719,23B2260,Gangurde Rudra Sunil,ME,S5C1,male
+720,23B0408,Prathamesh Mahendra Bende,CL,S5C2,male
+721,23B0377,Abhinav Bhooshan Asia,CL,S5C2,male
+722,23B2259,Ms. Manaswi Goyal,ME,S5C2,female
+723,23B2126,Manav Mathew Sebastian,ME,S5C2,male
+724,23B2277,Sahaj Jitendrabhai Kavathiya,ME,S5C2,male
+725,23B2242,Cheera Harsha Vardhan,ME,S5C2,male
+726,23B0331,Dependar Arya,CL,S5C3,male
+727,23B0394,Kokate Pradyumn Markandaya,CL,S5C3,male
+728,23B2201,Ms. Dnyaneshwari Kate,ME,S5C3,female
+729,23B2247,Karamthotu Prudhvi Raj,ME,S5C3,male
+730,23B2127,Arnav Gautam,ME,S5C3,male
+731,23B2183,Shah Vraj Alpeshbhai,ME,S5C3,male
+732,23B0405,Yash Krunal Shah,CL,S5C4,male
+733,23B0359,Ansari Mohammad Zaif Jahangir Ahmed,CL,S5C4,male
+734,23B2108,Ms. Dhriti Singh,ME,S5C4,female
+735,23B2229,Yash Laxmikant Asore,ME,S5C4,male
+736,23B2222,Yog Suresh Sonawane,ME,S5C4,male
+737,23B2175,Akshat Rakesh Pandey,ME,S5C4,male
+738,23B0393,Doshi Taksh Dhanesh,CL,S5C5,male
+739,23B0379,Kabra Gaurav Sandeep,CL,S5C5,male
+740,23B2163,Ms. Purvi Rathore,ME,S5C5,female
+741,23B2258,Geet Prashant Sethi,ME,S5C5,male
+742,23B2130,Dhruvam Parekh,ME,S5C5,male
+743,23B2131,Ms. Muskan,ME,S5C5,female
+744,23B0358,Diggaj Maheshwari,CL,S5D1,male
+745,23B0439,Rishit Kesharwani,CL,S5D1,male
+746,23B2111,Ms. Pratiksha,ME,S5D1,female
+747,23B2158,Guntuku Santosh Sagar,ME,S5D1,male
+748,23B2266,Yaman Singh,ME,S5D1,male
+749,23B2153,Sanyam Singh,ME,S5D1,male
+750,23B0416,Kare Amol Dipak,CL,S5D2,male
+751,23B0402,Patange Sarvesh Satish,CL,S5D2,male
+752,23B2129,Ms. Penumatsa Mahitha,ME,S5D2,female
+753,23B2286,Vishal Tiwari,ME,S5D2,male
+754,23B2261,Adeep Sidharth Sinai Kuncalienker,ME,S5D2,male
+755,23B2293,Hemant Singh,ME,S5D2,male
+756,23B0352,Ayush Tayal,CL,S5D3,male
+757,23B0337,Shashwat Gakre,CL,S5D3,male
+758,23B2232,Ms. Yashasvee Vijay Taiwade,ME,S5D3,female
+759,23B2170,Johan Sam Biju,ME,S5D3,male
+760,23B2200,Mohit,ME,S5D3,male
+761,23B2156,Armogan Shahab,ME,S5D3,male
+762,23B0301,Jadhav Harsh Manesh,CL,S5D4,male
+763,23B0422,Kaushik Mandal,CL,S5D4,male
+764,23B2223,Ms. D K Mithra,ME,S5D4,female
+765,23B2212,Somya Srivastava,ME,S5D4,male
+766,23B2190,Atharv Jangale,ME,S5D4,male
+767,23B2150,Sharath Kumar MD,ME,S5D4,male
+768,23B0322,Netram,CL,S5D5,male
+769,23B0432,Armaan Valecha,CL,S5D5,male
+770,23B2249,Ms. Anousha Puvvala,ME,S5D5,female
+771,23B2297,Akshat Amit Patel,ME,S5D5,male
+772,23B2295,Kunsh Krishna Nyati,ME,S5D5,male
+773,23B2238,Devarsh Kaushal Mehta,ME,S5D5,male
+774,23B0323,Gugulothu Pradyumna,CL,S5E1,male
+775,23B0350,Mahesh Bharat Naik,CL,S5E1,male
+776,23B2185,Ms. Juee Nilesh Jahagirdar,ME,S5E1,female
+777,23B2244,Sanidhya Katiyar,ME,S5E1,male
+778,23B2204,Divyansh Agrawal,ME,S5E1,male
+779,23B2117,Yash Pankaj Baldawa,ME,S5E1,male
+780,23B0318,Abhishek Ahirwar,CL,S5E2,male
+781,23B0330,Vivaan Shah,CL,S5E2,male
+782,23B2231,Ms. Mahima Sahu,ME,S5E2,female
+783,23B2123,Prateek Kumar Behera,ME,S5E2,male
+784,23B2135,Sabarish S,ME,S5E2,male
+785,23B2139,Ms. Aanvi,ME,S5E2,female
+786,23B0414,Aditya Khandegar,CL,S5E3,male
+787,23B0397,Ayushmaan Dhanai,CL,S5E3,male
+788,23B2142,Ms. Tanushree Singh,ME,S5E3,female
+789,23B2112,Vedant Ramesh Zanwar,ME,S5E3,male
+790,23B2148,Ronak Gupta,ME,S5E3,male
+791,23B2210,Mayank Tatwade,ME,S5E3,male
+792,23B0368,Harsh Chavda,CL,S5E4,male
+793,23B0348,Ojas Goel,CL,S5E4,male
+794,23B2171,Ms. Adrika Das,ME,S5E4,female
+795,23B2256,Katika Tarun Kumar,ME,S5E4,male
+796,23B2165,Senapathi Surya Chandra Bheem Kumar,ME,S5E4,male
+797,23B2132,Sujay Agrawal,ME,S5E4,male
+798,23B0407,Patil Udayanraje Balasaheb,CL,S5E5,male
+799,23B0336,Bisen Tanmay Tejram,CL,S5E5,male
+800,23B2207,Ms. D Maneesha,ME,S5E5,female
+801,23B2282,Vikas H R,ME,S5E5,male
+802,23B2137,Prasham Pangtey,ME,S5E5,male
+803,23B2237,Sivakrishna Sasi,ME,S5E5,male
+804,23B0390,Tanmoy Das,CL,S5F1,male
+805,23B0309,Shivam,CL,S5F1,male
+806,23B2236,Ms. Karipe Hima Varsha,ME,S5F1,female
+807,23B2215,Aagam Sheetalkumar Kasaliwal,ME,S5F1,male
+808,23B2138,Koduri Swarandeep,ME,S5F1,male
+809,23B2243,Shresth Keshari,ME,S5F1,male
+810,23B0338,Anghan Omkumar Dineshbhai,CL,S5F2,male
+811,23B0403,Yajat Sharma,CL,S5F2,male
+812,23B2287,Ms. Kanika Sharma,ME,S5F2,female
+813,23B2124,Avaneesh Vinayak Khadye,ME,S5F2,male
+814,23B2164,Mridul Gopalia,ME,S5F2,male
+815,23B2283,Shashwat Parmeshwar Tripathi,ME,S5F2,male
+816,23B0373,Krishna Gahlod,CL,S5F3,male
+817,23B0307,Kadam Gaurav Kailas,CL,S5F3,male
+818,23B2294,Ms. Vijaylaxmi Mahesh Maitri,ME,S5F3,female
+819,23B2199,Siddhesh Santosh Sonawane,ME,S5F3,male
+820,23B2160,Domala Shiva Prasad,ME,S5F3,male
+821,23B2177,Naidu Anish Venkata Balaji,ME,S5F3,male
+822,23B0417,Gyanendra,CL,S5F4,male
+823,23B0443,Aditya Rana,CL,S5F4,male
+824,23B2226,Ms. Diksha Tembhurne,ME,S5F4,female
+825,23B2197,Ms. Shivali Sandeep Pacharne,ME,S5F4,female
+826,23B2281,Aarya Ajay Kshirsagar,ME,S5F4,male
+827,23B0354,Manish,CL,S5F4,male
+828,23B0366,Divam Jain,CL,S5F5,male
+829,23B0308,Akhil Tripathi,CL,S5F5,male
+830,23B0369,Nagul Varadd Mahesh,CL,S5F5,male
+831,23B2225,Ms. Mishkat Fatma,ME,S5F5,female
+832,23B2250,Chhotu Singh,ME,S5F5,male
+833,23B2267,Brajraj Chaturvedi,ME,S5F5,male
+834,23B2485,Ms. Vidhi Tejas Morzaria,MM,S6A1,female
+835,23B0704,Devesh Rawat,CE,S6A1,male
+836,23B0749,Parth Niket Dhruv,CE,S6A1,male
+837,23B2470,Shubham G Korade,MM,S6A1,male
+838,23B0698,Shahab Ahmad,CE,S6A1,male
+839,23B0646,Ranbir Rajat Sinha,CE,S6A1,male
+840,23B2413,Ms. Preksha Pc,MM,S6A2,female
+841,23B0645,Arit Misra,CE,S6A2,male
+842,23B0743,Hrishikesh Lal Baishya,CE,S6A2,male
+843,23B2498,Mohammad Yusuf,MM,S6A2,male
+844,23B0680,Shinde Anand,CE,S6A2,male
+845,23B2455,Ashish Kumar Yadav,MM,S6A2,male
+846,23B0751,Ms. Sakshi Naresh Kanal,CE,S6A3,female
+847,23B2515,Pathulothu Ranga,MM,S6A3,male
+848,23B0706,Priyanshu Gehlot,CE,S6A3,male
+849,23B2432,Khushal Kumawat,MM,S6A3,male
+850,23B0624,Priyanshu Sharma,CE,S6A3,male
+851,23B2401,Pratyaksh Bhardwaj,MM,S6A3,male
+852,23B0769,Ms. Nancy Soni,CE,S6A4,female
+853,23B2504,Neel Meena,MM,S6A4,male
+854,23B0648,Shashwat Pranav,CE,S6A4,male
+855,23B2444,Harsh Kumar Singh,MM,S6A4,male
+856,23B0637,Arnav Kumar,CE,S6A4,male
+857,23B2415,Hitesh Kumar Khiani,MM,S6A4,male
+858,23B0672,Ms. Aastha Borkar,CE,S6B1,female
+859,23B2479,Ms. Kanak P Tembhare,MM,S6B1,female
+860,23B0728,Udit Agrawal,CE,S6B1,male
+861,23B0759,Soyal Khan,CE,S6B1,male
+862,23B2419,Arjun Pradeep Andhare,MM,S6B1,male
+863,23B0615,Manthan Goyal,CE,S6B1,male
+864,23B0724,Ms. Bhumi Bramhanand Ghadage,CE,S6B2,female
+865,23B2460,Jatavath Saikumar,MM,S6B2,male
+866,23B0754,Kaushal Pandey,CE,S6B2,male
+867,23B2505,Makwana Hitansh Dipakbhai,MM,S6B2,male
+868,23B0621,Harsh Kulhari,CE,S6B2,male
+869,23B2493,Ashish Singh,MM,S6B2,male
+870,23B0625,Ms. Anjali Jangid,CE,S6B3,female
+871,23B2476,Anshu,MM,S6B3,male
+872,23B0607,Udit Kumar,CE,S6B3,male
+873,23B2514,Veer Vishal Lohia,MM,S6B3,male
+874,23B0632,Patel Karan Hareshkumar,CE,S6B3,male
+875,23B0671,Omprakash Pramod Chaturvedi,CE,S6B3,male
+876,23B0738,Ms. Mudavath Sindhu,CE,S6B4,female
+877,23B2509,Sameer Gupta,MM,S6B4,male
+878,23B0760,Nawang Tashi,CE,S6B4,male
+879,23B2521,Nikhil Khandelwal,MM,S6B4,male
+880,23B0697,Puneet Yadav,CE,S6B4,male
+881,23B2403,Arijit Chatterjee,MM,S6B4,male
+882,23B0718,Ms. Nehal Gupta,CE,S6B5,female
+883,23B2437,Jadhav Om,MM,S6B5,male
+884,23B0745,Vishal Chandra Patel,CE,S6B5,male
+885,23B2416,Shubham,MM,S6B5,male
+886,23B0709,Sachin Thappa,CE,S6B5,male
+887,23B2402,Suryangshu Das,MM,S6B5,male
+888,23B0688,Ms. Dhruvi Deepak Desai,CE,S6C1,female
+889,23B2452,Abinesh A,MM,S6C1,male
+890,23B0750,Gaikwad Surabh Rupchand,CE,S6C1,male
+891,23B2478,Atharv Bandgar,MM,S6C1,male
+892,23B0617,Khushahal Varhat,CE,S6C1,male
+893,23B2482,Amit Jaiswal,MM,S6C1,male
+894,23B0695,Ms. Swati Pandey,CE,S6C2,female
+895,23B0629,Ms. Challa Akshitha,CE,S6C2,female
+896,23B2462,Bharat Arora,MM,S6C2,male
+897,23B0685,Rishu Raj,CE,S6C2,male
+898,23B2445,Anasmit Mitra,MM,S6C2,male
+899,23B0613,Akketi Swethank Reddy,CE,S6C2,male
+900,23B2519,Ms. Bhumi Barkur,MM,S6C3,female
+901,23B0747,Prathmesh Mangesh Walimbe,CE,S6C3,male
+902,23B0731,Puranjay Bansal,CE,S6C3,male
+903,23B2525,Vaghasiya Dhruvam Bharatbhai,MM,S6C3,male
+904,23B2422,Tanmay Agarwal,MM,S6C3,male
+905,23B0649,Adarsh,CE,S6C3,male
+906,23B0611,Ms. Niharika,CE,S6C4,female
+907,23B2512,Adwait Subodh Kane,MM,S6C4,male
+908,23B0702,Sajjad Sajid Nakhwa,CE,S6C4,male
+909,23B2457,Dinesh Sahu,MM,S6C4,male
+910,23B0653,Prabhakar Yadav,CE,S6C4,male
+911,23B0635,Arvind Singh,CE,S6C4,male
+912,23B2486,Ms. Nandini Goyal,MM,S6D1,female
+913,23B0612,Kartikeya Shukla,CE,S6D1,male
+914,23B0755,Ansh Goyal,CE,S6D1,male
+915,23B2436,Vivek Nanhoriya,MM,S6D1,male
+916,23B0623,Ashwini Kumar Mishra,CE,S6D1,male
+917,23B2500,Jairaj Vidhyarthi,MM,S6D1,male
+918,23B2522,Ms. Najma Khan,MM,S6D2,female
+919,23B0694,Podduturi Snehith Reddy,CE,S6D2,male
+920,23B0668,Vinamra Patil,CE,S6D2,male
+921,23B2471,Quraishi Abdur Rahman,MM,S6D2,male
+922,23B0711,Dunggam Gao,CE,S6D2,male
+923,23B2488,Shlok Sunil Agrawal,MM,S6D2,male
+924,23B0669,Ms. Maldode Sneha Prabhakar,CE,S6D3,female
+925,23B2530,Atharav Sonawane,MM,S6D3,male
+926,23B0732,Nikhil Pal,CE,S6D3,male
+927,23B2450,Tushar Kumar,MM,S6D3,male
+928,23B0690,Anand,CE,S6D3,male
+929,23B2497,M Siddharth,MM,S6D3,male
+930,23B0752,Ms. Mudrika Gupta,CE,S6D4,female
+931,23B0723,Ms. Mrunal Pachpande,CE,S6D4,female
+932,23B2427,Aditya Shukla,MM,S6D4,male
+933,23B0604,Nitin,CE,S6D4,male
+934,23B2466,Varun Surendra Chandak,MM,S6D4,male
+935,23B0601,Prince,CE,S6D4,male
+936,23B2405,Ms. Avani Hasmukh Gala,MM,S6E1,female
+937,23B0657,Prajapati Kavan Gautamkumar,CE,S6E1,male
+938,23B0661,Krish Bansal,CE,S6E1,male
+939,23B2502,Amrit Kumar Meena,MM,S6E1,male
+940,23B0676,Yuvraj Singh Lodhi,CE,S6E1,male
+941,23B2407,Harsh Chopra,MM,S6E1,male
+942,23B0736,Ms. Punse Janhavi Rajesh,CE,S6E2,female
+943,23B2434,Jay Dinesh Ajinkya,MM,S6E2,male
+944,23B0701,Samay Rakshit,CE,S6E2,male
+945,23B2448,Baria Pragneshkumar,MM,S6E2,male
+946,23B0643,Onkar Bhagvan Sathe Patil,CE,S6E2,male
+947,23B0638,Vishwajeet Sambhaji Natu,CE,S6E2,male
+948,23B2414,Ms. Mohita Shanmugam,MM,S6E3,female
+949,23B0639,Aditya,CE,S6E3,male
+950,23B0708,Satarkar Karan Vijay,CE,S6E3,male
+951,23B2510,Bolaj Soham Pradeep,MM,S6E3,male
+952,23B0652,Parv Seth,CE,S6E3,male
+953,23B2439,Param Mehta,MM,S6E3,male
+954,23B0691,Ms. Diya Sharma,CE,S6E4,female
+955,23B2420,Sunil,MM,S6E4,male
+956,23B0640,Gottimukkula Soumith Reddy,CE,S6E4,male
+957,23B2533,Jana Sahil Vivek,MM,S6E4,male
+958,23B0664,Arjun Bhardwaj,CE,S6E4,male
+959,23B0666,Vivaan Vimal Jain,CE,S6E4,male
+960,23B2440,Ms. Rode Shalmali Suresh,MM,S6F1,female
+961,23B0712,Tamas Sankar Saha,CE,S6F1,male
+962,23B0733,Shourya Goyal,CE,S6F1,male
+963,23B2524,Awatade Ayush,MM,S6F1,male
+964,23B2458,Bhagya Yogesh Agrawal,MM,S6F1,male
+965,23B0620,Nimish Sharma,CE,S6F1,male
+966,23B2418,Ms. Anvi Gupta,MM,S6F2,female
+967,23B0730,Ms. Riya Agrawal,CE,S6F2,female
+968,23B0619,Lavudya Yashwanth,CE,S6F2,male
+969,23B0670,Kunal Pravin Jain,CE,S6F2,male
+970,23B2483,Ruchir Yogesh Kulkarni,MM,S6F2,male
+971,23B0725,Dibyanshu Dash,CE,S6F2,male
+972,23B0714,Ms. Bhadrecha Ritika Mohan,CE,S6F3,female
+973,23B2429,Pitta Abhinay Kumar,MM,S6F3,male
+974,23B0614,Rathva Keyurkumar,CE,S6F3,male
+975,23B2494,Paras Banshkar,MM,S6F3,male
+976,23B2529,Dev Kumar,MM,S6F3,male
+977,23B0693,B Chandra Shekhar Uke,CE,S6F3,male
+978,23B2447,Ms. Azmeera Bhuvitha,MM,S6F4,female
+979,23B0703,Bonde Rushabh Ramesh,CE,S6F4,male
+980,23B0675,Ankush Kumar Mandal,CE,S6F4,male
+981,23B2472,Rohit Sharma,MM,S6F4,male
+982,23B0642,Prashant Singh,CE,S6F4,male
+983,23B2528,Rahul Sharma,MM,S6F4,male
+984,23B0963,Ms. Komrelly Snigdha Reddy,CS,S7A1,female
+985,23B0048,Dheeraj Kumar,AE,S7A1,male
+986,23B1508,Siddhant Sumit Gupta,EN,S7A1,male
+987,23B1003,Abhinav Singh,CS,S7A1,male
+988,23B0948,Kritin Gupta,CS,S7A1,male
+989,23B1049,Ridam Jain,CS,S7A1,male
+990,23B1510,Anuj Tiwari,EN,S7A2,male
+991,23B0038,Ms. Kandalkar Yashashree Dilip,AE,S7A2,female
+992,23B1011,Ms. Abhilasha Sharma Suman,CS,S7A2,female
+993,23B0010,Diwesh Mallick,AE,S7A2,male
+994,23B1520,Gagandeep,EN,S7A2,male
+995,23B0989,Gaurav Kumar,CS,S7A2,male
+996,23B0077,Ms. Khushi Garg,AE,S7A3,female
+997,23B1523,Veeraditya Karan Parakh,EN,S7A3,male
+998,23B0975,Menda V Venkata Harsha Vardhan,CS,S7A3,male
+999,23B0995,Kunj Bhesaniya,CS,S7A3,male
+1000,23B0924,Bondala Somanath Vasanth Yadav,CS,S7A3,male
+1001,23B1042,Sangadi Vijaya Raghavendra,CS,S7A3,male
+1002,23B1047,Ms. Tapase Aditi Maniklal,CS,S7A4,female
+1003,23B0045,Shaurya Goyal,AE,S7A4,male
+1004,23B0947,Ms. Akepati Sriya,CS,S7A4,female
+1005,23B0018,Prakhar Singh,AE,S7A4,male
+1006,23B1536,Merugu Vishnuvardhan,EN,S7A4,male
+1007,23B1006,Sandeep Reddy Nallamilli,CS,S7A4,male
+1008,23B0019,Cris Chudasama,AE,S7A5,male
+1009,23B1070,Ms. Bhukya Akkshitha Rathod,CS,S7A5,female
+1010,23B1522,Jash Vismay Dalal,EN,S7A5,male
+1011,23B0938,Deshank Pratap Singh,CS,S7A5,male
+1012,23B0972,Komarapu Vivek Vardhan,CS,S7A5,male
+1013,23B0944,Aayush Martand Borkar,CS,S7A5,male
+1014,23B1540,Devansh Yadav,EN,S7B1,male
+1015,23B0068,Vedant Bhardwaj,AE,S7B1,male
+1016,23B1545,Ms. Riyanshi Pal,EN,S7B1,female
+1017,23B0026,Parvesh Meena,AE,S7B1,male
+1018,23B0937,Nikhil Narera,CS,S7B1,male
+1019,23B0915,Nandipati Sai Durga Reddy,CS,S7B1,male
+1020,23B0046,Samanth Martis,AE,S7B2,male
+1021,23B1517,Ms. Kota Tejasri,EN,S7B2,female
+1022,23B0916,Vanguri Eshwar,CS,S7B2,male
+1023,23B1061,Devangam Kishan Teja,CS,S7B2,male
+1024,23B0997,Thammaneni Dheeraj,CS,S7B2,male
+1025,23B0958,Satyam Sinoliya,CS,S7B2,male
+1026,23B1083,Ms. Jigyasa Chouhan,CS,S7B3,female
+1027,23B0006,Ms. Anushka Bharti,AE,S7B3,female
+1028,23B0042,Jadav Rajendra Kishanbhai,AE,S7B3,male
+1029,23B1512,Divyansh Sharma,EN,S7B3,male
+1030,23B0993,Kethavath Nithin Naik,CS,S7B3,male
+1031,23B1022,Rayapati Dinesh Sai,CS,S7B3,male
+1032,23B0066,Ainsley Fernandes,AE,S7B4,male
+1033,23B0929,Ms. Nayakanti Naga Bhavya Sree,CS,S7B4,female
+1034,23B1519,Jatin Meena,EN,S7B4,male
+1035,23B0998,Velamakanni Satwik,CS,S7B4,male
+1036,23B1031,Mrunal Shrikant Vairagade,CS,S7B4,male
+1037,23B1020,Chennu Rakesh Kumar Reddy,CS,S7B4,male
+1038,23B0056,Killampalli Vara Srinivas,AE,S7B5,male
+1039,23B0055,Ms. Urvi Lohana,AE,S7B5,female
+1040,23B0035,Rajdeep Paul,AE,S7B5,male
+1041,23B1541,Darshan Avinash Sonawane,EN,S7B5,male
+1042,23B0934,Yash Singh,CS,S7B5,male
+1043,23B1010,Pudi Ajay Kumar,CS,S7B5,male
+1044,23B0001,Divya Nayan Mehta,AE,S7C1,male
+1045,23B0935,Ms. Potnuru Saatvika,CS,S7C1,female
+1046,23B1001,Ms. Vadde Shanvitha Reddy,CS,S7C1,female
+1047,23B1504,Saud Ahmed Quadri,EN,S7C1,male
+1048,23B0917,Rajat Das,CS,S7C1,male
+1049,23B1028,Ashish Kumar,CS,S7C1,male
+1050,23B1509,Joshi Ojas Rahul,EN,S7C2,male
+1051,23B0059,Ratan Kokal,AE,S7C2,male
+1052,23B1005,Ms. Sara Mukherjee,CS,S7C2,female
+1053,23B0002,Prajapati Neel Maheshbhai,AE,S7C2,male
+1054,23B1502,Samarth Aaggarwal,EN,S7C2,male
+1055,23B0953,Aakash Gupta,CS,S7C2,male
+1056,23B0058,Ms. Falguni Kashyap,AE,S7C3,female
+1057,23B1503,Shivam Nitin Shaligram,EN,S7C3,male
+1058,23B1008,Jainendrajeet,CS,S7C3,male
+1059,23B0909,Varri Shyam Sri Vardhan,CS,S7C3,male
+1060,23B0949,Kamyak Channa,CS,S7C3,male
+1061,23B0980,Mradul Sonkar,CS,S7C3,male
+1062,23B0043,Ms. Gauri Mahajan,AE,S7C4,female
+1063,23B0011,Ms. Ambika Soni,AE,S7C4,female
+1064,23B0918,Banoth Tharun Tej,CS,S7C4,male
+1065,23B1538,Vedant Umesh Bagde,EN,S7C4,male
+1066,23B1079,Sumedh S S,CS,S7C4,male
+1067,23B1069,Uday Gajanan Darade,CS,S7C4,male
+1068,23B0053,Ms. Krupa Guruprasad Pai,AE,S7C5,female
+1069,23B1507,Arth Agrawal,EN,S7C5,male
+1070,23B0901,Kaushal Vijayvergiya,CS,S7C5,male
+1071,23B1034,Malay Kedia,CS,S7C5,male
+1072,23B0906,Velagala Deeraj Sathvik Reddy,CS,S7C5,male
+1073,23B0970,Priyanshu Kumar,CS,S7C5,male
+1074,23B1544,Tiyash Dutta,EN,S7D1,male
+1075,23B0054,Parmar Henil Nageshkumar,AE,S7D1,male
+1076,23B1072,Ms. Ette Hasini,CS,S7D1,female
+1077,23B0037,Ayush Patel,AE,S7D1,male
+1078,23B1043,Yash Vikas Sabale,CS,S7D1,male
+1079,23B1055,Sanapala Anirudh,CS,S7D1,male
+1080,23B0012,Bhuvan K Prasad,AE,S7D2,male
+1081,23B1530,Ms. S Shruti Tejasvi,EN,S7D2,female
+1082,23B1054,Ms. Pathi Nikitha,CS,S7D2,female
+1083,23B0968,Suthar Harshul Sanjaybhai,CS,S7D2,male
+1084,23B1013,Dudigani Lathik Abhinay,CS,S7D2,male
+1085,23B0943,Shaik Sahil Chanda,CS,S7D2,male
+1086,23B1524,Aditya Singh,EN,S7D3,male
+1087,23B0039,Vrushabh Patil,AE,S7D3,male
+1088,23B0902,Ms. Arya Suwalka,CS,S7D3,female
+1089,23B0029,Maisuriya Aum Urmishkumar,AE,S7D3,male
+1090,23B0988,Prabhav Khandelwal,CS,S7D3,male
+1091,23B1019,Chirag Gautam,CS,S7D3,male
+1092,23B0009,Lavudi Shiva Balaji,AE,S7D4,male
+1093,23B1014,Ms. Peela Teja Sri,CS,S7D4,female
+1094,23B1000,Paluri Gnana Kousik Reddy,CS,S7D4,male
+1095,23B0957,Kunumalla Gautam Siddharth,CS,S7D4,male
+1096,23B0945,Akshit Kumar,CS,S7D4,male
+1097,23B0981,Repudi Akshay Karthik,CS,S7D4,male
+1098,23B1050,Ujwal L Shankar,CS,S7E1,male
+1099,23B0023,Gurbani Jeet Sunil,AE,S7E1,male
+1100,23B1071,Ms. Inampudi Harshitha,CS,S7E1,female
+1101,23B0033,Shreeram Anil Jadhav,AE,S7E1,male
+1102,23B1026,Duggineni Venkata Yugesh,CS,S7E1,male
+1103,23B0942,Dhruv Sanjay Jain,CS,S7E1,male
+1104,23B0014,Ms. Nandini Agrawal,AE,S7E2,female
+1105,23B0952,Punumalli Lohit Adhitya Sai,CS,S7E2,male
+1106,23B1032,Vysyaraju Srikar Nihal,CS,S7E2,male
+1107,23B0979,Satyala Madhu Kiran,CS,S7E2,male
+1108,23B0027,Thallapally Mani Sharavan Goud,AE,S7E2,male
+1109,23B1062,Ramesh Surya Theja,CS,S7E2,male
+1110,23B1505,Ms. Sakshi Daberao,EN,S7E3,female
+1111,23B0032,Dhruv Vashistha,AE,S7E3,male
+1112,23B0069,Achintya Aravind Rai,AE,S7E3,male
+1113,23B1074,Saksham Jain,CS,S7E3,male
+1114,23B1065,Devang Tibrewal,CS,S7E3,male
+1115,23B1023,Pushpendra Uikey,CS,S7E3,male
+1116,23B0076,Rahul Lalmohan Singh,AE,S7E4,male
+1117,23B0976,Ms. Boyina Sanjana,CS,S7E4,female
+1118,23B0999,Yuvraj Gupta,CS,S7E4,male
+1119,23B1078,Saksham Saharia,CS,S7E4,male
+1120,23B1051,Aman Nehra,CS,S7E4,male
+1121,23B0987,Dasari Saketh Naidu,CS,S7E4,male
+1122,23B1515,R Hari Krishna,EN,S7E5,male
+1123,23B0047,Ms. Gupta Ritthika Raja,AE,S7E5,female
+1124,23B0908,Raghav Goyal,CS,S7E5,male
+1125,23B1066,Kunsoth Chandrashen Nayak,CS,S7E5,male
+1126,23B0974,Krish Gupta,CS,S7E5,male
+1127,23B0996,Punit Kumar,CS,S7F1,male
+1128,23B0004,Jagdish Sajeesh,AE,S7F1,male
+1129,23B1501,Ms. Purvi Jain,EN,S7F1,female
+1130,23B0911,Kalla Lakshmi Surya,CS,S7F1,male
+1131,23B1044,Moulik Jindal,CS,S7F1,male
+1132,23B0926,Chaitanyaa Mahesh Maheshwari,CS,S7F1,male
+1133,23B1085,Harith S,CS,S7F2,male
+1134,23B0061,Joseph Prince Perikalakattu,AE,S7F2,male
+1135,23B0020,Krishna Murmu,AE,S7F2,male
+1136,23B0928,Ms. Anushka Singhal,CS,S7F2,female
+1137,23B1021,Ms. Sambangi Varshini,CS,S7F2,female
+1138,23B0951,Jatsya Jariwala,CS,S7F2,male
+1139,23B1018,Bikkina Abhinav Chowdary,CS,S7F3,male
+1140,23B0024,Patel Om Rajeshkumar,AE,S7F3,male
+1141,23B0936,Ms. Meesala Pranathi Sreeja,CS,S7F3,female
+1142,23B1067,Harsh Suthar,CS,S7F3,male
+1143,23B0982,Navya Garg,CS,S7F3,male
+1144,23B0904,Prakhar Jain,CS,S7F3,male
+1145,23B0992,Dumpala Paneendra Nadha Reddy,CS,S7F4,male
+1146,23B0050,Ms. Shreya Taria,AE,S7F4,female
+1147,23B1052,Ramachandran S,CS,S7F4,male
+1148,23B0933,Sarthak Dhananjay Thakare,CS,S7F4,male
+1149,23B0959,Nagireddy Balaaji Reddy,CS,S7F4,male
+1150,23B1040,B Shashank,CS,S7F4,male
+1151,23B1528,Ms. Vara Nishma,EN,S7F5,female
+1152,23B1075,Shiv Narang,CS,S7F5,male
+1153,23B1027,Dola Surya Sai,CS,S7F5,male
+1154,23B0983,Konda Puspa Kumar Reddy,CS,S7F5,male
+1155,23B1038,N.K.Vishwaajith,CS,S7F5,male
+1156,23B4210,Ms. Mehak,ES,S8A1,female
+1157,23B1815,Parandhi Sahith,EP,S8A1,male
+1158,23B1283,Ms. Morishetty Laxmi Prasanna,EE,S8A1,female
+1159,23B1230,Bhavishya Singh Premi,EE,S8A1,male
+1160,23B3911,Mohammad Noorain Ansari,EE,S8A1,male
+1161,23B3972,Himansu Sahu,EE,S8A1,male
+1162,23B3906,Ms. Anshika Jain,EE,S8A2,female
+1163,23B1837,Ronit Uday Gajbhiye,EP,S8A2,male
+1164,23B3030,Aaditya Shah,EC,S8A2,male
+1165,23B1295,Arjoe Basak,EE,S8A2,male
+1166,23B1312,Sudhindra Sahoo,EE,S8A2,male
+1167,23B1201,Maddela Sainath,EE,S8A2,male
+1168,23B1848,Soham Sahasrabuddhe,EP,S8A3,male
+1169,23B4206,Ms. Aditi Agarwal,ES,S8A3,female
+1170,23B3035,Abhav Singh,EC,S8A3,male
+1171,23B3990,Hemang Dave,EE,S8A3,male
+1172,23B1204,Sarthak Toshniwal,EE,S8A3,male
+1173,23B1256,Shenai Siddhanth Guruprasad,EE,S8A3,male
+1174,23B1287,Ms. Savaram Moony,EE,S8A4,female
+1175,23B1843,Ved Kumar Seth,EP,S8A4,male
+1176,23B4245,Mukund Raj,ES,S8A4,male
+1177,23B1240,Yash Krishnani,EE,S8A4,male
+1178,23B3912,Milin Agrawal,EE,S8A4,male
+1179,23B1202,Pamarthi Harsha Sai Srinivas,EE,S8A4,male
+1180,23B3019,Ms. Jiya Batheja,EC,S8B1,female
+1181,23B1847,Farhan Ahmad,EP,S8B1,male
+1182,23B4228,Raghav Gupta,ES,S8B1,male
+1183,23B1252,Manan Garg,EE,S8B1,male
+1184,23B1242,Kundan Maiti,EE,S8B1,male
+1185,23B1254,Daksh Yashwant Sawke,EE,S8B1,male
+1186,23B1307,Ms. Dishika Nawal,EE,S8B2,female
+1187,23B4223,Ms. Tunuguntla Saisree Maneesha,ES,S8B2,female
+1188,23B1838,Abhishek Dixit,EP,S8B2,male
+1189,23B3960,Pranav Sadh,EE,S8B2,male
+1190,23B1225,Advay Bapat,EE,S8B2,male
+1191,23B3951,Kontham Sri Harsha,EE,S8B2,male
+1192,23B3984,Ms. Hase Tanisha Shantaram,EE,S8B3,female
+1193,23B1816,Tanish Sahu,EP,S8B3,male
+1194,23B3012,Parv Khandelwal,EC,S8B3,male
+1195,23B1251,Vishnu Bijarniya,EE,S8B3,male
+1196,23B3983,Jay Patel,EE,S8B3,male
+1197,23B1277,Bheesetti Yaswanth Ram Kumar,EE,S8B3,male
+1198,23B1258,Ms. Shreya Nigam,EE,S8B4,female
+1199,23B4203,Durgesh Kumar Jha,ES,S8B4,male
+1200,23B1855,Tanay Amit Agrawal,EP,S8B4,male
+1201,23B3938,Aryamman Bhatia,EE,S8B4,male
+1202,23B1309,Veeresh S Kambalyal,EE,S8B4,male
+1203,23B1244,Shivam Chaubey,EE,S8B4,male
+1204,23B3954,Ms. Kashyapi Mahajan,EE,S8B5,female
+1205,23B4209,Ayush Agarwal,ES,S8B5,male
+1206,23B1835,Devanshu Jha,EP,S8B5,male
+1207,23B3016,Mohd Suzaib Alam,EC,S8B5,male
+1208,23B1849,Kale Chinmay Jagdish,EP,S8B5,male
+1209,23B3914,Vinay Agrawal,EE,S8B5,male
+1210,23B3902,Ms. Mahima Anil Singh,EE,S8C1,female
+1211,23B4224,Bunke Vaibhav Anil,ES,S8C1,male
+1212,23B1808,Adarsh John,EP,S8C1,male
+1213,23B3003,Vaibhav Verma,EC,S8C1,male
+1214,23B3932,Soma Harsha Nagamani Vardhan,EE,S8C1,male
+1215,23B1247,Aniket Gupta,EE,S8C1,male
+1216,23B1211,Ms. Aboli Ganesh Malshikare,EE,S8C2,female
+1217,23B1821,Pavithiran Ravikumar,EP,S8C2,male
+1218,23B3034,Hiremath Tejomay Mrutyunjay,EC,S8C2,male
+1219,23B3915,Ms. Jaya Jareda,EE,S8C2,female
+1220,23B1285,Chinmay Purohit,EE,S8C2,male
+1221,23B1235,Devansh Sridhar,EE,S8C2,male
+1222,23B1263,Ms. Patil Bhakti Santosh,EE,S8C3,female
+1223,23B4234,Arnav Gupta,ES,S8C3,male
+1224,23B1828,Anvit Navin Khade,EP,S8C3,male
+1225,23B3933,Mridul Choudhary,EE,S8C3,male
+1226,23B1233,Tushar Singha Roy,EE,S8C3,male
+1227,23B1207,Pendela Harshith,EE,S8C3,male
+1228,23B4230,Ms. Aditi Sharma,ES,S8C4,female
+1229,23B1812,Sidhdant Kamble,EP,S8C4,male
+1230,23B3950,Shivtej Sanjay Ghatage,EE,S8C4,male
+1231,23B3976,Abdul Alan T,EE,S8C4,male
+1232,23B1227,Yashvardhan Khandegar,EE,S8C4,male
+1233,23B1229,Kanakala Sri Charan Raj,EE,S8C4,male
+1234,23B3013,Ms. Aarushi Nirav Shah,EC,S8D1,female
+1235,23B1853,Arya Sameer Joshi,EP,S8D1,male
+1236,23B4213,Aditya Dattatray Gavali,ES,S8D1,male
+1237,23B1311,Moddu Manidheep Reddy,EE,S8D1,male
+1238,23B3910,Aarya Vora,EE,S8D1,male
+1239,23B3988,Tanuj Kumawat,EE,S8D1,male
+1240,23B4218,Ms. Tanvi Anand,ES,S8D2,female
+1241,23B1826,Amogh Srivastav,EP,S8D2,male
+1242,23B1203,Peela Rathna Harsha,EE,S8D2,male
+1243,23B3955,Tripathi Aarush,EE,S8D2,male
+1244,23B3904,Viswa Teja Gannu,EE,S8D2,male
+1245,23B1272,Arjun Singh,EE,S8D2,male
+1246,23B3949,Ms. Anjali Gurudatt Joshi,EE,S8D3,female
+1247,23B1850,Banothu Ashok Kumar,EP,S8D3,male
+1248,23B3028,Atharv Sandeep Roday,EC,S8D3,male
+1249,23B3923,Ms. Chhavi Yadav,EE,S8D3,female
+1250,23B1262,Krunal Vaghela,EE,S8D3,male
+1251,23B3952,Akkapaka Karthik,EE,S8D3,male
+1252,23B1308,Ms. Swati Kumari,EE,S8D4,female
+1253,23B1819,Keshav Sharma,EP,S8D4,male
+1254,23B4221,Kshirsagar Nikhil Arjun,ES,S8D4,male
+1255,23B3001,Ansh Yadav,EC,S8D4,male
+1256,23B3928,Parth Gupta,EE,S8D4,male
+1257,23B3970,Goru Gokul,EE,S8D4,male
+1258,23B1288,Ms. Amrutham Mansi,EE,S8D5,female
+1259,23B1822,Pulin Tanmay Beck,EP,S8D5,male
+1260,23B4236,Aarav Jitendra Rangwani,ES,S8D5,male
+1261,23B3978,Viraj Aniruddh Joshi,EE,S8D5,male
+1262,23B3974,Dikshit Singla,EE,S8D5,male
+1263,23B3973,Rathod Jay,EE,S8D5,male
+1264,23B1232,Ms. Kruthi S,EE,S8E1,female
+1265,23B1834,Samridh Tiwari,EP,S8E1,male
+1266,23B3009,Manish Shaw,EC,S8E1,male
+1267,23B4219,Chandane Nihil Harishchandra,ES,S8E1,male
+1268,23B1215,Kaarmukilan B,EE,S8E1,male
+1269,23B3980,Padimini Vamsodhar,EE,S8E1,male
+1270,23B3926,Ms. Jahnvi Sharma,EE,S8E2,female
+1271,23B1856,Ayush Singh,EP,S8E2,male
+1272,23B4220,Sameer Chopra,ES,S8E2,male
+1273,23B3020,Omshiva Balraaj Kotkar,EC,S8E2,male
+1274,23B3985,Varun Mishra,EE,S8E2,male
+1275,23B1281,Arnav Prakash Ramteke,EE,S8E2,male
+1276,23B1267,Ms. Sreesti Sahoo,EE,S8E3,female
+1277,23B1859,Yash Pawar,EP,S8E3,male
+1278,23B1300,Ms. Kadam Manasvi Ujjan,EE,S8E3,female
+1279,23B1255,Mradul Kaushal,EE,S8E3,male
+1280,23B3948,Shubham Talwaria,EE,S8E3,male
+1281,23B3925,Hitesh Meena,EE,S8E3,male
+1282,23B1845,Shreyas Venkata Ramanan,EP,S8E4,male
+1283,23B4233,Ms. Devanshi Khandelwal,ES,S8E4,female
+1284,23B1310,Vinay Hariharan,EE,S8E4,male
+1285,23B3963,Bhavya Hiteshkumar Chaudhari,EE,S8E4,male
+1286,23B1206,Gaurav,EE,S8E4,male
+1287,23B3966,Mridul Mantri,EE,S8E4,male
+1288,23B1813,Ms. Amisha Kumari,EP,S8E5,female
+1289,23B1260,Baral Prathmesh Santosh,EE,S8E5,male
+1290,23B3982,Meet Ashok Vanja,EE,S8E5,male
+1291,23B1302,Jadhav Jay Karbhari,EE,S8E5,male
+1292,23B1293,Rushikesh Vishal Mahajan,EE,S8E5,male
+1293,23B1245,Arjun Jhunjhunwala,EE,S8E5,male
+1294,23B3941,Kush Agrawal,EE,S8E5,male
+1295,23B3031,Ms. Banoth Mythili,EC,S8F1,female
+1296,23B1805,Atharv Maheshwari,EP,S8F1,male
+1297,23B4242,Temkar Saahil Avadhut,ES,S8F1,male
+1298,23B1223,Manepalli Revanth,EE,S8F1,male
+1299,23B1208,Amrutanshu Mohanty,EE,S8F1,male
+1300,23B3965,Arnav Shankar Durgam,EE,S8F1,male
+1301,23B3901,Ms. Aarya Sanjay Kokate,EE,S8F2,female
+1302,23B1836,Ghuge Vedant Popatrao,EP,S8F2,male
+1303,23B4235,Anuj Yadav,ES,S8F2,male
+1304,23B3931,Shubh Tangri,EE,S8F2,male
+1305,23B1282,Aditya Arjun Jungade,EE,S8F2,male
+1306,23B3975,Nitesh Kumar,EE,S8F2,male
+1307,23B3942,Ms. Manya Kulshreshtha,EE,S8F3,female
+1308,23B1809,Abhinav Bijlani,EP,S8F3,male
+1309,23B3005,Pratyush Rankawat,EC,S8F3,male
+1310,23B4202,Ishan Yadu,ES,S8F3,male
+1311,23B3947,Arnav Akshaya Bhate,EE,S8F3,male
+1312,23B3919,Subham Agrawal,EE,S8F3,male
+1313,23B3989,Ms. Riddhi Gupta,EE,S8F4,female
+1314,23B1803,Patel Divyanshkumar,EP,S8F4,male
+1315,23B1269,Ms. Foram Payal Trivedi,EE,S8F4,female
+1316,23B1212,Rahul Kumar,EE,S8F4,male
+1317,23B1246,Prasham Satra,EE,S8F4,male
+1318,23B1250,Meet Agrawal,EE,S8F4,male
+1319,23B1854,Gokularamanan Ravichandran Selvarani,EP,S8F5,male
+1320,23B3027,Bhavesh Chandra Kampa,EC,S8F5,male
+1321,23B4227,Ms. Anika Saanvi Sahoo,ES,S8F5,female
+1322,23B3905,Ayush Lodhi,EE,S8F5,male
+1323,23B1279,Pranav Malpani,EE,S8F5,male
+1324,23B1209,Sujit Adiga,EE,S8F5,male
+1325,23B1839,Anuj Anil Nandedkar,EP,S8F5,male

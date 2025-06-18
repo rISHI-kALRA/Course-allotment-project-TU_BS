@@ -49,14 +49,16 @@ class CourseAllocator:
             section_id = group.section
             group_id = group.groupId
             for student in group.students:
-                # data.append({"section":section_id+1,"project":project_id+1,"group":group_id+1 ,"name":student.name,"gender": student.gender, #+1 because zero indexing to one indexing conversion
-                #     "department": student.department,
-                #     "allocated_preference": student.preferences[project_id], })
                 data.append(allocated_student(section=section_id+1,project=project_id+1,group=group_id+1 ,name=student.name,gender= student.gender, #+1 because zero indexing to one indexing conversion
                     department= student.department,
                     allocated_preference= student.preferences[project_id]))
-        with open("allocated_students_data.json","w") as f:
-            json.dump([student_data.model_dump() for student_data in data],f,indent=2)
+        try:
+            with open("allocated_students_data.json", "w") as f:
+                # print(data[0])
+                json.dump([student_data.model_dump() for student_data in data], f, indent=2)
+            print("File saved successfully")
+        except Exception as e:
+            print("Error writing file:", e)
 
     
 

@@ -51,15 +51,19 @@ def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
                         - sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi) + 10000*sum(projectsize_bools))
 
         solver = cp_model.CpSolver()
+        solver.parameters.max_time_in_seconds = 10.0
         status = solver.solve(model)
-        if  status == 3:
-            print("No solution found for project allocation.")
-            print(f"Section: {section.section}, Number of students: {numberOfStudents}, Number of projects: {numberOfProjects}")
-            female_count = 0
-            for student in section.students:
-                 if(student.gender=='female'):
-                      female_count+=1
-            print("Female count: ",female_count)
+
+        if status != cp_model.OPTIMAL:
+            if(status!=cp_model.FEASIBLE):
+                raise RuntimeError("No solution found for project allocation. Constraints are impossible to satisfy")
+            else:
+                print("Project solver timedout, giving the best solution found")
+                female_count = 0
+                for student in section.students:
+                    if(student.gender=='female'):
+                        female_count+=1
+                print(f"Section: {section.section}, Number of students: {numberOfStudents}, Female count: {female_count}, Number of projects: {numberOfProjects}")
         projects = []
 
         for projectContainer in projectContainers:

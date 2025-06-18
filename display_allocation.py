@@ -15,6 +15,10 @@ section_names = {1:'S1: Mon 2PM-5PM', 3:'S3: Tue 2PM-5PM', 5:'S5: Thu 2PM-5PM', 
 
 def display_allocation(students_data: List[allocated_student]):
     st.title("Student Allocations by Section, Project, and Group")
+    min_avg_group_cpi = 10
+    max_avg_group_cpi = 0
+    min_cpi_placeholder = st.empty()
+    max_cpi_placeholder = st.empty()
 
     # Organize students by section → project → group
     section_map = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
@@ -49,23 +53,34 @@ def display_allocation(students_data: List[allocated_student]):
                 project_list,
                 key=f"select_project_section_{section}"
             )
+            avg_project_cpi = np.mean([s.cpi for group_students in section_map[section][selected_project].values() for s in group_students ])
 
             st.markdown(f"### 📁 Project {project_names[selected_project]}")
+            st.markdown(f"**🛠️ Project** &nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_project_cpi:.2f}`", unsafe_allow_html=True)
+
 
             for group_id in sorted(section_map[section][selected_project].keys()):
                 st.markdown(f"**👥 Group {group_id}**")
 
                 group_students = section_map[section][selected_project][group_id]
+                avg_group_cpi = np.mean([s.cpi for s in group_students])
+                min_avg_group_cpi = min(min_avg_group_cpi, avg_group_cpi)
+                max_avg_group_cpi = max(max_avg_group_cpi, avg_group_cpi)
+                
+                st.markdown(f"**👥 Group {group_id}** &nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_group_cpi:.2f}`")
 
                 df = pd.DataFrame([{
                     "Name": s.name,
                     "Gender": s.gender,
                     "Department": s.department,
-                    "Allocated preference": s.allocated_preference
+                    "Allocated preference": s.allocated_preference,
+                    "CPI": s.cpi
                 } for s in group_students])
 
                 st.table(df)
 
+    min_cpi_placeholder.markdown(f'Minimum cpi across all groups: {min_avg_group_cpi:.2f}')
+    max_cpi_placeholder.markdown(f'Maximum cpi across all groups: {max_avg_group_cpi:.2f}')
 
 
 ###### Stats:

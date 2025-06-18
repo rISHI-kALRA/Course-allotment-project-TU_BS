@@ -54,10 +54,13 @@ def display_allocation(students_data: List[allocated_student]):
                 key=f"select_project_section_{section}"
             )
             avg_project_cpi = np.mean([s.cpi for group_students in section_map[section][selected_project].values() for s in group_students ])
-
+            avg_preference = np.mean([s.allocated_preference for group_students in section_map[section][selected_project].values() for s in group_students])
+            
             st.markdown(f"### 📁 Project {project_names[selected_project]}")
-            st.markdown(f"**🛠️ Project** &nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_project_cpi:.2f}`", unsafe_allow_html=True)
-
+            st.markdown(f""" **📌 Project Overview**  
+                        &nbsp;&nbsp;&nbsp;&nbsp;📈 *Average CPI:* `{avg_project_cpi:.2f}`  
+                        &nbsp;&nbsp;&nbsp;&nbsp;🎯 *Average Preference Score:* `{avg_preference:.2f}`
+                        """, unsafe_allow_html=True)
 
             for group_id in sorted(section_map[section][selected_project].keys()):
                 st.markdown(f"**👥 Group {group_id}**")
@@ -67,14 +70,13 @@ def display_allocation(students_data: List[allocated_student]):
                 min_avg_group_cpi = min(min_avg_group_cpi, avg_group_cpi)
                 max_avg_group_cpi = max(max_avg_group_cpi, avg_group_cpi)
                 
-                st.markdown(f"**👥 Group {group_id}** &nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_group_cpi:.2f}`")
+                st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_group_cpi:.2f}`")
 
                 df = pd.DataFrame([{
                     "Name": s.name,
                     "Gender": s.gender,
                     "Department": s.department,
-                    "Allocated preference": s.allocated_preference,
-                    "CPI": s.cpi
+                    "Allocated preference": s.allocated_preference
                 } for s in group_students])
 
                 st.table(df)

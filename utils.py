@@ -6,11 +6,13 @@ from typing import Literal, List, Annotated
 from typing_extensions import Annotated
 import random
 import ast
+from collections import defaultdict
 
 #These below values are imported in all other files, so here is the place where we fix these values
 no_of_projects =6 
 no_of_sections = 8 #S1 to S8
 groupSize = 6
+# departments = ['AE','CE','CH','CL','CS','EC','EE','EN','EP','ES','ME','MM'] #List of all departments, used in utils.py and group_allocator.py
 
 class Student(BaseModel):
     name: str
@@ -24,13 +26,25 @@ class Student(BaseModel):
     def __init__(self,**data):
         super().__init__(**data)
 
+class allocated_student(BaseModel):
+    section: Annotated[int,Field(ge=1,le=no_of_sections)] #note that here section numbers are from 1 but not 0, because this class is for real data
+    project: Annotated[int,Field(ge=1,le=no_of_projects)]
+    group: Annotated[int,Field(ge=1)]
+    name: str
+    gender: Literal['male', 'female']
+    department: Literal['AE','CE','CH','CL','CS','EC','EE','EN','EP','ES','ME','MM']
+    allocated_preference: Annotated[int,Field(ge=0,le=100)]
+
 df = pd.read_csv('students_data_with_preferences.csv')
 df['preferences'] = df['preferences'].apply(ast.literal_eval)
 list_of_students = [Student(**row) for row in df.to_dict(orient='records')]
+departments = set() #to store all departments
 roll_to_student = {}
+student_count_per_department = defaultdict(int) #to store the number of students in each department, so that we can use it later in section_allocator.py
 for student in list_of_students:
     roll_to_student[student.rollNumber] = student #check whether python maps allow this
-
+    departments.add(student.department) #to store all departments, so that we can use it later in utils.py and group_allocator.py
+    student_count_per_department[student.department] += 1 #to store the number of students in each department, so that we can use it later in section_allocator.py
 
 class Section(BaseModel):
     section: Annotated[int,Field(ge=0,le=no_of_sections-1)] #note that section numbers are from 0 but not 1 (this is to maintain consistency while indexing)
@@ -93,6 +107,13 @@ class variableContainer:
     def numberOfStudents(self):
         return sum(self.alphas)
     
+    def departmentSum(self, department: Literal['AE','CE','CH','CL','CS','EC','EE','EN','EP','ES','ME','MM']):
+        department_indices=[]
+        for i in range(len(self.alphas)):
+            if(self.index_to_student[i].department==department):
+                department_indices.append(i)
+        return sum(self.alphas[i] for i in department_indices)
+    
     def preferencesSum(self):
         list_of_preferences=[]
         for i,alpha in enumerate(self.alphas):
@@ -108,6 +129,13 @@ class variableContainer:
             if (solver.value(alpha)>0.5):
                 allocatedStudents.append(self.index_to_student[i])
         return allocatedStudents
+    
+    def departmentDiversity(self,model):
+        boolvar = model.new_bool_var(f'department_diversity_{id(self)}') #This is a boolean variable which will be true if group has
+        for department in departments:
+            model.add(self.departmentSum(department) <= 4).only_enforce_if(boolvar)
+        return boolvar
+
 
             
 
@@ -130,6 +158,11 @@ def generate_and_save_students_data(): #randomly generated CPI, preferences and 
 
     
 
+def absolute_value(x,model: cp_model.CpModel): #check the 100000 
+    absolute = model.new_int_var(0, 500000, f"abs_{id(x)}")  # Assuming a max value of 10000 for the absolute value variable
+    model.add(x<=absolute)
+    model.add(x>=-1*absolute)
+    return absolute
     
 
 

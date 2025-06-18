@@ -12,3 +12,9 @@ Use enum for Male, Female things
 
 Use 'typing' type consistency everywhere 
 
+
+
+change distribution of preferences(non uniform and realistic)
+deploy streamlit 
+add import and export json to streamlit
+

@@ -10,7 +10,7 @@ from utils import Group, Project, variableContainer
 def groupAllocator(project: Project, groupSize: int) -> List[Group]:
         model = project._model
         numberOfStudents = len(project.students)
-        print(numberOfStudents)
+        # print(numberOfStudents)
         numberOfGroups = numberOfStudents// groupSize
         minNumberOfFemaleStudents = 1  # Assuming at least 1, can be adjusted later
         
@@ -37,9 +37,13 @@ def groupAllocator(project: Project, groupSize: int) -> List[Group]:
 
         scaled_median_cpi = int(100*np.median([student.cpi for student in project.students])) #check
         abs_cpi = []
+        gender_diversity_bools = []  # This will be used to check if
 
         for groupId,group in enumerate(groupContainers):
             #  model.add(group.femaleSum()>= minNumberOfFemaleStudents) #check, instead try to add objective as : maximise number of groups with atleast one female
+             gender_diversity_bools.append(model.new_bool_var(f'group_gender_diversity_{groupId}')) #This is a boolean variable which will be true if group has gender diversity
+             model.add(group.femaleSum() >= 1).only_enforce_if(gender_diversity_bools[-1])
+
              abs_cpi.append(model.new_int_var(0,10000,f"abs_cpi_{groupId}")) #check 10000 
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi <= abs_cpi[groupId])
              model.add(group.cpiSumScaled() - group.numberOfStudents()*scaled_median_cpi >= -1*abs_cpi[groupId])
@@ -48,8 +52,8 @@ def groupAllocator(project: Project, groupSize: int) -> List[Group]:
         for groupId,group in enumerate(groupContainers):
             groupsize_booleans.append(model.new_bool_var(f'groupsize_isperfect_{groupId}'))
             model.add(group.numberOfStudents()==groupSize).only_enforce_if(groupsize_booleans[-1])
-        # print(sum(groupsize_booleans))
-        model.maximize(sum(groupsize_booleans)) #We also want to maximise the number of groups which have size==groupSize
+
+        model.maximize(10*sum(groupsize_booleans) + sum(gender_diversity_bools) +sum(groupContainer.departmentDiversity(model) for groupContainer in groupContainers)) #We also want to maximise the number of groups which have size==groupSize
         # model.minimize(sum(cpi_diff_from_median for cpi_diff_from_median in abs_cpi)) 
         
         solver = cp_model.CpSolver()

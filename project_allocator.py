@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field, constr, conint, confloat, StringConstrain
 from typing import Literal, List, Annotated
 from typing_extensions import Annotated
 import random
-from utils import Project, Group, Section, variableContainer
+from utils import Project, Group, Section, variableContainer, absolute_value
 
 def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
 
@@ -43,10 +43,8 @@ def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
         
 
         for projectId,project in enumerate(projectContainers):
-             model.add(project.femaleSum()>= minNumberOfFemaleStudents)
-             abs_cpi.append(model.new_int_var(0,10000,f"abs_cpi_{projectId}")) #check
-             model.add(project.cpiSumScaled() - project.numberOfStudents()*scaled_median_cpi <= abs_cpi[projectId])
-             model.add(project.cpiSumScaled() - project.numberOfStudents()*scaled_median_cpi >= -1*abs_cpi[projectId])
+            model.add(6*project.femaleSum()>= project.numberOfStudents()) #check
+            abs_cpi.append(absolute_value(project.cpiSumScaled() - project.numberOfStudents()*scaled_median_cpi,model))
 
         
         model.maximize(1000*sum(project.preferencesSum() for project in projectContainers)
@@ -57,7 +55,11 @@ def projectAllocator(section:Section, numberOfProjects:int) -> list[Project]:
         if  status == 3:
             print("No solution found for project allocation.")
             print(f"Section: {section.section}, Number of students: {numberOfStudents}, Number of projects: {numberOfProjects}")
-            print(minNumberOfFemaleStudents)
+            female_count = 0
+            for student in section.students:
+                 if(student.gender=='female'):
+                      female_count+=1
+            print("Female count: ",female_count)
         projects = []
 
         for projectContainer in projectContainers:

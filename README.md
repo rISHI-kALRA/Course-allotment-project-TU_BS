@@ -17,7 +17,9 @@ Eg: Section-1 is Monday afternoon, Section-2 is Monday evening
 
 There are different projects available (Eg: Solution for food wastage, Ideas for outdoor spaces, etc..). Each student will provide us with his preferences of the projects(he will assign an integer between 0 to 100 for each project indicating his affection for that project)
 
-Now, we need to assign each student to a particular section(based on his available time slots) and in that section, assign him a particular project. We need to assign students to projects by keeping in mind two things:
+Now, we need to assign each student to a particular section(based on his available time slots) and in that section, assign him a particular project. We are assigning sections 
+
+We need to assign students to projects by keeping in mind two things:
 1) Preferences of students
 2) Diversity: Each project should get approximately equal distribution of grades of students (i.e no project should have only students with low grades), and also try to have an equal distribution of students of a department among the projects, so that each project has students of diverse departments. Gender diversity as well should be taken care of.
 

@@ -5,11 +5,12 @@ from pydantic import BaseModel, Field, constr, conint, confloat, StringConstrain
 from typing import Literal, List, Annotated
 from typing_extensions import Annotated
 import random
-from utils import Student, Project, Group, Section, no_of_projects, no_of_sections, groupSize
+from utils import Student, allocated_student, Project, Group, Section, no_of_projects, no_of_sections, groupSize
 from section_allocator import sectionAllocator
 from project_allocator import projectAllocator
 from group_allocator import groupAllocator
 from display_allocation import display_allocation
+import json
 
 
 class CourseAllocator:
@@ -23,8 +24,8 @@ class CourseAllocator:
         self.numberOfProjects = no_of_projects
         self.groupSize=groupSize
 
-        self.section_divider_model = cp_model.CpModel()
-        self.sectionAlphas = [[self.section_divider_model.new_bool_var(f"sectionAlpha_{student.rollNumber}_{section_id}") for section_id in range(self.numberOfSections)] for student in self.students]
+        # self.section_divider_model = cp_model.CpModel()
+        # self.sectionAlphas = [[self.section_divider_model.new_bool_var(f"sectionAlpha_{student.rollNumber}_{section_id}") for section_id in range(self.numberOfSections)] for student in self.students]
     
     def allocate(self) -> List[Group]:
         sections = sectionAllocator(self.students,self.numberOfSections)
@@ -48,12 +49,15 @@ class CourseAllocator:
             section_id = group.section
             group_id = group.groupId
             for student in group.students:
-                data.append({"section":section_id+1,"project":project_id+1,"group":group_id+1 ,"name":student.name,"gender": student.gender, #+1 because zero indexing to one indexing conversion
-                    "department": student.department,
-                    "allocated_preference": student.preferences[project_id], })
-        data=pd.DataFrame(data)
-        data.sort_values(by=['section','project','group'],inplace=True)
-        data.to_csv('allocated_students_data.csv',index=False)
+                # data.append({"section":section_id+1,"project":project_id+1,"group":group_id+1 ,"name":student.name,"gender": student.gender, #+1 because zero indexing to one indexing conversion
+                #     "department": student.department,
+                #     "allocated_preference": student.preferences[project_id], })
+                data.append(allocated_student(section=section_id+1,project=project_id+1,group=group_id+1 ,name=student.name,gender= student.gender, #+1 because zero indexing to one indexing conversion
+                    department= student.department,
+                    allocated_preference= student.preferences[project_id]))
+        with open("allocated_students_data.json","w") as f:
+            json.dump([student_data.model_dump() for student_data in data],f,indent=2)
+
     
 
     def get_allocation_metrics(self):

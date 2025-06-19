@@ -21,8 +21,6 @@ def display_allocation(students_data: List[allocated_student]):
     # Organize students by section → project → group
     section_map = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     student_lookup = copy.deepcopy(students_data)
-    max_cpi = 0
-    min_cpi = 10
 
     for student in students_data:
         section_map[student.section][student.project][student.group].append(student)
@@ -78,8 +76,6 @@ def display_allocation(students_data: List[allocated_student]):
 
                 group_students = section_map[section][selected_project][group_id]
                 avg_group_cpi = np.mean([s.cpi for s in group_students])
-                max_cpi = max(max_cpi, avg_group_cpi)
-                min_cpi = min(min_cpi, avg_group_cpi)
                 
                 st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_group_cpi:.2f}`")
 

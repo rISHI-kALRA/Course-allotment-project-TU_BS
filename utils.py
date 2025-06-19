@@ -36,6 +36,7 @@ class allocated_student(BaseModel):
     gender: Literal['male', 'female']
     department: Literal['AE','CE','CH','CL','CS','EC','EE','EN','EP','ES','ME','MM']
     allocated_preference: Annotated[int,Field(ge=0,le=100)]
+  
 
 df = pd.read_csv('students_data_with_preferences.csv')
 df['preferences'] = df['preferences'].apply(ast.literal_eval)

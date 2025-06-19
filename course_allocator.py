@@ -52,7 +52,7 @@ class CourseAllocator:
                 for student in group.students:
                     data.append(allocated_student(cpi=student.cpi,section=section_id+1,project=project_id+1,group=group_id+1 ,name=student.name,gender= student.gender, #+1 because zero indexing to one indexing conversion
                         department= student.department,
-                        allocated_preference= student.preferences[project_id]))
+                        allocated_preference= student.preferences[project_id], preferences=student.preferences))
             try:
                 with open("allocated_students_data.json", "w") as f:
                     json.dump([student_data.model_dump() for student_data in data], f, indent=2)
@@ -67,7 +67,7 @@ class CourseAllocator:
                 group_id = group.groupId
                 for student in group.students:
                     data.append({'name':student.name,'gender': student.gender,'department': student.department,'cpi': student.cpi,'section':section_id+1,'project':project_id+1,'group':group_id+1 , #+1 because zero indexing to one indexing conversion 
-                        'allocated_preference': student.preferences[project_id]})
+                        'allocated_preference': student.preferences[project_id], 'preferences':student.preferences})
             try:
                 pd.DataFrame(data).to_csv('allocated_students_data.csv',index=False)
                 print("CSV file saved successfully")

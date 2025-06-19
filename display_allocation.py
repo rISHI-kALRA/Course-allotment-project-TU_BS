@@ -189,6 +189,7 @@ from typing import List
 import os
 import copy
 import json
+import ast
 
 #These must be hardcoded
 project_names = {1:'theme 1: Food wastage mitigation', 2:'theme 2: Outdoor spaces improvement', 3:'theme 3: Improving lifes of labourers', 4:'theme 4: Solution for easy cleaning', 5:'theme 5: Automating watering of plants', 6:'theme 6: Wheelchair design improvement'}
@@ -259,14 +260,35 @@ def display_allocation(students_data: List[allocated_student]):
                         
                         st.markdown(f"&nbsp;&nbsp;&nbsp;&nbsp; 📈 *Average CPI:* `{avg_group_cpi:.2f}`")
 
-                        df = pd.DataFrame([{
-                            "Name": s.name,
-                            "Gender": s.gender,
-                            "Department": s.department,
-                            "Allocated preference": s.allocated_preference
-                        } for s in group_students])
+                        # df = pd.DataFrame([{
+                        #     "Name": s.name,
+                        #     "Gender": s.gender,
+                        #     "Department": s.department,
+                        #     "Allocated preference": s.allocated_preference
+                        # } for s in group_students])
 
-                        st.table(df)
+                        # st.table(df)
+
+                        rows = []
+                        for s in group_students:    
+                            highlighted = ", ".join(
+                            f"<mark>{v}</mark>" if i==selected_project-1 else str(v)
+                                for i,v in enumerate(s.preferences)
+                            )
+                            rows.append({
+                                "Name": s.name,
+                                "Gender": s.gender,
+                                "Department": s.department,
+                                "CPI:":s.cpi,
+                                "Allocated preference": highlighted
+                            })
+
+                        # Convert to DataFrame
+                        df = pd.DataFrame(rows)
+
+                        # Render as HTML table manually
+                        html = df.to_html(escape=False, index=False)
+                        st.markdown(html, unsafe_allow_html=True)
 
     min_cpi_placeholder.markdown(f'Minimum cpi across all groups: {min_avg_group_cpi:.2f}')
     max_cpi_placeholder.markdown(f'Maximum cpi across all groups: {max_avg_group_cpi:.2f}')
@@ -340,13 +362,21 @@ if __name__ == "__main__":
             
             if uploaded_file_name.endswith(".json"):
                 uploaded_file_data = json.load(uploaded_file)
-                students_data = [allocated_student.model_validate(s) for s in uploaded_file_data]
+                students_data=[]
+                for s in uploaded_file_data:
+                    s['preferences']= ast.literal_eval(s['preferences'])
+                    students_data.append(allocated_student.model_validate(s))
+                # students_data = [allocated_student.model_validate(s) for s in uploaded_file_data]
                 display_allocation_stats(students_data)
                 display_allocation(students_data)
             elif uploaded_file_name.endswith(".csv"):
                 df = pd.read_csv(uploaded_file)
                 uploaded_file_data = df.to_dict(orient='records')
-                students_data = [allocated_student.model_validate(s) for s in uploaded_file_data]
+                students_data=[]
+                for s in uploaded_file_data:
+                    s['preferences']= ast.literal_eval(s['preferences'])
+                    students_data.append(allocated_student.model_validate(s))
+                # students_data = [allocated_student.model_validate(s) for s in uploaded_file_data]
                 display_allocation_stats(students_data)
                 display_allocation(students_data)
             else:

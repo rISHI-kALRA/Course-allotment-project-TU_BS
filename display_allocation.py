@@ -355,21 +355,41 @@ def view_allocation(uploaded_file):
 
 ### run allocator function:
 def run_allocator():
+    display_readme('allocator')
     if st.session_state.has_run == 1:
         print("already present")
         # Read from disk
         with open("allocations_files/allocated_students_data_.csv", "rb") as f:
-            file_bytes = f.read()
+            file_bytes_csv = f.read()
 
         # Wrap in file-like object
-        allocated_student = io.BytesIO(file_bytes)
-        allocated_student.name = "allocated_students.csv"
+        allocated_students_csv = io.BytesIO(file_bytes_csv)
+        allocated_students_csv.name = "allocated_students.csv"
+        
+        with open("allocations_files/allocated_students_data_.json", "rb") as f:
+            file_bytes_json = f.read()
+
+        # Wrap in file-like object
+        allocated_students_json = io.BytesIO(file_bytes_json)
+        allocated_students_json.name = "student_allocation.csv"
+        
+        st.download_button(
+            label="Download allocations as CSV",
+            data=allocated_students_csv,
+            file_name='allocated_students_data.csv',
+            mime='text/csv'
+        )
+        st.download_button(
+            label="Download allocations as JSON",
+            data=allocated_students_json,
+            file_name='allocated_students_data.json',
+            mime='application/json'
+        )
 
         # Use with your function
-        view_allocation(allocated_student)
+        view_allocation(allocated_students_csv)
         return
     
-    display_readme('allocator')
     uploaded_file = st.file_uploader("Upload a JSON or CSV file containing student data with preferences (ensure it has the correct format): Please refer to format guidelines for more info", type=["json","csv"])
     list_of_students=[]
     if uploaded_file is not None:
@@ -402,7 +422,7 @@ def run_allocator():
             de250 = CourseAllocator(list_of_students) #see utils.py for list_of_students
             de250.allocate()
             allocated_students_data_csv = de250.save_allocation('csv', dontsave=False)
-            allocated_students_data_json = de250.save_allocation('json', dontsave=True)
+            allocated_students_data_json = de250.save_allocation('json', dontsave=False)
             st.download_button(
                 label="Download allocations as CSV",
                 data=allocated_students_data_csv,

@@ -9,6 +9,7 @@ import copy
 import json
 import ast
 import matplotlib.pyplot as plt
+import seaborn as sns
 from course_allocator import CourseAllocator
 import utils
 import io
@@ -294,17 +295,16 @@ def display_allocation_stats(students_data: List[allocated_student]):
     
 
 def plot_group_cpis():
-    fig, ax = plt.subplots(figsize=(4, 2))  # smaller figure
-    bins = np.arange(6.0, 10.1, 0.2)
+    fig, ax = plt.subplots(figsize=(4, 2))  # still using plt for figure creation
+    sns.histplot(avg_cpis, bins=np.arange(6.0, 10.1, 0.2), kde=False, color='mediumseagreen', edgecolor='black', ax=ax)
 
-    ax.hist(avg_cpis, bins=bins, edgecolor='black', color='mediumseagreen')
-    ax.set_title("📊 Group CPI Distribution", fontsize=10)
+    ax.set_title("Group CPI Distribution", fontsize=10)
     ax.set_xlabel("CPI Range", fontsize=9)
     ax.set_ylabel("No. of Groups", fontsize=9)
     ax.tick_params(axis='both', labelsize=8)
     ax.grid(True, linestyle='--', alpha=0.4)
 
-    col1, col2, col3 = st.columns([1, 2, 1])  # narrow center column
+    col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
         st.pyplot(fig, clear_figure=True)
 

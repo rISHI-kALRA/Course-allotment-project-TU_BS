@@ -3,6 +3,42 @@
     "section": 1,
     "project": 1,
     "group": 1,
+    "name": "Anita Sinha",
+    "cpi": 7.27,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 96,
+    "preferences": [
+      96,
+      6,
+      63,
+      15,
+      9,
+      26
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 1,
+    "name": "Aditya Reddy",
+    "cpi": 7.09,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 99,
+    "preferences": [
+      99,
+      11,
+      45,
+      6,
+      14,
+      2
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 1,
     "name": "Rekha Banerjee",
     "cpi": 9.48,
     "gender": "male",
@@ -21,35 +57,35 @@
     "section": 1,
     "project": 1,
     "group": 1,
-    "name": "Gaurav Ghosh",
-    "cpi": 8.7,
+    "name": "Akash Khandelwal",
+    "cpi": 7.88,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 94,
+    "allocated_preference": 88,
     "preferences": [
-      94,
-      21,
-      67,
-      17,
+      88,
+      23,
+      68,
       16,
-      52
+      14,
+      47
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 1,
-    "name": "Ishita Pande",
-    "cpi": 8.47,
+    "name": "Lata Prasad",
+    "cpi": 7.09,
     "gender": "male",
-    "department": "ME",
-    "allocated_preference": 93,
+    "department": "CL",
+    "allocated_preference": 98,
     "preferences": [
-      93,
-      17,
-      53,
-      17,
-      2,
+      98,
+      6,
+      79,
+      12,
+      11,
       40
     ]
   },
@@ -57,108 +93,54 @@
     "section": 1,
     "project": 1,
     "group": 1,
-    "name": "Abhishek Tiwari",
-    "cpi": 7.2,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 97,
-    "preferences": [
-      97,
-      20,
-      67,
-      18,
-      13,
-      50
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 1,
-    "name": "Amitabh Reddy",
-    "cpi": 7.37,
+    "name": "Ajay Bhattacharya",
+    "cpi": 7.27,
     "gender": "female",
     "department": "ME",
-    "allocated_preference": 90,
+    "allocated_preference": 87,
     "preferences": [
-      90,
-      19,
-      74,
-      19,
-      5,
-      52
+      87,
+      15,
+      73,
+      14,
+      11,
+      49
     ]
   },
   {
     "section": 1,
     "project": 1,
-    "group": 1,
-    "name": "Karan Deshmukh",
-    "cpi": 8.45,
+    "group": 2,
+    "name": "Maya Nair",
+    "cpi": 7.22,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 91,
+    "preferences": [
+      91,
+      18,
+      64,
+      20,
+      6,
+      36
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 2,
+    "name": "Rekha Pillai",
+    "cpi": 7.21,
     "gender": "male",
     "department": "CL",
-    "allocated_preference": 92,
+    "allocated_preference": 94,
     "preferences": [
-      92,
-      25,
-      74,
-      7,
-      5,
-      12
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 2,
-    "name": "Siddharth Joshi",
-    "cpi": 6.91,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 98,
-    "preferences": [
-      98,
-      14,
-      81,
-      12,
-      13,
-      46
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 2,
-    "name": "Ramesh Dutta",
-    "cpi": 8.4,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 91,
-    "preferences": [
-      91,
-      1,
-      68,
+      94,
+      21,
+      65,
+      18,
       10,
-      15,
       44
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 2,
-    "name": "Manisha Verma",
-    "cpi": 8.53,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 91,
-    "preferences": [
-      91,
-      4,
-      58,
-      22,
-      11,
-      72
     ]
   },
   {
@@ -183,72 +165,90 @@
     "section": 1,
     "project": 1,
     "group": 2,
-    "name": "Lata Prasad",
-    "cpi": 7.09,
+    "name": "Neetu Mathur",
+    "cpi": 8.49,
     "gender": "male",
-    "department": "CL",
-    "allocated_preference": 98,
+    "department": "ME",
+    "allocated_preference": 100,
     "preferences": [
-      98,
-      6,
-      79,
-      12,
-      11,
-      40
+      100,
+      13,
+      81,
+      15,
+      9,
+      72
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 2,
-    "name": "Ajay Bhattacharya",
-    "cpi": 7.27,
+    "name": "Amitabh Reddy",
+    "cpi": 7.37,
     "gender": "female",
     "department": "ME",
+    "allocated_preference": 90,
+    "preferences": [
+      90,
+      19,
+      74,
+      19,
+      5,
+      52
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 2,
+    "name": "Karan Deshmukh",
+    "cpi": 8.45,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 92,
+    "preferences": [
+      92,
+      25,
+      74,
+      7,
+      5,
+      12
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 3,
+    "name": "Manish Tiwari",
+    "cpi": 7.8,
+    "gender": "male",
+    "department": "CL",
     "allocated_preference": 87,
     "preferences": [
       87,
-      15,
-      73,
-      14,
-      11,
-      49
+      8,
+      62,
+      16,
+      3,
+      60
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 3,
-    "name": "Anita Sinha",
-    "cpi": 7.27,
+    "name": "Ramesh Dutta",
+    "cpi": 8.4,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 96,
+    "allocated_preference": 91,
     "preferences": [
-      96,
-      6,
-      63,
+      91,
+      1,
+      68,
+      10,
       15,
-      9,
-      26
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 3,
-    "name": "Aditya Reddy",
-    "cpi": 7.09,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 99,
-    "preferences": [
-      99,
-      11,
-      45,
-      6,
-      14,
-      2
+      44
     ]
   },
   {
@@ -273,36 +273,36 @@
     "section": 1,
     "project": 1,
     "group": 3,
-    "name": "Raj Khanna",
-    "cpi": 8.02,
+    "name": "Anika Roy",
+    "cpi": 7.32,
     "gender": "male",
-    "department": "CL",
-    "allocated_preference": 91,
+    "department": "ME",
+    "allocated_preference": 96,
     "preferences": [
-      91,
-      7,
-      82,
+      96,
+      16,
+      87,
+      11,
       15,
-      12,
-      33
+      50
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 3,
-    "name": "Diya Reddy",
-    "cpi": 7.83,
+    "name": "Abhishek Tiwari",
+    "cpi": 7.2,
     "gender": "male",
-    "department": "ME",
-    "allocated_preference": 95,
+    "department": "CL",
+    "allocated_preference": 97,
     "preferences": [
-      95,
-      22,
-      75,
-      19,
+      97,
+      20,
+      67,
+      18,
       13,
-      70
+      50
     ]
   },
   {
@@ -327,42 +327,6 @@
     "section": 1,
     "project": 1,
     "group": 4,
-    "name": "Maya Nair",
-    "cpi": 7.22,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 91,
-    "preferences": [
-      91,
-      18,
-      64,
-      20,
-      6,
-      36
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 4,
-    "name": "Rekha Pillai",
-    "cpi": 7.21,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 94,
-    "preferences": [
-      94,
-      21,
-      65,
-      18,
-      10,
-      44
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 4,
     "name": "Neelam Dubey",
     "cpi": 7.75,
     "gender": "female",
@@ -381,18 +345,18 @@
     "section": 1,
     "project": 1,
     "group": 4,
-    "name": "Harsh Malhotra",
-    "cpi": 8.23,
+    "name": "Manisha Verma",
+    "cpi": 8.53,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 90,
+    "allocated_preference": 91,
     "preferences": [
-      90,
+      91,
+      4,
+      58,
       22,
-      56,
-      19,
-      1,
-      55
+      11,
+      72
     ]
   },
   {
@@ -417,36 +381,72 @@
     "section": 1,
     "project": 1,
     "group": 4,
-    "name": "Neetu Mathur",
-    "cpi": 8.49,
+    "name": "Gaurav Ghosh",
+    "cpi": 8.7,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 100,
+    "allocated_preference": 94,
     "preferences": [
-      100,
-      13,
-      81,
-      15,
+      94,
+      21,
+      67,
+      17,
+      16,
+      52
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 4,
+    "name": "Ishita Pande",
+    "cpi": 8.47,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 93,
+    "preferences": [
+      93,
+      17,
+      53,
+      17,
+      2,
+      40
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 4,
+    "name": "Anita Chakraborty",
+    "cpi": 8.0,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 99,
+    "preferences": [
+      99,
+      5,
+      79,
+      27,
       9,
-      72
+      49
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 5,
-    "name": "Manish Tiwari",
-    "cpi": 7.8,
+    "name": "Siddharth Joshi",
+    "cpi": 6.91,
     "gender": "male",
-    "department": "CL",
-    "allocated_preference": 87,
+    "department": "ME",
+    "allocated_preference": 98,
     "preferences": [
-      87,
-      8,
-      62,
-      16,
-      3,
-      60
+      98,
+      14,
+      81,
+      12,
+      13,
+      46
     ]
   },
   {
@@ -471,36 +471,54 @@
     "section": 1,
     "project": 1,
     "group": 5,
-    "name": "Akash Khandelwal",
-    "cpi": 7.88,
+    "name": "Harsh Malhotra",
+    "cpi": 8.23,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 88,
+    "allocated_preference": 90,
     "preferences": [
-      88,
-      23,
-      68,
-      16,
-      14,
-      47
+      90,
+      22,
+      56,
+      19,
+      1,
+      55
     ]
   },
   {
     "section": 1,
     "project": 1,
     "group": 5,
-    "name": "Anika Roy",
-    "cpi": 7.32,
+    "name": "Raj Khanna",
+    "cpi": 8.02,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 91,
+    "preferences": [
+      91,
+      7,
+      82,
+      15,
+      12,
+      33
+    ]
+  },
+  {
+    "section": 1,
+    "project": 1,
+    "group": 5,
+    "name": "Diya Reddy",
+    "cpi": 7.83,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 96,
+    "allocated_preference": 95,
     "preferences": [
-      96,
-      16,
-      87,
-      11,
-      15,
-      50
+      95,
+      22,
+      75,
+      19,
+      13,
+      70
     ]
   },
   {
@@ -519,24 +537,6 @@
       16,
       9,
       21
-    ]
-  },
-  {
-    "section": 1,
-    "project": 1,
-    "group": 5,
-    "name": "Anita Chakraborty",
-    "cpi": 8.0,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 99,
-    "preferences": [
-      99,
-      5,
-      79,
-      27,
-      9,
-      49
     ]
   },
   {
@@ -1623,42 +1623,6 @@
     "section": 1,
     "project": 4,
     "group": 1,
-    "name": "Rakesh Gautam",
-    "cpi": 7.33,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 24,
-    "preferences": [
-      84,
-      15,
-      63,
-      24,
-      9,
-      66
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 1,
-    "name": "Riya Sen",
-    "cpi": 8.08,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 20,
-    "preferences": [
-      77,
-      27,
-      74,
-      20,
-      14,
-      56
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 1,
     "name": "Tara Vyas",
     "cpi": 7.71,
     "gender": "male",
@@ -1677,18 +1641,54 @@
     "section": 1,
     "project": 4,
     "group": 1,
-    "name": "Sanjay Mehta",
-    "cpi": 7.94,
+    "name": "Nisha Jha",
+    "cpi": 8.3,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 23,
+    "preferences": [
+      79,
+      30,
+      53,
+      23,
+      12,
+      43
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 1,
+    "name": "Siddhi Chauhan",
+    "cpi": 8.74,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 16,
+    "allocated_preference": 17,
     "preferences": [
-      68,
+      71,
+      26,
+      47,
       17,
-      63,
-      16,
-      9,
-      32
+      8,
+      59
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 1,
+    "name": "Arjun Iyer",
+    "cpi": 8.41,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 18,
+    "preferences": [
+      75,
+      17,
+      75,
+      18,
+      10,
+      11
     ]
   },
   {
@@ -1731,18 +1731,18 @@
     "section": 1,
     "project": 4,
     "group": 1,
-    "name": "Kabir Suresh",
-    "cpi": 8.31,
+    "name": "Kritika Verma",
+    "cpi": 7.07,
     "gender": "male",
-    "department": "ME",
-    "allocated_preference": 17,
+    "department": "CL",
+    "allocated_preference": 14,
     "preferences": [
-      77,
-      18,
-      56,
-      17,
-      7,
-      44
+      80,
+      21,
+      51,
+      14,
+      9,
+      62
     ]
   },
   {
@@ -1767,96 +1767,42 @@
     "section": 1,
     "project": 4,
     "group": 2,
-    "name": "Simran Dasgupta",
-    "cpi": 7.49,
+    "name": "Kunal Karthik",
+    "cpi": 9.03,
     "gender": "female",
     "department": "CL",
-    "allocated_preference": 26,
-    "preferences": [
-      72,
-      4,
-      88,
-      26,
-      15,
-      34
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 2,
-    "name": "Kunal Sood",
-    "cpi": 8.11,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 20,
-    "preferences": [
-      75,
-      20,
-      48,
-      20,
-      4,
-      19
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 2,
-    "name": "Harsh Sharma",
-    "cpi": 9.21,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 24,
-    "preferences": [
-      66,
-      26,
-      64,
-      24,
-      4,
-      68
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 2,
-    "name": "Ramesh Shah",
-    "cpi": 8.22,
-    "gender": "male",
-    "department": "ME",
     "allocated_preference": 21,
     "preferences": [
-      73,
-      2,
-      48,
+      91,
+      19,
+      77,
       21,
-      4,
-      8
+      19,
+      67
     ]
   },
   {
     "section": 1,
     "project": 4,
     "group": 2,
-    "name": "Kritika Verma",
-    "cpi": 7.07,
+    "name": "Vikas Chakraborty",
+    "cpi": 7.17,
     "gender": "male",
-    "department": "CL",
-    "allocated_preference": 14,
+    "department": "ME",
+    "allocated_preference": 15,
     "preferences": [
-      80,
-      21,
-      51,
-      14,
-      9,
-      62
+      83,
+      7,
+      64,
+      15,
+      7,
+      28
     ]
   },
   {
     "section": 1,
     "project": 4,
-    "group": 3,
+    "group": 2,
     "name": "Prakash Vyas",
     "cpi": 7.77,
     "gender": "male",
@@ -1874,19 +1820,91 @@
   {
     "section": 1,
     "project": 4,
-    "group": 3,
-    "name": "Nisha Jha",
-    "cpi": 8.3,
+    "group": 2,
+    "name": "Sanjay Mehta",
+    "cpi": 7.94,
     "gender": "male",
-    "department": "CL",
+    "department": "ME",
+    "allocated_preference": 16,
+    "preferences": [
+      68,
+      17,
+      63,
+      16,
+      9,
+      32
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 2,
+    "name": "Pranav Sen",
+    "cpi": 8.62,
+    "gender": "male",
+    "department": "ME",
     "allocated_preference": 23,
     "preferences": [
-      79,
-      30,
-      53,
+      82,
+      25,
+      68,
       23,
-      12,
-      43
+      3,
+      56
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 2,
+    "name": "Aarohi Chakraborty",
+    "cpi": 7.36,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 17,
+    "preferences": [
+      71,
+      20,
+      69,
+      17,
+      5,
+      37
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 3,
+    "name": "Rakesh Gautam",
+    "cpi": 7.33,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 24,
+    "preferences": [
+      84,
+      15,
+      63,
+      24,
+      9,
+      66
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 3,
+    "name": "Riya Sen",
+    "cpi": 8.08,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 20,
+    "preferences": [
+      77,
+      27,
+      74,
+      20,
+      14,
+      56
     ]
   },
   {
@@ -1911,54 +1929,54 @@
     "section": 1,
     "project": 4,
     "group": 3,
-    "name": "Siddhi Chauhan",
-    "cpi": 8.74,
+    "name": "Ramesh Shah",
+    "cpi": 8.22,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 21,
+    "preferences": [
+      73,
+      2,
+      48,
+      21,
+      4,
+      8
+    ]
+  },
+  {
+    "section": 1,
+    "project": 4,
+    "group": 3,
+    "name": "Kabir Suresh",
+    "cpi": 8.31,
     "gender": "male",
     "department": "ME",
     "allocated_preference": 17,
     "preferences": [
-      71,
-      26,
-      47,
+      77,
+      18,
+      56,
       17,
-      8,
-      59
+      7,
+      44
     ]
   },
   {
     "section": 1,
     "project": 4,
     "group": 3,
-    "name": "Pranav Sen",
-    "cpi": 8.62,
+    "name": "Rajesh Bhatia",
+    "cpi": 9.13,
     "gender": "male",
-    "department": "ME",
-    "allocated_preference": 23,
+    "department": "CL",
+    "allocated_preference": 16,
     "preferences": [
-      82,
-      25,
-      68,
-      23,
-      3,
-      56
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 3,
-    "name": "Tarun Jain",
-    "cpi": 7.13,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 19,
-    "preferences": [
-      65,
-      19,
-      79,
-      19,
-      8,
-      13
+      78,
+      2,
+      53,
+      16,
+      9,
+      41
     ]
   },
   {
@@ -1983,36 +2001,36 @@
     "section": 1,
     "project": 4,
     "group": 4,
-    "name": "Kunal Karthik",
-    "cpi": 9.03,
+    "name": "Simran Dasgupta",
+    "cpi": 7.49,
     "gender": "female",
     "department": "CL",
-    "allocated_preference": 21,
+    "allocated_preference": 26,
     "preferences": [
-      91,
-      19,
-      77,
-      21,
-      19,
-      67
+      72,
+      4,
+      88,
+      26,
+      15,
+      34
     ]
   },
   {
     "section": 1,
     "project": 4,
     "group": 4,
-    "name": "Vikas Chakraborty",
-    "cpi": 7.17,
+    "name": "Kunal Sood",
+    "cpi": 8.11,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 15,
+    "allocated_preference": 20,
     "preferences": [
-      83,
-      7,
-      64,
-      15,
-      7,
-      28
+      75,
+      20,
+      48,
+      20,
+      4,
+      19
     ]
   },
   {
@@ -2055,54 +2073,36 @@
     "section": 1,
     "project": 4,
     "group": 4,
-    "name": "Arjun Iyer",
-    "cpi": 8.41,
+    "name": "Tarun Jain",
+    "cpi": 7.13,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 18,
+    "allocated_preference": 19,
     "preferences": [
-      75,
-      17,
-      75,
-      18,
-      10,
-      11
+      65,
+      19,
+      79,
+      19,
+      8,
+      13
     ]
   },
   {
     "section": 1,
     "project": 4,
     "group": 4,
-    "name": "Aarohi Chakraborty",
-    "cpi": 7.36,
+    "name": "Harsh Sharma",
+    "cpi": 9.21,
     "gender": "male",
     "department": "CL",
-    "allocated_preference": 17,
+    "allocated_preference": 24,
     "preferences": [
-      71,
-      20,
-      69,
-      17,
-      5,
-      37
-    ]
-  },
-  {
-    "section": 1,
-    "project": 4,
-    "group": 4,
-    "name": "Rajesh Bhatia",
-    "cpi": 9.13,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 16,
-    "preferences": [
-      78,
-      2,
-      53,
-      16,
-      9,
-      41
+      66,
+      26,
+      64,
+      24,
+      4,
+      68
     ]
   },
   {
@@ -4071,42 +4071,6 @@
     "section": 2,
     "project": 3,
     "group": 1,
-    "name": "Sonal Dubey",
-    "cpi": 7.11,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 85,
-    "preferences": [
-      77,
-      14,
-      85,
-      18,
-      7,
-      22
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 1,
-    "name": "Nisha Chakraborty",
-    "cpi": 7.75,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 87,
-    "preferences": [
-      73,
-      22,
-      87,
-      10,
-      8,
-      55
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 1,
     "name": "Shruti Joshi",
     "cpi": 7.28,
     "gender": "male",
@@ -4125,17 +4089,17 @@
     "section": 2,
     "project": 3,
     "group": 1,
-    "name": "Meera Khanna",
-    "cpi": 7.53,
+    "name": "Sachin Joshi",
+    "cpi": 8.16,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 93,
+    "allocated_preference": 95,
     "preferences": [
-      83,
-      19,
-      93,
-      15,
-      9,
+      77,
+      27,
+      95,
+      14,
+      4,
       63
     ]
   },
@@ -4143,6 +4107,114 @@
     "section": 2,
     "project": 3,
     "group": 1,
+    "name": "Nidhi Bhatt",
+    "cpi": 7.87,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 85,
+    "preferences": [
+      91,
+      6,
+      85,
+      21,
+      10,
+      11
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 1,
+    "name": "Vikas Choudhury",
+    "cpi": 7.45,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 90,
+    "preferences": [
+      96,
+      6,
+      90,
+      17,
+      11,
+      66
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 1,
+    "name": "Raj Nandan",
+    "cpi": 6.97,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 99,
+    "preferences": [
+      67,
+      4,
+      99,
+      14,
+      12,
+      66
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 2,
+    "name": "Rekha Mehta",
+    "cpi": 7.64,
+    "gender": "female",
+    "department": "MM",
+    "allocated_preference": 83,
+    "preferences": [
+      73,
+      29,
+      83,
+      11,
+      10,
+      12
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 2,
+    "name": "Nisha Chakraborty",
+    "cpi": 7.75,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 87,
+    "preferences": [
+      73,
+      22,
+      87,
+      10,
+      8,
+      55
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 2,
+    "name": "Diya Solanki",
+    "cpi": 8.53,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 94,
+    "preferences": [
+      95,
+      34,
+      94,
+      15,
+      13,
+      66
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 2,
     "name": "Sanjay Kapoor",
     "cpi": 7.13,
     "gender": "male",
@@ -4155,24 +4227,6 @@
       26,
       12,
       64
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 2,
-    "name": "Anika Raut",
-    "cpi": 7.57,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 86,
-    "preferences": [
-      76,
-      23,
-      86,
-      14,
-      16,
-      57
     ]
   },
   {
@@ -4197,90 +4251,36 @@
     "section": 2,
     "project": 3,
     "group": 2,
-    "name": "Siddhi Chakraborty",
-    "cpi": 9.16,
-    "gender": "female",
+    "name": "Divya Shah",
+    "cpi": 8.38,
+    "gender": "male",
     "department": "CE",
-    "allocated_preference": 99,
+    "allocated_preference": 89,
     "preferences": [
-      75,
+      64,
       23,
-      99,
-      7,
-      7,
-      59
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 2,
-    "name": "Nidhi Bhatt",
-    "cpi": 7.87,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 85,
-    "preferences": [
-      91,
-      6,
-      85,
-      21,
-      10,
-      11
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 2,
-    "name": "Vikas Choudhury",
-    "cpi": 7.45,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 90,
-    "preferences": [
-      96,
-      6,
-      90,
-      17,
+      89,
       11,
-      66
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 2,
-    "name": "Naina Rajput",
-    "cpi": 8.61,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 92,
-    "preferences": [
-      91,
-      10,
-      92,
-      12,
-      8,
-      73
+      11,
+      45
     ]
   },
   {
     "section": 2,
     "project": 3,
     "group": 3,
-    "name": "Diya Solanki",
-    "cpi": 8.53,
+    "name": "Raj Bhardwaj",
+    "cpi": 7.94,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 94,
+    "allocated_preference": 96,
     "preferences": [
-      95,
-      34,
-      94,
-      15,
-      13,
-      66
+      97,
+      1,
+      96,
+      14,
+      9,
+      49
     ]
   },
   {
@@ -4305,17 +4305,17 @@
     "section": 2,
     "project": 3,
     "group": 3,
-    "name": "Sachin Joshi",
-    "cpi": 8.16,
+    "name": "Meera Khanna",
+    "cpi": 7.53,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 95,
+    "allocated_preference": 93,
     "preferences": [
-      77,
-      27,
-      95,
-      14,
-      4,
+      83,
+      19,
+      93,
+      15,
+      9,
       63
     ]
   },
@@ -4323,6 +4323,96 @@
     "section": 2,
     "project": 3,
     "group": 3,
+    "name": "Anita Raman",
+    "cpi": 8.24,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 86,
+    "preferences": [
+      78,
+      16,
+      86,
+      19,
+      9,
+      63
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 3,
+    "name": "Siddhi Chakraborty",
+    "cpi": 9.16,
+    "gender": "female",
+    "department": "CE",
+    "allocated_preference": 99,
+    "preferences": [
+      75,
+      23,
+      99,
+      7,
+      7,
+      59
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 3,
+    "name": "Naina Rajput",
+    "cpi": 8.61,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 92,
+    "preferences": [
+      91,
+      10,
+      92,
+      12,
+      8,
+      73
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 4,
+    "name": "Anika Raut",
+    "cpi": 7.57,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 86,
+    "preferences": [
+      76,
+      23,
+      86,
+      14,
+      16,
+      57
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 4,
+    "name": "Sonal Dubey",
+    "cpi": 7.11,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 85,
+    "preferences": [
+      77,
+      14,
+      85,
+      18,
+      7,
+      22
+    ]
+  },
+  {
+    "section": 2,
+    "project": 3,
+    "group": 4,
     "name": "Karan Menon",
     "cpi": 7.42,
     "gender": "male",
@@ -4335,78 +4425,6 @@
       15,
       20,
       29
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 3,
-    "name": "Karan Trivedi",
-    "cpi": 8.25,
-    "gender": "female",
-    "department": "MM",
-    "allocated_preference": 89,
-    "preferences": [
-      82,
-      16,
-      89,
-      13,
-      9,
-      58
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 3,
-    "name": "Kabir Rana",
-    "cpi": 8.93,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 82,
-    "preferences": [
-      64,
-      22,
-      82,
-      17,
-      6,
-      30
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 4,
-    "name": "Rekha Mehta",
-    "cpi": 7.64,
-    "gender": "female",
-    "department": "MM",
-    "allocated_preference": 83,
-    "preferences": [
-      73,
-      29,
-      83,
-      11,
-      10,
-      12
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 4,
-    "name": "Raj Bhardwaj",
-    "cpi": 7.94,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 96,
-    "preferences": [
-      97,
-      1,
-      96,
-      14,
-      9,
-      49
     ]
   },
   {
@@ -4431,54 +4449,36 @@
     "section": 2,
     "project": 3,
     "group": 4,
-    "name": "Anita Raman",
-    "cpi": 8.24,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 86,
-    "preferences": [
-      78,
-      16,
-      86,
-      19,
-      9,
-      63
-    ]
-  },
-  {
-    "section": 2,
-    "project": 3,
-    "group": 4,
-    "name": "Divya Shah",
-    "cpi": 8.38,
-    "gender": "male",
-    "department": "CE",
+    "name": "Karan Trivedi",
+    "cpi": 8.25,
+    "gender": "female",
+    "department": "MM",
     "allocated_preference": 89,
     "preferences": [
-      64,
-      23,
+      82,
+      16,
       89,
-      11,
-      11,
-      45
+      13,
+      9,
+      58
     ]
   },
   {
     "section": 2,
     "project": 3,
     "group": 4,
-    "name": "Raj Nandan",
-    "cpi": 6.97,
+    "name": "Kabir Rana",
+    "cpi": 8.93,
     "gender": "male",
-    "department": "CE",
-    "allocated_preference": 99,
+    "department": "MM",
+    "allocated_preference": 82,
     "preferences": [
-      67,
-      4,
-      99,
-      14,
-      12,
-      66
+      64,
+      22,
+      82,
+      17,
+      6,
+      30
     ]
   },
   {
@@ -4917,72 +4917,54 @@
     "section": 2,
     "project": 5,
     "group": 1,
-    "name": "Akash Bhatt",
-    "cpi": 7.38,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 14,
-    "preferences": [
-      66,
-      21,
-      59,
-      12,
-      14,
-      61
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 1,
-    "name": "Riya Khandelwal",
-    "cpi": 8.59,
-    "gender": "female",
-    "department": "MM",
-    "allocated_preference": 7,
-    "preferences": [
-      84,
-      18,
-      71,
-      12,
-      7,
-      62
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 1,
-    "name": "Vikas Das",
-    "cpi": 7.56,
+    "name": "Siddharth Dixit",
+    "cpi": 7.71,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 16,
+    "allocated_preference": 6,
     "preferences": [
-      85,
+      78,
+      8,
+      49,
       9,
-      50,
-      16,
-      16,
-      7
+      6,
+      10
     ]
   },
   {
     "section": 2,
     "project": 5,
     "group": 1,
-    "name": "Amitabh Bhardwaj",
-    "cpi": 7.9,
+    "name": "Manish Nair",
+    "cpi": 7.78,
     "gender": "male",
     "department": "MM",
-    "allocated_preference": 20,
+    "allocated_preference": 12,
     "preferences": [
-      68,
-      17,
-      68,
-      17,
-      20,
-      69
+      84,
+      9,
+      58,
+      9,
+      12,
+      37
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 1,
+    "name": "Maya Naidu",
+    "cpi": 7.26,
+    "gender": "female",
+    "department": "MM",
+    "allocated_preference": 15,
+    "preferences": [
+      93,
+      15,
+      57,
+      18,
+      15,
+      11
     ]
   },
   {
@@ -5007,72 +4989,72 @@
     "section": 2,
     "project": 5,
     "group": 1,
-    "name": "Amitabh Suresh",
-    "cpi": 7.34,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 11,
-    "preferences": [
-      71,
-      24,
-      66,
-      14,
-      11,
-      15
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 2,
-    "name": "Shreya Chakraborty",
-    "cpi": 8.66,
+    "name": "Nisha Kulkarni",
+    "cpi": 8.0,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 11,
+    "allocated_preference": 19,
     "preferences": [
-      64,
-      22,
-      71,
-      15,
-      11,
+      90,
+      12,
+      77,
+      16,
+      19,
       52
     ]
   },
   {
     "section": 2,
     "project": 5,
-    "group": 2,
-    "name": "Nikhil Gupta",
-    "cpi": 6.71,
-    "gender": "female",
+    "group": 1,
+    "name": "Rhea Dutta",
+    "cpi": 7.15,
+    "gender": "male",
     "department": "MM",
-    "allocated_preference": 13,
+    "allocated_preference": 12,
     "preferences": [
-      69,
-      18,
-      66,
-      14,
-      13,
-      44
+      72,
+      22,
+      47,
+      15,
+      12,
+      43
     ]
   },
   {
     "section": 2,
     "project": 5,
     "group": 2,
-    "name": "Siddharth Dixit",
-    "cpi": 7.71,
+    "name": "Ananya Tiwari",
+    "cpi": 6.6,
     "gender": "male",
-    "department": "CE",
-    "allocated_preference": 6,
+    "department": "MM",
+    "allocated_preference": 16,
     "preferences": [
-      78,
-      8,
-      49,
-      9,
-      6,
-      10
+      74,
+      21,
+      57,
+      20,
+      16,
+      46
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 2,
+    "name": "Riya Khandelwal",
+    "cpi": 8.59,
+    "gender": "female",
+    "department": "MM",
+    "allocated_preference": 7,
+    "preferences": [
+      84,
+      18,
+      71,
+      12,
+      7,
+      62
     ]
   },
   {
@@ -5097,18 +5079,36 @@
     "section": 2,
     "project": 5,
     "group": 2,
-    "name": "Rajesh Banerjee",
-    "cpi": 8.83,
+    "name": "Sachin Shukla",
+    "cpi": 7.76,
     "gender": "male",
-    "department": "MM",
-    "allocated_preference": 10,
+    "department": "CE",
+    "allocated_preference": 14,
     "preferences": [
-      84,
-      17,
       66,
+      16,
+      80,
+      18,
+      14,
+      3
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 2,
+    "name": "Vivek Kumar",
+    "cpi": 7.79,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 15,
+    "preferences": [
+      70,
       15,
-      10,
-      31
+      50,
+      17,
+      15,
+      21
     ]
   },
   {
@@ -5133,6 +5133,114 @@
     "section": 2,
     "project": 5,
     "group": 3,
+    "name": "Akash Bhatt",
+    "cpi": 7.38,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 14,
+    "preferences": [
+      66,
+      21,
+      59,
+      12,
+      14,
+      61
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 3,
+    "name": "Rajesh Banerjee",
+    "cpi": 8.83,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 10,
+    "preferences": [
+      84,
+      17,
+      66,
+      15,
+      10,
+      31
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 3,
+    "name": "Vikas Das",
+    "cpi": 7.56,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 16,
+    "preferences": [
+      85,
+      9,
+      50,
+      16,
+      16,
+      7
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 3,
+    "name": "Amitabh Bhardwaj",
+    "cpi": 7.9,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 20,
+    "preferences": [
+      68,
+      17,
+      68,
+      17,
+      20,
+      69
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 3,
+    "name": "Raj Dutta",
+    "cpi": 9.21,
+    "gender": "female",
+    "department": "CE",
+    "allocated_preference": 15,
+    "preferences": [
+      85,
+      8,
+      55,
+      11,
+      15,
+      29
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 3,
+    "name": "Amitabh Suresh",
+    "cpi": 7.34,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 11,
+    "preferences": [
+      71,
+      24,
+      66,
+      14,
+      11,
+      15
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 4,
     "name": "Anita Nair",
     "cpi": 7.27,
     "gender": "male",
@@ -5150,127 +5258,37 @@
   {
     "section": 2,
     "project": 5,
-    "group": 3,
-    "name": "Maya Naidu",
-    "cpi": 7.26,
+    "group": 4,
+    "name": "Shreya Chakraborty",
+    "cpi": 8.66,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 11,
+    "preferences": [
+      64,
+      22,
+      71,
+      15,
+      11,
+      52
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 4,
+    "name": "Nikhil Gupta",
+    "cpi": 6.71,
     "gender": "female",
     "department": "MM",
-    "allocated_preference": 15,
+    "allocated_preference": 13,
     "preferences": [
-      93,
-      15,
-      57,
+      69,
       18,
-      15,
-      11
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 3,
-    "name": "Vivek Kumar",
-    "cpi": 7.79,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 15,
-    "preferences": [
-      70,
-      15,
-      50,
-      17,
-      15,
-      21
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 3,
-    "name": "Sneha Varma",
-    "cpi": 8.67,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 19,
-    "preferences": [
-      92,
-      9,
-      82,
-      9,
-      19,
-      34
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 3,
-    "name": "Aarohi Reddy",
-    "cpi": 7.19,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 16,
-    "preferences": [
-      81,
-      26,
       66,
-      9,
-      16,
-      57
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 3,
-    "name": "Rhea Dutta",
-    "cpi": 7.15,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 12,
-    "preferences": [
-      72,
-      22,
-      47,
-      15,
-      12,
-      43
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 4,
-    "name": "Ananya Tiwari",
-    "cpi": 6.6,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 16,
-    "preferences": [
-      74,
-      21,
-      57,
-      20,
-      16,
-      46
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 4,
-    "name": "Manish Nair",
-    "cpi": 7.78,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 12,
-    "preferences": [
-      84,
-      9,
-      58,
-      9,
-      12,
-      37
+      14,
+      13,
+      44
     ]
   },
   {
@@ -5295,54 +5313,36 @@
     "section": 2,
     "project": 5,
     "group": 4,
-    "name": "Raj Dutta",
-    "cpi": 9.21,
-    "gender": "female",
-    "department": "CE",
-    "allocated_preference": 15,
-    "preferences": [
-      85,
-      8,
-      55,
-      11,
-      15,
-      29
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 4,
-    "name": "Sachin Shukla",
-    "cpi": 7.76,
+    "name": "Sneha Varma",
+    "cpi": 8.67,
     "gender": "male",
-    "department": "CE",
-    "allocated_preference": 14,
-    "preferences": [
-      66,
-      16,
-      80,
-      18,
-      14,
-      3
-    ]
-  },
-  {
-    "section": 2,
-    "project": 5,
-    "group": 4,
-    "name": "Nisha Kulkarni",
-    "cpi": 8.0,
-    "gender": "male",
-    "department": "CE",
+    "department": "MM",
     "allocated_preference": 19,
     "preferences": [
-      90,
-      12,
-      77,
-      16,
+      92,
+      9,
+      82,
+      9,
       19,
-      52
+      34
+    ]
+  },
+  {
+    "section": 2,
+    "project": 5,
+    "group": 4,
+    "name": "Aarohi Reddy",
+    "cpi": 7.19,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 16,
+    "preferences": [
+      81,
+      26,
+      66,
+      9,
+      16,
+      57
     ]
   },
   {
@@ -5781,54 +5781,36 @@
     "section": 3,
     "project": 1,
     "group": 1,
-    "name": "Vivek Varma",
-    "cpi": 7.54,
-    "gender": "male",
-    "department": "CH",
-    "allocated_preference": 95,
-    "preferences": [
-      95,
-      31,
-      49,
-      7,
-      20,
-      66
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 1,
-    "name": "Kiran Dubey",
-    "cpi": 6.08,
+    "name": "Swati Nair",
+    "cpi": 6.96,
     "gender": "female",
     "department": "AE",
-    "allocated_preference": 88,
+    "allocated_preference": 82,
     "preferences": [
-      88,
-      19,
-      45,
-      17,
-      10,
-      72
+      82,
+      18,
+      59,
+      11,
+      7,
+      48
     ]
   },
   {
     "section": 3,
     "project": 1,
     "group": 1,
-    "name": "Alka Deshmukh",
-    "cpi": 6.7,
+    "name": "Rohit Rana",
+    "cpi": 8.33,
     "gender": "male",
-    "department": "AE",
-    "allocated_preference": 87,
+    "department": "CH",
+    "allocated_preference": 97,
     "preferences": [
-      87,
-      23,
-      65,
-      9,
+      97,
+      14,
+      49,
       11,
-      40
+      17,
+      28
     ]
   },
   {
@@ -5853,36 +5835,54 @@
     "section": 3,
     "project": 1,
     "group": 1,
-    "name": "Nisha Desai",
-    "cpi": 7.31,
+    "name": "Divya Patel",
+    "cpi": 8.27,
     "gender": "male",
-    "department": "CS",
-    "allocated_preference": 95,
+    "department": "EN",
+    "allocated_preference": 98,
     "preferences": [
-      95,
-      9,
-      50,
-      12,
-      2,
-      82
+      98,
+      15,
+      58,
+      15,
+      19,
+      33
     ]
   },
   {
     "section": 3,
     "project": 1,
     "group": 1,
-    "name": "Sneha Nikam",
-    "cpi": 8.69,
+    "name": "Aditi Sethi",
+    "cpi": 8.55,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 83,
+    "allocated_preference": 96,
     "preferences": [
-      83,
-      19,
-      62,
-      2,
-      7,
-      60
+      96,
+      18,
+      46,
+      26,
+      8,
+      36
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 1,
+    "name": "Ishita Joshi",
+    "cpi": 7.61,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 90,
+    "preferences": [
+      90,
+      8,
+      49,
+      12,
+      6,
+      32
     ]
   },
   {
@@ -5901,6 +5901,24 @@
       18,
       2,
       33
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 2,
+    "name": "Alka Deshmukh",
+    "cpi": 6.7,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 87,
+    "preferences": [
+      87,
+      23,
+      65,
+      9,
+      11,
+      40
     ]
   },
   {
@@ -5961,24 +5979,6 @@
     "section": 3,
     "project": 1,
     "group": 2,
-    "name": "Divya Patel",
-    "cpi": 8.27,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 98,
-    "preferences": [
-      98,
-      15,
-      58,
-      15,
-      19,
-      33
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 2,
     "name": "Aarav Shah",
     "cpi": 8.53,
     "gender": "male",
@@ -5997,90 +5997,90 @@
     "section": 3,
     "project": 1,
     "group": 2,
-    "name": "Aditi Sethi",
-    "cpi": 8.55,
+    "name": "Sneha Nikam",
+    "cpi": 8.69,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 96,
+    "allocated_preference": 83,
     "preferences": [
-      96,
-      18,
-      46,
-      26,
-      8,
-      36
+      83,
+      19,
+      62,
+      2,
+      7,
+      60
     ]
   },
   {
     "section": 3,
     "project": 1,
     "group": 2,
-    "name": "Ishita Joshi",
-    "cpi": 7.61,
+    "name": "Kiran Singh",
+    "cpi": 8.39,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 90,
-    "preferences": [
-      90,
-      8,
-      49,
-      12,
-      6,
-      32
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 3,
-    "name": "Harsh Jha",
-    "cpi": 7.39,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 86,
-    "preferences": [
-      86,
-      18,
-      49,
-      13,
-      6,
-      32
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 3,
-    "name": "Diya Kumar",
-    "cpi": 7.52,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 94,
-    "preferences": [
-      94,
-      10,
-      79,
-      5,
-      12,
-      72
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 3,
-    "name": "Rhea Sethi",
-    "cpi": 7.73,
-    "gender": "male",
-    "department": "EN",
     "allocated_preference": 88,
     "preferences": [
       88,
-      23,
-      78,
-      2,
-      13,
-      18
+      22,
+      43,
+      10,
+      4,
+      27
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 3,
+    "name": "Siddhi Kapoor",
+    "cpi": 6.37,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 95,
+    "preferences": [
+      95,
+      11,
+      82,
+      16,
+      15,
+      4
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 3,
+    "name": "Anika Khanna",
+    "cpi": 8.41,
+    "gender": "male",
+    "department": "CH",
+    "allocated_preference": 99,
+    "preferences": [
+      99,
+      15,
+      41,
+      16,
+      19,
+      14
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 3,
+    "name": "Yash Reddy",
+    "cpi": 8.39,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 96,
+    "preferences": [
+      96,
+      24,
+      74,
+      20,
+      9,
+      15
     ]
   },
   {
@@ -6159,35 +6159,17 @@
     "section": 3,
     "project": 1,
     "group": 4,
-    "name": "Vikram Roy",
-    "cpi": 7.96,
+    "name": "Harsh Jha",
+    "cpi": 7.39,
     "gender": "male",
-    "department": "AE",
-    "allocated_preference": 94,
+    "department": "CS",
+    "allocated_preference": 86,
     "preferences": [
-      94,
-      14,
-      68,
-      23,
-      4,
-      61
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 4,
-    "name": "Mohit Mukherjee",
-    "cpi": 6.94,
-    "gender": "female",
-    "department": "CH",
-    "allocated_preference": 96,
-    "preferences": [
-      96,
-      30,
-      75,
-      8,
+      86,
       18,
+      49,
+      13,
+      6,
       32
     ]
   },
@@ -6195,18 +6177,54 @@
     "section": 3,
     "project": 1,
     "group": 4,
-    "name": "Rohit Rana",
-    "cpi": 8.33,
+    "name": "Rajesh Pandey",
+    "cpi": 8.9,
     "gender": "male",
-    "department": "CH",
-    "allocated_preference": 97,
+    "department": "CS",
+    "allocated_preference": 95,
     "preferences": [
-      97,
-      14,
-      49,
-      11,
+      95,
+      30,
+      79,
+      18,
+      5,
+      70
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 4,
+    "name": "Diya Kumar",
+    "cpi": 7.52,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 94,
+    "preferences": [
+      94,
+      10,
+      79,
+      5,
+      12,
+      72
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 4,
+    "name": "Kiran Dubey",
+    "cpi": 6.08,
+    "gender": "female",
+    "department": "AE",
+    "allocated_preference": 88,
+    "preferences": [
+      88,
+      19,
+      45,
       17,
-      28
+      10,
+      72
     ]
   },
   {
@@ -6249,54 +6267,36 @@
     "section": 3,
     "project": 1,
     "group": 4,
-    "name": "Yash Reddy",
-    "cpi": 8.39,
-    "gender": "male",
-    "department": "AE",
-    "allocated_preference": 96,
-    "preferences": [
-      96,
-      24,
-      74,
-      20,
-      9,
-      15
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 4,
-    "name": "Kiran Singh",
-    "cpi": 8.39,
+    "name": "Nisha Desai",
+    "cpi": 7.31,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 88,
+    "allocated_preference": 95,
     "preferences": [
-      88,
-      22,
-      43,
-      10,
-      4,
-      27
+      95,
+      9,
+      50,
+      12,
+      2,
+      82
     ]
   },
   {
     "section": 3,
     "project": 1,
     "group": 5,
-    "name": "Rajesh Pandey",
-    "cpi": 8.9,
+    "name": "Vivek Varma",
+    "cpi": 7.54,
     "gender": "male",
-    "department": "CS",
+    "department": "CH",
     "allocated_preference": 95,
     "preferences": [
       95,
-      30,
-      79,
-      18,
-      5,
-      70
+      31,
+      49,
+      7,
+      20,
+      66
     ]
   },
   {
@@ -6321,72 +6321,72 @@
     "section": 3,
     "project": 1,
     "group": 5,
-    "name": "Siddhi Kapoor",
-    "cpi": 6.37,
+    "name": "Vikram Roy",
+    "cpi": 7.96,
     "gender": "male",
-    "department": "CS",
-    "allocated_preference": 95,
-    "preferences": [
-      95,
-      11,
-      82,
-      16,
-      15,
-      4
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 5,
-    "name": "Anika Khanna",
-    "cpi": 8.41,
-    "gender": "male",
-    "department": "CH",
-    "allocated_preference": 99,
-    "preferences": [
-      99,
-      15,
-      41,
-      16,
-      19,
-      14
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 5,
-    "name": "Rohan Solanki",
-    "cpi": 8.21,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 90,
-    "preferences": [
-      90,
-      21,
-      71,
-      19,
-      17,
-      36
-    ]
-  },
-  {
-    "section": 3,
-    "project": 1,
-    "group": 5,
-    "name": "Swati Nair",
-    "cpi": 6.96,
-    "gender": "female",
     "department": "AE",
-    "allocated_preference": 82,
+    "allocated_preference": 94,
     "preferences": [
-      82,
-      18,
-      59,
+      94,
+      14,
+      68,
+      23,
+      4,
+      61
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 5,
+    "name": "Sanjay Naidu",
+    "cpi": 7.76,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 85,
+    "preferences": [
+      85,
+      2,
+      75,
+      16,
       11,
-      7,
-      48
+      37
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 5,
+    "name": "Rhea Sethi",
+    "cpi": 7.73,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 88,
+    "preferences": [
+      88,
+      23,
+      78,
+      2,
+      13,
+      18
+    ]
+  },
+  {
+    "section": 3,
+    "project": 1,
+    "group": 5,
+    "name": "Mohit Mukherjee",
+    "cpi": 6.94,
+    "gender": "female",
+    "department": "CH",
+    "allocated_preference": 96,
+    "preferences": [
+      96,
+      30,
+      75,
+      8,
+      18,
+      32
     ]
   },
   {
@@ -7599,18 +7599,18 @@
     "section": 3,
     "project": 4,
     "group": 2,
-    "name": "Sanjay Yadav",
-    "cpi": 6.11,
+    "name": "Arjun Varma",
+    "cpi": 7.62,
     "gender": "female",
-    "department": "CH",
-    "allocated_preference": 23,
+    "department": "EN",
+    "allocated_preference": 14,
     "preferences": [
-      89,
-      30,
-      68,
-      23,
-      5,
-      0
+      61,
+      12,
+      49,
+      14,
+      10,
+      46
     ]
   },
   {
@@ -7707,18 +7707,18 @@
     "section": 3,
     "project": 4,
     "group": 3,
-    "name": "Tanvi Ranganathan",
-    "cpi": 9.42,
-    "gender": "male",
+    "name": "Sanjay Yadav",
+    "cpi": 6.11,
+    "gender": "female",
     "department": "CH",
     "allocated_preference": 23,
     "preferences": [
-      61,
-      26,
+      89,
+      30,
       68,
       23,
-      15,
-      45
+      5,
+      0
     ]
   },
   {
@@ -7761,24 +7761,6 @@
     "section": 3,
     "project": 4,
     "group": 3,
-    "name": "Arjun Varma",
-    "cpi": 7.62,
-    "gender": "female",
-    "department": "EN",
-    "allocated_preference": 14,
-    "preferences": [
-      61,
-      12,
-      49,
-      14,
-      10,
-      46
-    ]
-  },
-  {
-    "section": 3,
-    "project": 4,
-    "group": 3,
     "name": "Abhishek Jain",
     "cpi": 7.76,
     "gender": "male",
@@ -7791,6 +7773,24 @@
       24,
       13,
       80
+    ]
+  },
+  {
+    "section": 3,
+    "project": 4,
+    "group": 3,
+    "name": "Divya Chatterjee",
+    "cpi": 8.2,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 17,
+    "preferences": [
+      68,
+      15,
+      67,
+      17,
+      13,
+      36
     ]
   },
   {
@@ -7815,18 +7815,36 @@
     "section": 3,
     "project": 4,
     "group": 4,
-    "name": "Priya Shukla",
-    "cpi": 9.01,
+    "name": "Sanjay Bhattacharya",
+    "cpi": 8.49,
     "gender": "male",
-    "department": "CH",
-    "allocated_preference": 16,
+    "department": "CS",
+    "allocated_preference": 22,
     "preferences": [
-      80,
-      19,
-      79,
-      16,
+      76,
+      0,
+      63,
+      22,
       7,
-      20
+      69
+    ]
+  },
+  {
+    "section": 3,
+    "project": 4,
+    "group": 4,
+    "name": "Kritika Nambiar",
+    "cpi": 7.92,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 18,
+    "preferences": [
+      75,
+      22,
+      72,
+      18,
+      4,
+      40
     ]
   },
   {
@@ -7845,24 +7863,6 @@
       24,
       15,
       41
-    ]
-  },
-  {
-    "section": 3,
-    "project": 4,
-    "group": 4,
-    "name": "Sanjay Naidu",
-    "cpi": 7.76,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 16,
-    "preferences": [
-      85,
-      2,
-      75,
-      16,
-      11,
-      37
     ]
   },
   {
@@ -7923,24 +7923,6 @@
     "section": 3,
     "project": 4,
     "group": 5,
-    "name": "Sanjay Bhattacharya",
-    "cpi": 8.49,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 22,
-    "preferences": [
-      76,
-      0,
-      63,
-      22,
-      7,
-      69
-    ]
-  },
-  {
-    "section": 3,
-    "project": 4,
-    "group": 5,
     "name": "Swati Pande",
     "cpi": 6.42,
     "gender": "male",
@@ -7977,18 +7959,18 @@
     "section": 3,
     "project": 4,
     "group": 5,
-    "name": "Kritika Nambiar",
-    "cpi": 7.92,
+    "name": "Priya Shukla",
+    "cpi": 9.01,
     "gender": "male",
-    "department": "CS",
-    "allocated_preference": 18,
+    "department": "CH",
+    "allocated_preference": 16,
     "preferences": [
-      75,
-      22,
-      72,
-      18,
-      4,
-      40
+      80,
+      19,
+      79,
+      16,
+      7,
+      20
     ]
   },
   {
@@ -8007,6 +7989,24 @@
       20,
       12,
       4
+    ]
+  },
+  {
+    "section": 3,
+    "project": 4,
+    "group": 5,
+    "name": "Tanvi Ranganathan",
+    "cpi": 9.42,
+    "gender": "male",
+    "department": "CH",
+    "allocated_preference": 23,
+    "preferences": [
+      61,
+      26,
+      68,
+      23,
+      15,
+      45
     ]
   },
   {
@@ -8355,18 +8355,36 @@
     "section": 3,
     "project": 5,
     "group": 4,
-    "name": "Ritu Pandey",
-    "cpi": 7.72,
+    "name": "Rohan Solanki",
+    "cpi": 8.21,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 19,
+    "allocated_preference": 17,
     "preferences": [
-      75,
-      4,
-      69,
-      12,
+      90,
+      21,
+      71,
       19,
-      21
+      17,
+      36
+    ]
+  },
+  {
+    "section": 3,
+    "project": 5,
+    "group": 4,
+    "name": "Vikas Sengupta",
+    "cpi": 8.69,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 12,
+    "preferences": [
+      60,
+      18,
+      71,
+      9,
+      12,
+      33
     ]
   },
   {
@@ -8420,24 +8438,6 @@
       49,
       14,
       10,
-      36
-    ]
-  },
-  {
-    "section": 3,
-    "project": 5,
-    "group": 4,
-    "name": "Divya Chatterjee",
-    "cpi": 8.2,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 13,
-    "preferences": [
-      68,
-      15,
-      67,
-      17,
-      13,
       36
     ]
   },
@@ -8499,6 +8499,24 @@
     "section": 3,
     "project": 5,
     "group": 5,
+    "name": "Ritu Pandey",
+    "cpi": 7.72,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 19,
+    "preferences": [
+      75,
+      4,
+      69,
+      12,
+      19,
+      21
+    ]
+  },
+  {
+    "section": 3,
+    "project": 5,
+    "group": 5,
     "name": "Pallavi Banerjee",
     "cpi": 7.24,
     "gender": "male",
@@ -8511,24 +8529,6 @@
       15,
       14,
       67
-    ]
-  },
-  {
-    "section": 3,
-    "project": 5,
-    "group": 5,
-    "name": "Vikas Sengupta",
-    "cpi": 8.69,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 12,
-    "preferences": [
-      60,
-      18,
-      71,
-      9,
-      12,
-      33
     ]
   },
   {
@@ -11667,258 +11667,24 @@
     "section": 4,
     "project": 6,
     "group": 1,
-    "name": "Anjali Dasgupta",
-    "cpi": 8.39,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 90,
-    "preferences": [
-      95,
-      27,
-      55,
-      9,
-      4,
-      90
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 1,
-    "name": "Sameer Karthik",
-    "cpi": 7.25,
+    "name": "Harsh Kumar",
+    "cpi": 8.07,
     "gender": "male",
     "department": "EP",
-    "allocated_preference": 76,
-    "preferences": [
-      68,
-      3,
-      63,
-      5,
-      10,
-      76
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 1,
-    "name": "Rajesh Rana",
-    "cpi": 8.04,
-    "gender": "male",
-    "department": "EC",
-    "allocated_preference": 99,
-    "preferences": [
-      92,
-      21,
-      58,
-      19,
-      13,
-      99
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 1,
-    "name": "Rakesh Malhotra",
-    "cpi": 8.35,
-    "gender": "female",
-    "department": "EE",
-    "allocated_preference": 84,
-    "preferences": [
-      77,
-      14,
-      41,
-      11,
-      9,
-      84
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 1,
-    "name": "Lata Dasgupta",
-    "cpi": 7.26,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 88,
-    "preferences": [
-      78,
-      10,
-      72,
-      10,
-      7,
-      88
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 1,
-    "name": "Pooja Nair",
-    "cpi": 8.87,
-    "gender": "male",
-    "department": "EE",
     "allocated_preference": 75,
     "preferences": [
-      91,
-      3,
-      64,
-      16,
-      1,
+      73,
+      10,
+      78,
+      20,
+      6,
       75
     ]
   },
   {
     "section": 4,
     "project": 6,
-    "group": 2,
-    "name": "Vikram Gautam",
-    "cpi": 7.1,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 70,
-    "preferences": [
-      85,
-      25,
-      56,
-      9,
-      10,
-      70
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 2,
-    "name": "Anjali Bhardwaj",
-    "cpi": 7.09,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 85,
-    "preferences": [
-      73,
-      21,
-      88,
-      10,
-      6,
-      85
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 2,
-    "name": "Simran Pandey",
-    "cpi": 8.83,
-    "gender": "male",
-    "department": "EC",
-    "allocated_preference": 87,
-    "preferences": [
-      80,
-      28,
-      75,
-      15,
-      11,
-      87
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 2,
-    "name": "Kabir Pillai",
-    "cpi": 8.36,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 79,
-    "preferences": [
-      83,
-      17,
-      81,
-      19,
-      9,
-      79
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 2,
-    "name": "Shreya Banerjee",
-    "cpi": 8.53,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 83,
-    "preferences": [
-      89,
-      14,
-      54,
-      19,
-      14,
-      83
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 2,
-    "name": "Smita Sengupta",
-    "cpi": 8.22,
-    "gender": "female",
-    "department": "EC",
-    "allocated_preference": 86,
-    "preferences": [
-      87,
-      28,
-      75,
-      13,
-      7,
-      86
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 3,
-    "name": "Amitabh Thakur",
-    "cpi": 8.13,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 96,
-    "preferences": [
-      69,
-      19,
-      70,
-      9,
-      5,
-      96
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 3,
-    "name": "Isha Mukherjee",
-    "cpi": 8.51,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 84,
-    "preferences": [
-      91,
-      17,
-      83,
-      16,
-      15,
-      84
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 3,
+    "group": 1,
     "name": "Bhavna Singhal",
     "cpi": 8.2,
     "gender": "male",
@@ -11936,7 +11702,169 @@
   {
     "section": 4,
     "project": 6,
-    "group": 3,
+    "group": 1,
+    "name": "Sneha Rajput",
+    "cpi": 7.22,
+    "gender": "female",
+    "department": "ES",
+    "allocated_preference": 85,
+    "preferences": [
+      61,
+      30,
+      57,
+      15,
+      3,
+      85
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 1,
+    "name": "Vikram Gautam",
+    "cpi": 7.1,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 70,
+    "preferences": [
+      85,
+      25,
+      56,
+      9,
+      10,
+      70
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 1,
+    "name": "Kabir Pillai",
+    "cpi": 8.36,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 79,
+    "preferences": [
+      83,
+      17,
+      81,
+      19,
+      9,
+      79
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 1,
+    "name": "Pooja Mukherjee",
+    "cpi": 8.63,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 77,
+    "preferences": [
+      67,
+      19,
+      81,
+      21,
+      9,
+      77
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
+    "name": "Shruti Dasgupta",
+    "cpi": 8.82,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 78,
+    "preferences": [
+      79,
+      29,
+      68,
+      16,
+      14,
+      78
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
+    "name": "Sameer Karthik",
+    "cpi": 7.25,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 76,
+    "preferences": [
+      68,
+      3,
+      63,
+      5,
+      10,
+      76
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
+    "name": "Arnav Joshi",
+    "cpi": 8.5,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 99,
+    "preferences": [
+      72,
+      11,
+      62,
+      16,
+      16,
+      99
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
+    "name": "Tara Saxena",
+    "cpi": 7.68,
+    "gender": "female",
+    "department": "EE",
+    "allocated_preference": 97,
+    "preferences": [
+      90,
+      20,
+      100,
+      7,
+      9,
+      97
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
+    "name": "Isha Mukherjee",
+    "cpi": 8.51,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 84,
+    "preferences": [
+      91,
+      17,
+      83,
+      16,
+      15,
+      84
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 2,
     "name": "Anushka Patel",
     "cpi": 7.96,
     "gender": "male",
@@ -11955,42 +11883,6 @@
     "section": 4,
     "project": 6,
     "group": 3,
-    "name": "Deepak Vyas",
-    "cpi": 8.48,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 81,
-    "preferences": [
-      65,
-      21,
-      85,
-      6,
-      9,
-      81
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 3,
-    "name": "Sneha Rajput",
-    "cpi": 7.22,
-    "gender": "female",
-    "department": "ES",
-    "allocated_preference": 85,
-    "preferences": [
-      61,
-      30,
-      57,
-      15,
-      3,
-      85
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 4,
     "name": "Kartik Dubey",
     "cpi": 7.33,
     "gender": "male",
@@ -12008,19 +11900,127 @@
   {
     "section": 4,
     "project": 6,
-    "group": 4,
-    "name": "Arnav Joshi",
-    "cpi": 8.5,
+    "group": 3,
+    "name": "Lata Malhotra",
+    "cpi": 8.06,
     "gender": "male",
-    "department": "EE",
+    "department": "EP",
+    "allocated_preference": 78,
+    "preferences": [
+      68,
+      16,
+      74,
+      15,
+      12,
+      78
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 3,
+    "name": "Smita Sengupta",
+    "cpi": 8.22,
+    "gender": "female",
+    "department": "EC",
+    "allocated_preference": 86,
+    "preferences": [
+      87,
+      28,
+      75,
+      13,
+      7,
+      86
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 3,
+    "name": "Rajesh Rana",
+    "cpi": 8.04,
+    "gender": "male",
+    "department": "EC",
     "allocated_preference": 99,
     "preferences": [
-      72,
-      11,
-      62,
-      16,
-      16,
+      92,
+      21,
+      58,
+      19,
+      13,
       99
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 3,
+    "name": "Lata Dasgupta",
+    "cpi": 7.26,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 88,
+    "preferences": [
+      78,
+      10,
+      72,
+      10,
+      7,
+      88
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 3,
+    "name": "Pooja Nair",
+    "cpi": 8.87,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 75,
+    "preferences": [
+      91,
+      3,
+      64,
+      16,
+      1,
+      75
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 4,
+    "name": "Simran Prasad",
+    "cpi": 7.79,
+    "gender": "male",
+    "department": "EC",
+    "allocated_preference": 75,
+    "preferences": [
+      79,
+      8,
+      47,
+      18,
+      7,
+      75
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 4,
+    "name": "Nisha Trivedi",
+    "cpi": 9.21,
+    "gender": "female",
+    "department": "EE",
+    "allocated_preference": 94,
+    "preferences": [
+      75,
+      25,
+      47,
+      3,
+      11,
+      94
     ]
   },
   {
@@ -12063,54 +12063,36 @@
     "section": 4,
     "project": 6,
     "group": 4,
-    "name": "Tara Saxena",
-    "cpi": 7.68,
-    "gender": "female",
+    "name": "Amitabh Thakur",
+    "cpi": 8.13,
+    "gender": "male",
     "department": "EE",
-    "allocated_preference": 97,
+    "allocated_preference": 96,
     "preferences": [
-      90,
-      20,
-      100,
-      7,
+      69,
+      19,
+      70,
       9,
-      97
+      5,
+      96
     ]
   },
   {
     "section": 4,
     "project": 6,
     "group": 4,
-    "name": "Lata Malhotra",
-    "cpi": 8.06,
+    "name": "Anjali Bhardwaj",
+    "cpi": 7.09,
     "gender": "male",
-    "department": "EP",
-    "allocated_preference": 78,
+    "department": "EE",
+    "allocated_preference": 85,
     "preferences": [
-      68,
-      16,
-      74,
-      15,
-      12,
-      78
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 5,
-    "name": "Simran Prasad",
-    "cpi": 7.79,
-    "gender": "male",
-    "department": "EC",
-    "allocated_preference": 75,
-    "preferences": [
-      79,
-      8,
-      47,
-      18,
-      7,
-      75
+      73,
+      21,
+      88,
+      10,
+      6,
+      85
     ]
   },
   {
@@ -12135,72 +12117,90 @@
     "section": 4,
     "project": 6,
     "group": 5,
-    "name": "Nisha Trivedi",
-    "cpi": 9.21,
+    "name": "Anjali Dasgupta",
+    "cpi": 8.39,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 90,
+    "preferences": [
+      95,
+      27,
+      55,
+      9,
+      4,
+      90
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 5,
+    "name": "Deepak Vyas",
+    "cpi": 8.48,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 81,
+    "preferences": [
+      65,
+      21,
+      85,
+      6,
+      9,
+      81
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 5,
+    "name": "Simran Pandey",
+    "cpi": 8.83,
+    "gender": "male",
+    "department": "EC",
+    "allocated_preference": 87,
+    "preferences": [
+      80,
+      28,
+      75,
+      15,
+      11,
+      87
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 5,
+    "name": "Shreya Banerjee",
+    "cpi": 8.53,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 83,
+    "preferences": [
+      89,
+      14,
+      54,
+      19,
+      14,
+      83
+    ]
+  },
+  {
+    "section": 4,
+    "project": 6,
+    "group": 5,
+    "name": "Rakesh Malhotra",
+    "cpi": 8.35,
     "gender": "female",
     "department": "EE",
-    "allocated_preference": 94,
+    "allocated_preference": 84,
     "preferences": [
-      75,
-      25,
-      47,
-      3,
-      11,
-      94
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 5,
-    "name": "Shruti Dasgupta",
-    "cpi": 8.82,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 78,
-    "preferences": [
-      79,
-      29,
-      68,
-      16,
+      77,
       14,
-      78
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 5,
-    "name": "Harsh Kumar",
-    "cpi": 8.07,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 75,
-    "preferences": [
-      73,
-      10,
-      78,
-      20,
-      6,
-      75
-    ]
-  },
-  {
-    "section": 4,
-    "project": 6,
-    "group": 5,
-    "name": "Pooja Mukherjee",
-    "cpi": 8.63,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 77,
-    "preferences": [
-      67,
-      19,
-      81,
-      21,
+      41,
+      11,
       9,
-      77
+      84
     ]
   },
   {
@@ -12747,90 +12747,54 @@
     "section": 5,
     "project": 2,
     "group": 1,
-    "name": "Pooja Agarwal",
-    "cpi": 9.17,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 29,
+    "name": "Rajiv Khandelwal",
+    "cpi": 6.42,
+    "gender": "female",
+    "department": "CL",
+    "allocated_preference": 35,
     "preferences": [
-      63,
-      29,
-      80,
-      10,
+      94,
+      35,
+      58,
+      15,
       13,
-      68
+      47
     ]
   },
   {
     "section": 5,
     "project": 2,
     "group": 1,
-    "name": "Saurabh Saxena",
-    "cpi": 8.92,
+    "name": "Kunal Dixit",
+    "cpi": 9.33,
     "gender": "male",
     "department": "ME",
     "allocated_preference": 33,
     "preferences": [
-      92,
+      91,
       33,
-      63,
-      23,
+      59,
+      15,
+      16,
+      33
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 1,
+    "name": "Kavya Mahajan",
+    "cpi": 8.99,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 32,
+    "preferences": [
+      86,
+      32,
+      66,
+      12,
       8,
-      48
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 1,
-    "name": "Rajat Naidu",
-    "cpi": 8.78,
-    "gender": "female",
-    "department": "ME",
-    "allocated_preference": 40,
-    "preferences": [
-      85,
-      40,
-      77,
-      4,
-      11,
-      24
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 1,
-    "name": "Neha Mukherjee",
-    "cpi": 6.35,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 38,
-    "preferences": [
-      71,
-      38,
-      92,
-      18,
-      11,
-      65
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 1,
-    "name": "Lata Chauhan",
-    "cpi": 8.96,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 26,
-    "preferences": [
-      75,
-      26,
-      52,
-      14,
-      10,
-      5
+      72
     ]
   },
   {
@@ -12854,19 +12818,37 @@
   {
     "section": 5,
     "project": 2,
-    "group": 2,
-    "name": "Arjun Desai",
-    "cpi": 7.88,
+    "group": 1,
+    "name": "Aarav Karthik",
+    "cpi": 8.12,
+    "gender": "male",
+    "department": "CL",
+    "allocated_preference": 40,
+    "preferences": [
+      78,
+      40,
+      52,
+      18,
+      19,
+      65
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 1,
+    "name": "Akash Mishra",
+    "cpi": 6.62,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 39,
+    "allocated_preference": 34,
     "preferences": [
-      77,
-      39,
-      42,
-      17,
-      10,
-      27
+      79,
+      34,
+      87,
+      25,
+      9,
+      49
     ]
   },
   {
@@ -12891,108 +12873,90 @@
     "section": 5,
     "project": 2,
     "group": 2,
-    "name": "Rajiv Khandelwal",
-    "cpi": 6.42,
-    "gender": "female",
-    "department": "CL",
-    "allocated_preference": 35,
-    "preferences": [
-      94,
-      35,
-      58,
-      15,
-      13,
-      47
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 2,
-    "name": "Devansh Gogoi",
-    "cpi": 6.21,
+    "name": "Tarun Pandey",
+    "cpi": 9.13,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 33,
+    "allocated_preference": 30,
     "preferences": [
-      94,
-      33,
-      63,
-      20,
-      12,
-      24
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 2,
-    "name": "Swati Menon",
-    "cpi": 8.97,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 31,
-    "preferences": [
-      76,
-      31,
-      67,
-      15,
-      9,
-      62
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 2,
-    "name": "Kiran Shah",
-    "cpi": 6.3,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 23,
-    "preferences": [
-      74,
-      23,
-      61,
-      7,
+      89,
+      30,
+      69,
+      16,
       10,
-      30
+      63
     ]
   },
   {
     "section": 5,
     "project": 2,
-    "group": 3,
-    "name": "Sanjay Bhatia",
-    "cpi": 6.26,
+    "group": 2,
+    "name": "Kiran Chawla",
+    "cpi": 8.84,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 33,
+    "allocated_preference": 26,
     "preferences": [
-      85,
-      33,
-      79,
-      5,
-      13,
-      85
+      81,
+      26,
+      60,
+      8,
+      12,
+      74
     ]
   },
   {
     "section": 5,
     "project": 2,
-    "group": 3,
-    "name": "Tarun Mukherjee",
-    "cpi": 9.08,
+    "group": 2,
+    "name": "Rajesh Nandan",
+    "cpi": 7.62,
     "gender": "male",
-    "department": "ME",
+    "department": "CL",
     "allocated_preference": 32,
     "preferences": [
-      70,
+      91,
       32,
-      77,
-      11,
-      6,
-      69
+      86,
+      20,
+      4,
+      77
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 2,
+    "name": "Pranav Nambiar",
+    "cpi": 9.46,
+    "gender": "female",
+    "department": "ME",
+    "allocated_preference": 25,
+    "preferences": [
+      70,
+      25,
+      45,
+      14,
+      8,
+      17
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 2,
+    "name": "Lata Chauhan",
+    "cpi": 8.96,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 26,
+    "preferences": [
+      75,
+      26,
+      52,
+      14,
+      10,
+      5
     ]
   },
   {
@@ -13017,6 +12981,60 @@
     "section": 5,
     "project": 2,
     "group": 3,
+    "name": "Swati Menon",
+    "cpi": 8.97,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 31,
+    "preferences": [
+      76,
+      31,
+      67,
+      15,
+      9,
+      62
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 3,
+    "name": "Rajat Naidu",
+    "cpi": 8.78,
+    "gender": "female",
+    "department": "ME",
+    "allocated_preference": 40,
+    "preferences": [
+      85,
+      40,
+      77,
+      4,
+      11,
+      24
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 3,
+    "name": "Neha Mukherjee",
+    "cpi": 6.35,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 38,
+    "preferences": [
+      71,
+      38,
+      92,
+      18,
+      11,
+      65
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 3,
     "name": "Vikas Saxena",
     "cpi": 8.99,
     "gender": "male",
@@ -13035,42 +13053,132 @@
     "section": 5,
     "project": 2,
     "group": 3,
-    "name": "Pranav Nambiar",
-    "cpi": 9.46,
-    "gender": "female",
-    "department": "ME",
-    "allocated_preference": 25,
-    "preferences": [
-      70,
-      25,
-      45,
-      14,
-      8,
-      17
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 3,
-    "name": "Akash Mishra",
-    "cpi": 6.62,
+    "name": "Kiran Shah",
+    "cpi": 6.3,
     "gender": "male",
     "department": "ME",
-    "allocated_preference": 34,
+    "allocated_preference": 23,
     "preferences": [
-      79,
-      34,
-      87,
-      25,
-      9,
-      49
+      74,
+      23,
+      61,
+      7,
+      10,
+      30
     ]
   },
   {
     "section": 5,
     "project": 2,
     "group": 4,
+    "name": "Sanjay Bhatia",
+    "cpi": 6.26,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 33,
+    "preferences": [
+      85,
+      33,
+      79,
+      5,
+      13,
+      85
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 4,
+    "name": "Pooja Agarwal",
+    "cpi": 9.17,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 29,
+    "preferences": [
+      63,
+      29,
+      80,
+      10,
+      13,
+      68
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 4,
+    "name": "Saurabh Saxena",
+    "cpi": 8.92,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 33,
+    "preferences": [
+      92,
+      33,
+      63,
+      23,
+      8,
+      48
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 4,
+    "name": "Tarun Mukherjee",
+    "cpi": 9.08,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 32,
+    "preferences": [
+      70,
+      32,
+      77,
+      11,
+      6,
+      69
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 4,
+    "name": "Diya Nair",
+    "cpi": 9.45,
+    "gender": "female",
+    "department": "ME",
+    "allocated_preference": 39,
+    "preferences": [
+      84,
+      39,
+      50,
+      17,
+      6,
+      75
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 4,
+    "name": "Devansh Gogoi",
+    "cpi": 6.21,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 33,
+    "preferences": [
+      94,
+      33,
+      63,
+      20,
+      12,
+      24
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 5,
     "name": "Kartik Kumar",
     "cpi": 9.48,
     "gender": "male",
@@ -13088,7 +13196,25 @@
   {
     "section": 5,
     "project": 2,
-    "group": 4,
+    "group": 5,
+    "name": "Arjun Desai",
+    "cpi": 7.88,
+    "gender": "male",
+    "department": "ME",
+    "allocated_preference": 39,
+    "preferences": [
+      77,
+      39,
+      42,
+      17,
+      10,
+      27
+    ]
+  },
+  {
+    "section": 5,
+    "project": 2,
+    "group": 5,
     "name": "Kabir Menon",
     "cpi": 9.01,
     "gender": "female",
@@ -13101,78 +13227,6 @@
       20,
       7,
       15
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 4,
-    "name": "Sanya Ghosh",
-    "cpi": 8.98,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 31,
-    "preferences": [
-      69,
-      31,
-      76,
-      13,
-      7,
-      27
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 4,
-    "name": "Kiran Chawla",
-    "cpi": 8.84,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 26,
-    "preferences": [
-      81,
-      26,
-      60,
-      8,
-      12,
-      74
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 4,
-    "name": "Rajesh Nandan",
-    "cpi": 7.62,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 32,
-    "preferences": [
-      91,
-      32,
-      86,
-      20,
-      4,
-      77
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 4,
-    "name": "Kunal Dixit",
-    "cpi": 9.33,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 33,
-    "preferences": [
-      91,
-      33,
-      59,
-      15,
-      16,
-      33
     ]
   },
   {
@@ -13197,36 +13251,18 @@
     "section": 5,
     "project": 2,
     "group": 5,
-    "name": "Diya Nair",
-    "cpi": 9.45,
-    "gender": "female",
-    "department": "ME",
-    "allocated_preference": 39,
-    "preferences": [
-      84,
-      39,
-      50,
-      17,
-      6,
-      75
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 5,
-    "name": "Tarun Pandey",
-    "cpi": 9.13,
+    "name": "Sanya Ghosh",
+    "cpi": 8.98,
     "gender": "male",
-    "department": "ME",
-    "allocated_preference": 30,
+    "department": "CL",
+    "allocated_preference": 31,
     "preferences": [
-      89,
-      30,
       69,
-      16,
-      10,
-      63
+      31,
+      76,
+      13,
+      7,
+      27
     ]
   },
   {
@@ -13245,42 +13281,6 @@
       16,
       10,
       44
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 5,
-    "name": "Kavya Mahajan",
-    "cpi": 8.99,
-    "gender": "male",
-    "department": "ME",
-    "allocated_preference": 32,
-    "preferences": [
-      86,
-      32,
-      66,
-      12,
-      8,
-      72
-    ]
-  },
-  {
-    "section": 5,
-    "project": 2,
-    "group": 5,
-    "name": "Aarav Karthik",
-    "cpi": 8.12,
-    "gender": "male",
-    "department": "CL",
-    "allocated_preference": 40,
-    "preferences": [
-      78,
-      40,
-      52,
-      18,
-      19,
-      65
     ]
   },
   {
@@ -16239,36 +16239,90 @@
     "section": 6,
     "project": 3,
     "group": 1,
-    "name": "Pranav Kapadia",
-    "cpi": 9.01,
-    "gender": "female",
+    "name": "Karan Sharma",
+    "cpi": 9.46,
+    "gender": "male",
     "department": "MM",
-    "allocated_preference": 83,
+    "allocated_preference": 98,
     "preferences": [
-      70,
-      14,
-      83,
-      17,
-      6,
-      78
+      74,
+      37,
+      98,
+      10,
+      18,
+      22
     ]
   },
   {
     "section": 6,
     "project": 3,
     "group": 1,
-    "name": "Siddharth Varma",
-    "cpi": 6.73,
+    "name": "Karan Kapadia",
+    "cpi": 7.22,
+    "gender": "female",
+    "department": "CE",
+    "allocated_preference": 96,
+    "preferences": [
+      95,
+      13,
+      96,
+      18,
+      18,
+      37
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 1,
+    "name": "Ananya Dixit",
+    "cpi": 6.5,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 91,
+    "allocated_preference": 88,
     "preferences": [
-      80,
-      1,
-      91,
-      18,
-      9,
-      65
+      84,
+      26,
+      88,
+      10,
+      3,
+      26
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 1,
+    "name": "Sneha Iyer",
+    "cpi": 6.56,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 82,
+    "preferences": [
+      73,
+      21,
+      82,
+      20,
+      8,
+      56
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 1,
+    "name": "Sneha Agarwal",
+    "cpi": 7.52,
+    "gender": "female",
+    "department": "CE",
+    "allocated_preference": 99,
+    "preferences": [
+      72,
+      27,
+      99,
+      19,
+      7,
+      36
     ]
   },
   {
@@ -16292,169 +16346,7 @@
   {
     "section": 6,
     "project": 3,
-    "group": 1,
-    "name": "Vivek Dasgupta",
-    "cpi": 9.21,
-    "gender": "female",
-    "department": "MM",
-    "allocated_preference": 88,
-    "preferences": [
-      82,
-      26,
-      88,
-      16,
-      10,
-      5
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 1,
-    "name": "Riya Dixit",
-    "cpi": 6.38,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 82,
-    "preferences": [
-      73,
-      19,
-      82,
-      11,
-      12,
-      58
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 1,
-    "name": "Rajesh Mahajan",
-    "cpi": 9.49,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 98,
-    "preferences": [
-      68,
-      26,
-      98,
-      19,
-      18,
-      82
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
     "group": 2,
-    "name": "Meera Nandan",
-    "cpi": 6.7,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 89,
-    "preferences": [
-      84,
-      35,
-      89,
-      19,
-      7,
-      37
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 2,
-    "name": "Sneha Iyer",
-    "cpi": 6.56,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 82,
-    "preferences": [
-      73,
-      21,
-      82,
-      20,
-      8,
-      56
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 2,
-    "name": "Sneha Agarwal",
-    "cpi": 7.52,
-    "gender": "female",
-    "department": "CE",
-    "allocated_preference": 99,
-    "preferences": [
-      72,
-      27,
-      99,
-      19,
-      7,
-      36
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 2,
-    "name": "Pooja Solanki",
-    "cpi": 7.09,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 93,
-    "preferences": [
-      66,
-      15,
-      93,
-      13,
-      16,
-      61
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 2,
-    "name": "Sameer Pillai",
-    "cpi": 9.44,
-    "gender": "female",
-    "department": "CE",
-    "allocated_preference": 96,
-    "preferences": [
-      89,
-      22,
-      96,
-      23,
-      12,
-      18
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 2,
-    "name": "Rajat Bose",
-    "cpi": 6.92,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 89,
-    "preferences": [
-      71,
-      18,
-      89,
-      20,
-      2,
-      59
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 3,
     "name": "Prakash Rajput",
     "cpi": 9.74,
     "gender": "female",
@@ -16472,7 +16364,25 @@
   {
     "section": 6,
     "project": 3,
-    "group": 3,
+    "group": 2,
+    "name": "Ajay Malhotra",
+    "cpi": 6.75,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 93,
+    "preferences": [
+      91,
+      15,
+      93,
+      13,
+      5,
+      55
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 2,
     "name": "Ananya Nandan",
     "cpi": 6.6,
     "gender": "male",
@@ -16490,7 +16400,7 @@
   {
     "section": 6,
     "project": 3,
-    "group": 3,
+    "group": 2,
     "name": "Sneha Chatterjee",
     "cpi": 9.97,
     "gender": "male",
@@ -16508,7 +16418,7 @@
   {
     "section": 6,
     "project": 3,
-    "group": 3,
+    "group": 2,
     "name": "Yash Sinha",
     "cpi": 9.04,
     "gender": "male",
@@ -16526,19 +16436,37 @@
   {
     "section": 6,
     "project": 3,
-    "group": 3,
-    "name": "Ananya Dixit",
-    "cpi": 6.5,
-    "gender": "male",
-    "department": "CE",
+    "group": 2,
+    "name": "Vivek Dasgupta",
+    "cpi": 9.21,
+    "gender": "female",
+    "department": "MM",
     "allocated_preference": 88,
     "preferences": [
-      84,
+      82,
       26,
       88,
+      16,
       10,
-      3,
-      26
+      5
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 3,
+    "name": "Anjali Deshmukh",
+    "cpi": 9.27,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 100,
+    "preferences": [
+      72,
+      15,
+      100,
+      16,
+      19,
+      94
     ]
   },
   {
@@ -16562,19 +16490,73 @@
   {
     "section": 6,
     "project": 3,
-    "group": 4,
-    "name": "Karan Sharma",
-    "cpi": 9.46,
+    "group": 3,
+    "name": "Pranav Kapadia",
+    "cpi": 9.01,
+    "gender": "female",
+    "department": "MM",
+    "allocated_preference": 83,
+    "preferences": [
+      70,
+      14,
+      83,
+      17,
+      6,
+      78
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 3,
+    "name": "Siddharth Varma",
+    "cpi": 6.73,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 91,
+    "preferences": [
+      80,
+      1,
+      91,
+      18,
+      9,
+      65
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 3,
+    "name": "Riya Dixit",
+    "cpi": 6.38,
     "gender": "male",
     "department": "MM",
+    "allocated_preference": 82,
+    "preferences": [
+      73,
+      19,
+      82,
+      11,
+      12,
+      58
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 3,
+    "name": "Rajesh Mahajan",
+    "cpi": 9.49,
+    "gender": "male",
+    "department": "CE",
     "allocated_preference": 98,
     "preferences": [
-      74,
-      37,
+      68,
+      26,
       98,
-      10,
+      19,
       18,
-      22
+      82
     ]
   },
   {
@@ -16599,24 +16581,6 @@
     "section": 6,
     "project": 3,
     "group": 4,
-    "name": "Karan Kapadia",
-    "cpi": 7.22,
-    "gender": "female",
-    "department": "CE",
-    "allocated_preference": 96,
-    "preferences": [
-      95,
-      13,
-      96,
-      18,
-      18,
-      37
-    ]
-  },
-  {
-    "section": 6,
-    "project": 3,
-    "group": 4,
     "name": "Rohan Ranganathan",
     "cpi": 9.13,
     "gender": "male",
@@ -16635,36 +16599,72 @@
     "section": 6,
     "project": 3,
     "group": 4,
-    "name": "Anjali Deshmukh",
-    "cpi": 9.27,
+    "name": "Meera Nandan",
+    "cpi": 6.7,
     "gender": "male",
-    "department": "CE",
-    "allocated_preference": 100,
+    "department": "MM",
+    "allocated_preference": 89,
     "preferences": [
-      72,
-      15,
-      100,
-      16,
+      84,
+      35,
+      89,
       19,
-      94
+      7,
+      37
     ]
   },
   {
     "section": 6,
     "project": 3,
     "group": 4,
-    "name": "Ajay Malhotra",
-    "cpi": 6.75,
+    "name": "Pooja Solanki",
+    "cpi": 7.09,
     "gender": "male",
-    "department": "CE",
+    "department": "MM",
     "allocated_preference": 93,
     "preferences": [
-      91,
+      66,
       15,
       93,
       13,
-      5,
-      55
+      16,
+      61
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 4,
+    "name": "Sameer Pillai",
+    "cpi": 9.44,
+    "gender": "female",
+    "department": "CE",
+    "allocated_preference": 96,
+    "preferences": [
+      89,
+      22,
+      96,
+      23,
+      12,
+      18
+    ]
+  },
+  {
+    "section": 6,
+    "project": 3,
+    "group": 4,
+    "name": "Rajat Bose",
+    "cpi": 6.92,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 89,
+    "preferences": [
+      71,
+      18,
+      89,
+      20,
+      2,
+      59
     ]
   },
   {
@@ -17535,18 +17535,18 @@
     "section": 6,
     "project": 6,
     "group": 1,
-    "name": "Nidhi Bhattacharya",
-    "cpi": 6.48,
+    "name": "Neha Jha",
+    "cpi": 8.99,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 84,
+    "allocated_preference": 89,
     "preferences": [
-      79,
-      11,
-      50,
-      9,
-      18,
-      84
+      82,
+      23,
+      60,
+      14,
+      8,
+      89
     ]
   },
   {
@@ -17565,24 +17565,6 @@
       17,
       16,
       94
-    ]
-  },
-  {
-    "section": 6,
-    "project": 6,
-    "group": 1,
-    "name": "Aditya Jain",
-    "cpi": 9.68,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 89,
-    "preferences": [
-      71,
-      16,
-      84,
-      14,
-      10,
-      89
     ]
   },
   {
@@ -17625,36 +17607,36 @@
     "section": 6,
     "project": 6,
     "group": 1,
-    "name": "Arjun Bhattacharya",
-    "cpi": 6.72,
+    "name": "Akash Gautam",
+    "cpi": 6.78,
     "gender": "male",
-    "department": "MM",
-    "allocated_preference": 84,
+    "department": "CE",
+    "allocated_preference": 90,
     "preferences": [
-      84,
-      9,
-      80,
-      10,
-      5,
-      84
+      68,
+      37,
+      70,
+      16,
+      7,
+      90
     ]
   },
   {
     "section": 6,
     "project": 6,
-    "group": 2,
-    "name": "Neha Jha",
-    "cpi": 8.99,
+    "group": 1,
+    "name": "Raj Mehta",
+    "cpi": 6.28,
     "gender": "male",
-    "department": "CE",
-    "allocated_preference": 89,
+    "department": "MM",
+    "allocated_preference": 79,
     "preferences": [
-      82,
-      23,
-      60,
-      14,
-      8,
-      89
+      62,
+      15,
+      63,
+      7,
+      13,
+      79
     ]
   },
   {
@@ -17679,6 +17661,24 @@
     "section": 6,
     "project": 6,
     "group": 2,
+    "name": "Nidhi Patel",
+    "cpi": 8.75,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 77,
+    "preferences": [
+      74,
+      1,
+      67,
+      13,
+      7,
+      77
+    ]
+  },
+  {
+    "section": 6,
+    "project": 6,
+    "group": 2,
     "name": "Abhishek Nair",
     "cpi": 9.52,
     "gender": "female",
@@ -17691,24 +17691,6 @@
       14,
       7,
       96
-    ]
-  },
-  {
-    "section": 6,
-    "project": 6,
-    "group": 2,
-    "name": "Vishal Pande",
-    "cpi": 6.71,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 82,
-    "preferences": [
-      79,
-      1,
-      50,
-      13,
-      1,
-      82
     ]
   },
   {
@@ -17733,18 +17715,54 @@
     "section": 6,
     "project": 6,
     "group": 2,
-    "name": "Amitabh Yadav",
-    "cpi": 9.26,
+    "name": "Aditya Jain",
+    "cpi": 9.68,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 87,
+    "allocated_preference": 89,
     "preferences": [
-      95,
-      35,
-      70,
-      15,
-      6,
-      87
+      71,
+      16,
+      84,
+      14,
+      10,
+      89
+    ]
+  },
+  {
+    "section": 6,
+    "project": 6,
+    "group": 2,
+    "name": "Arjun Bhattacharya",
+    "cpi": 6.72,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 84,
+    "preferences": [
+      84,
+      9,
+      80,
+      10,
+      5,
+      84
+    ]
+  },
+  {
+    "section": 6,
+    "project": 6,
+    "group": 3,
+    "name": "Vishal Pande",
+    "cpi": 6.71,
+    "gender": "male",
+    "department": "MM",
+    "allocated_preference": 82,
+    "preferences": [
+      79,
+      1,
+      50,
+      13,
+      1,
+      82
     ]
   },
   {
@@ -17763,24 +17781,6 @@
       13,
       4,
       88
-    ]
-  },
-  {
-    "section": 6,
-    "project": 6,
-    "group": 3,
-    "name": "Akash Gautam",
-    "cpi": 6.78,
-    "gender": "male",
-    "department": "CE",
-    "allocated_preference": 90,
-    "preferences": [
-      68,
-      37,
-      70,
-      16,
-      7,
-      90
     ]
   },
   {
@@ -17823,24 +17823,6 @@
     "section": 6,
     "project": 6,
     "group": 3,
-    "name": "Raj Mehta",
-    "cpi": 6.28,
-    "gender": "male",
-    "department": "MM",
-    "allocated_preference": 79,
-    "preferences": [
-      62,
-      15,
-      63,
-      7,
-      13,
-      79
-    ]
-  },
-  {
-    "section": 6,
-    "project": 6,
-    "group": 3,
     "name": "Mohit Jain",
     "cpi": 6.71,
     "gender": "male",
@@ -17853,6 +17835,24 @@
       16,
       11,
       84
+    ]
+  },
+  {
+    "section": 6,
+    "project": 6,
+    "group": 3,
+    "name": "Amitabh Yadav",
+    "cpi": 9.26,
+    "gender": "male",
+    "department": "CE",
+    "allocated_preference": 87,
+    "preferences": [
+      95,
+      35,
+      70,
+      15,
+      6,
+      87
     ]
   },
   {
@@ -17877,18 +17877,18 @@
     "section": 6,
     "project": 6,
     "group": 4,
-    "name": "Nidhi Patel",
-    "cpi": 8.75,
+    "name": "Nidhi Bhattacharya",
+    "cpi": 6.48,
     "gender": "male",
     "department": "CE",
-    "allocated_preference": 77,
+    "allocated_preference": 84,
     "preferences": [
-      74,
-      1,
-      67,
-      13,
-      7,
-      77
+      79,
+      11,
+      50,
+      9,
+      18,
+      84
     ]
   },
   {
@@ -17967,36 +17967,90 @@
     "section": 7,
     "project": 1,
     "group": 1,
-    "name": "Bhavna Tiwari",
-    "cpi": 9.64,
-    "gender": "male",
-    "department": "AE",
-    "allocated_preference": 97,
+    "name": "Ramesh Saxena",
+    "cpi": 6.85,
+    "gender": "female",
+    "department": "EN",
+    "allocated_preference": 95,
     "preferences": [
-      97,
+      95,
+      19,
+      59,
+      18,
       13,
-      63,
-      10,
-      9,
-      82
+      37
     ]
   },
   {
     "section": 7,
     "project": 1,
     "group": 1,
-    "name": "Yash Mahajan",
-    "cpi": 9.95,
-    "gender": "female",
-    "department": "AE",
-    "allocated_preference": 95,
+    "name": "Anushka Sharma",
+    "cpi": 9.06,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 89,
     "preferences": [
-      95,
-      27,
-      80,
-      20,
-      11,
-      17
+      89,
+      2,
+      60,
+      12,
+      6,
+      64
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 1,
+    "name": "Manish Sen",
+    "cpi": 6.26,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 89,
+    "preferences": [
+      89,
+      23,
+      82,
+      15,
+      14,
+      0
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 1,
+    "name": "Simran Khanna",
+    "cpi": 7.9,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 90,
+    "preferences": [
+      90,
+      23,
+      66,
+      18,
+      10,
+      73
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 1,
+    "name": "Kavya Rao",
+    "cpi": 9.68,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 93,
+    "preferences": [
+      93,
+      21,
+      63,
+      14,
+      13,
+      43
     ]
   },
   {
@@ -18020,91 +18074,73 @@
   {
     "section": 7,
     "project": 1,
-    "group": 1,
-    "name": "Sanjay Raman",
-    "cpi": 6.67,
+    "group": 2,
+    "name": "Arnav Khanna",
+    "cpi": 6.08,
     "gender": "male",
-    "department": "CS",
-    "allocated_preference": 91,
+    "department": "EN",
+    "allocated_preference": 98,
     "preferences": [
-      91,
-      21,
-      65,
-      7,
-      13,
-      69
+      98,
+      23,
+      93,
+      16,
+      16,
+      34
     ]
   },
   {
     "section": 7,
     "project": 1,
-    "group": 1,
-    "name": "Tarun Reddy",
-    "cpi": 8.86,
+    "group": 2,
+    "name": "Amitabh Roy",
+    "cpi": 9.8,
     "gender": "female",
-    "department": "AE",
+    "department": "CS",
+    "allocated_preference": 94,
+    "preferences": [
+      94,
+      1,
+      81,
+      7,
+      9,
+      51
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 2,
+    "name": "Ayesha Rana",
+    "cpi": 6.1,
+    "gender": "male",
+    "department": "CS",
     "allocated_preference": 90,
     "preferences": [
       90,
-      27,
-      64,
-      8,
-      10,
-      26
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 1,
-    "name": "Gaurav Mahajan",
-    "cpi": 6.46,
-    "gender": "female",
-    "department": "EN",
-    "allocated_preference": 92,
-    "preferences": [
-      92,
-      26,
-      60,
-      11,
       7,
-      43
+      59,
+      16,
+      7,
+      42
     ]
   },
   {
     "section": 7,
     "project": 1,
     "group": 2,
-    "name": "Manish Sen",
-    "cpi": 6.26,
+    "name": "Akash Chakraborty",
+    "cpi": 9.66,
     "gender": "male",
-    "department": "AE",
-    "allocated_preference": 89,
+    "department": "CS",
+    "allocated_preference": 88,
     "preferences": [
-      89,
-      23,
-      82,
-      15,
-      14,
-      0
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 2,
-    "name": "Ritu Gogoi",
-    "cpi": 6.7,
-    "gender": "female",
-    "department": "EN",
-    "allocated_preference": 95,
-    "preferences": [
-      95,
-      10,
-      80,
-      14,
-      7,
-      13
+      88,
+      21,
+      56,
+      13,
+      6,
+      56
     ]
   },
   {
@@ -18129,126 +18165,72 @@
     "section": 7,
     "project": 1,
     "group": 2,
-    "name": "Simran Khanna",
-    "cpi": 7.9,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 90,
+    "name": "Yash Mahajan",
+    "cpi": 9.95,
+    "gender": "female",
+    "department": "AE",
+    "allocated_preference": 95,
     "preferences": [
-      90,
-      23,
-      66,
-      18,
-      10,
-      73
+      95,
+      27,
+      80,
+      20,
+      11,
+      17
     ]
   },
   {
     "section": 7,
     "project": 1,
-    "group": 2,
-    "name": "Vikram Reddy",
+    "group": 3,
+    "name": "Ramesh Das",
+    "cpi": 8.72,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 91,
+    "preferences": [
+      91,
+      24,
+      78,
+      17,
+      5,
+      67
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 3,
+    "name": "Pooja Bhattacharya",
     "cpi": 8.39,
     "gender": "female",
     "department": "CS",
-    "allocated_preference": 96,
+    "allocated_preference": 100,
     "preferences": [
-      96,
-      15,
-      63,
+      100,
+      9,
+      53,
       14,
-      7,
-      25
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 2,
-    "name": "Kavya Rao",
-    "cpi": 9.68,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 93,
-    "preferences": [
-      93,
-      21,
-      63,
-      14,
-      13,
-      43
+      8,
+      44
     ]
   },
   {
     "section": 7,
     "project": 1,
     "group": 3,
-    "name": "Siddharth Verma",
-    "cpi": 9.53,
-    "gender": "female",
-    "department": "AE",
-    "allocated_preference": 98,
-    "preferences": [
-      98,
-      33,
-      68,
-      16,
-      14,
-      45
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 3,
-    "name": "Anushka Sharma",
-    "cpi": 9.06,
+    "name": "Saurabh Agarwal",
+    "cpi": 6.59,
     "gender": "male",
     "department": "EN",
-    "allocated_preference": 89,
+    "allocated_preference": 87,
     "preferences": [
-      89,
-      2,
-      60,
-      12,
-      6,
-      64
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 3,
-    "name": "Ayesha Rana",
-    "cpi": 6.1,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 90,
-    "preferences": [
-      90,
+      87,
       7,
-      59,
-      16,
-      7,
-      42
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 3,
-    "name": "Kiran Kumar",
-    "cpi": 6.08,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 96,
-    "preferences": [
-      96,
-      24,
-      48,
-      21,
-      4,
-      15
+      44,
+      15,
+      11,
+      38
     ]
   },
   {
@@ -18273,18 +18255,72 @@
     "section": 7,
     "project": 1,
     "group": 3,
-    "name": "Akash Chakraborty",
-    "cpi": 9.66,
+    "name": "Bhavna Tiwari",
+    "cpi": 9.64,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 97,
+    "preferences": [
+      97,
+      13,
+      63,
+      10,
+      9,
+      82
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 3,
+    "name": "Sanjay Raman",
+    "cpi": 6.67,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 88,
+    "allocated_preference": 91,
     "preferences": [
-      88,
+      91,
       21,
-      56,
+      65,
+      7,
       13,
-      6,
-      56
+      69
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 4,
+    "name": "Neha Patel",
+    "cpi": 9.6,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 95,
+    "preferences": [
+      95,
+      29,
+      75,
+      12,
+      16,
+      19
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 4,
+    "name": "Amitabh Desai",
+    "cpi": 6.69,
+    "gender": "female",
+    "department": "CS",
+    "allocated_preference": 95,
+    "preferences": [
+      95,
+      27,
+      71,
+      9,
+      17,
+      81
     ]
   },
   {
@@ -18309,108 +18345,54 @@
     "section": 7,
     "project": 1,
     "group": 4,
-    "name": "Pooja Bhattacharya",
+    "name": "Siddharth Verma",
+    "cpi": 9.53,
+    "gender": "female",
+    "department": "AE",
+    "allocated_preference": 98,
+    "preferences": [
+      98,
+      33,
+      68,
+      16,
+      14,
+      45
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 4,
+    "name": "Vikram Reddy",
     "cpi": 8.39,
     "gender": "female",
     "department": "CS",
-    "allocated_preference": 100,
+    "allocated_preference": 96,
     "preferences": [
-      100,
-      9,
-      53,
-      14,
-      8,
-      44
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 4,
-    "name": "Naina Dutta",
-    "cpi": 9.2,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 93,
-    "preferences": [
-      93,
-      8,
-      78,
-      10,
-      12,
-      58
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 4,
-    "name": "Saurabh Agarwal",
-    "cpi": 6.59,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 87,
-    "preferences": [
-      87,
-      7,
-      44,
+      96,
       15,
-      11,
-      38
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 4,
-    "name": "Amitabh Roy",
-    "cpi": 9.8,
-    "gender": "female",
-    "department": "CS",
-    "allocated_preference": 94,
-    "preferences": [
-      94,
-      1,
-      81,
+      63,
+      14,
       7,
-      9,
-      51
+      25
     ]
   },
   {
     "section": 7,
     "project": 1,
     "group": 4,
-    "name": "Ramesh Saxena",
-    "cpi": 6.85,
+    "name": "Gaurav Mahajan",
+    "cpi": 6.46,
     "gender": "female",
     "department": "EN",
-    "allocated_preference": 95,
+    "allocated_preference": 92,
     "preferences": [
-      95,
-      19,
-      59,
-      18,
-      13,
-      37
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 5,
-    "name": "Ramesh Das",
-    "cpi": 8.72,
-    "gender": "male",
-    "department": "AE",
-    "allocated_preference": 91,
-    "preferences": [
-      91,
-      24,
-      78,
-      17,
-      5,
-      67
+      92,
+      26,
+      60,
+      11,
+      7,
+      43
     ]
   },
   {
@@ -18435,60 +18417,6 @@
     "section": 7,
     "project": 1,
     "group": 5,
-    "name": "Arnav Khanna",
-    "cpi": 6.08,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 98,
-    "preferences": [
-      98,
-      23,
-      93,
-      16,
-      16,
-      34
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 5,
-    "name": "Neha Patel",
-    "cpi": 9.6,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 95,
-    "preferences": [
-      95,
-      29,
-      75,
-      12,
-      16,
-      19
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 5,
-    "name": "Amitabh Desai",
-    "cpi": 6.69,
-    "gender": "female",
-    "department": "CS",
-    "allocated_preference": 95,
-    "preferences": [
-      95,
-      27,
-      71,
-      9,
-      17,
-      81
-    ]
-  },
-  {
-    "section": 7,
-    "project": 1,
-    "group": 5,
     "name": "Tarun Agarwal",
     "cpi": 9.64,
     "gender": "male",
@@ -18501,6 +18429,78 @@
       19,
       12,
       57
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 5,
+    "name": "Naina Dutta",
+    "cpi": 9.2,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 93,
+    "preferences": [
+      93,
+      8,
+      78,
+      10,
+      12,
+      58
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 5,
+    "name": "Kiran Kumar",
+    "cpi": 6.08,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 96,
+    "preferences": [
+      96,
+      24,
+      48,
+      21,
+      4,
+      15
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 5,
+    "name": "Ritu Gogoi",
+    "cpi": 6.7,
+    "gender": "female",
+    "department": "EN",
+    "allocated_preference": 95,
+    "preferences": [
+      95,
+      10,
+      80,
+      14,
+      7,
+      13
+    ]
+  },
+  {
+    "section": 7,
+    "project": 1,
+    "group": 5,
+    "name": "Tarun Reddy",
+    "cpi": 8.86,
+    "gender": "female",
+    "department": "AE",
+    "allocated_preference": 90,
+    "preferences": [
+      90,
+      27,
+      64,
+      8,
+      10,
+      26
     ]
   },
   {
@@ -18939,36 +18939,72 @@
     "section": 7,
     "project": 3,
     "group": 1,
-    "name": "Tanvi Yadav",
-    "cpi": 6.42,
-    "gender": "female",
-    "department": "CS",
-    "allocated_preference": 95,
+    "name": "Sameer Iyer",
+    "cpi": 6.38,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 78,
     "preferences": [
-      75,
-      20,
-      95,
-      16,
-      7,
-      31
+      72,
+      0,
+      78,
+      10,
+      4,
+      25
     ]
   },
   {
     "section": 7,
     "project": 3,
     "group": 1,
-    "name": "Manav Gupta",
-    "cpi": 6.94,
+    "name": "Deepak Rajput",
+    "cpi": 7.86,
+    "gender": "female",
+    "department": "CS",
+    "allocated_preference": 99,
+    "preferences": [
+      88,
+      14,
+      99,
+      9,
+      3,
+      22
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 1,
+    "name": "Abhishek Gautam",
+    "cpi": 9.78,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 89,
+    "allocated_preference": 98,
     "preferences": [
-      72,
-      11,
-      89,
-      10,
+      70,
+      26,
+      98,
+      14,
+      12,
+      58
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 1,
+    "name": "Sanjay Patel",
+    "cpi": 9.22,
+    "gender": "male",
+    "department": "EN",
+    "allocated_preference": 84,
+    "preferences": [
+      80,
+      14,
+      84,
+      14,
       7,
-      72
+      36
     ]
   },
   {
@@ -18987,24 +19023,6 @@
       14,
       13,
       26
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 1,
-    "name": "Sachin Gupta",
-    "cpi": 9.7,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 97,
-    "preferences": [
-      86,
-      17,
-      97,
-      7,
-      12,
-      20
     ]
   },
   {
@@ -19046,19 +19064,55 @@
   {
     "section": 7,
     "project": 3,
-    "group": 2,
-    "name": "Raj Swamy",
-    "cpi": 7.09,
+    "group": 1,
+    "name": "Rekha Chatterjee",
+    "cpi": 6.55,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 82,
+    "preferences": [
+      60,
+      6,
+      82,
+      13,
+      12,
+      69
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 1,
+    "name": "Meera Mukherjee",
+    "cpi": 7.13,
     "gender": "male",
     "department": "CS",
     "allocated_preference": 87,
     "preferences": [
-      86,
-      27,
+      91,
+      0,
       87,
-      15,
-      4,
-      64
+      9,
+      14,
+      75
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 2,
+    "name": "Rajesh Naidu",
+    "cpi": 6.69,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 98,
+    "preferences": [
+      77,
+      7,
+      98,
+      13,
+      7,
+      79
     ]
   },
   {
@@ -19083,18 +19137,18 @@
     "section": 7,
     "project": 3,
     "group": 2,
-    "name": "Sanjay Patel",
-    "cpi": 9.22,
+    "name": "Rajat Bhatt",
+    "cpi": 6.98,
     "gender": "male",
-    "department": "EN",
-    "allocated_preference": 84,
+    "department": "CS",
+    "allocated_preference": 93,
     "preferences": [
-      80,
-      14,
-      84,
-      14,
-      7,
-      36
+      86,
+      20,
+      93,
+      24,
+      12,
+      17
     ]
   },
   {
@@ -19119,6 +19173,24 @@
     "section": 7,
     "project": 3,
     "group": 2,
+    "name": "Amitabh Joshi",
+    "cpi": 9.24,
+    "gender": "male",
+    "department": "AE",
+    "allocated_preference": 84,
+    "preferences": [
+      74,
+      18,
+      84,
+      10,
+      8,
+      75
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 2,
     "name": "Vivek Nandan",
     "cpi": 6.63,
     "gender": "female",
@@ -19137,90 +19209,54 @@
     "section": 7,
     "project": 3,
     "group": 2,
-    "name": "Rahul Deshmukh",
-    "cpi": 6.22,
+    "name": "Karan Gautam",
+    "cpi": 9.28,
     "gender": "male",
-    "department": "CS",
+    "department": "AE",
     "allocated_preference": 89,
     "preferences": [
-      86,
-      8,
       89,
-      15,
+      2,
+      89,
+      22,
       11,
-      26
+      43
     ]
   },
   {
     "section": 7,
     "project": 3,
-    "group": 3,
-    "name": "Rohan Shah",
-    "cpi": 8.85,
+    "group": 2,
+    "name": "Rahul Bose",
+    "cpi": 8.8,
     "gender": "male",
     "department": "EN",
-    "allocated_preference": 94,
+    "allocated_preference": 96,
     "preferences": [
-      78,
-      29,
-      94,
-      14,
-      10,
-      62
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 3,
-    "name": "Anushka Bhatt",
-    "cpi": 6.54,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 93,
-    "preferences": [
-      90,
-      9,
-      93,
-      15,
-      9,
-      38
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 3,
-    "name": "Rajesh Naidu",
-    "cpi": 6.69,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 98,
-    "preferences": [
-      77,
-      7,
-      98,
+      76,
+      11,
+      96,
       13,
       7,
-      79
+      55
     ]
   },
   {
     "section": 7,
     "project": 3,
     "group": 3,
-    "name": "Deepak Rajput",
-    "cpi": 7.86,
-    "gender": "female",
+    "name": "Raj Swamy",
+    "cpi": 7.09,
+    "gender": "male",
     "department": "CS",
-    "allocated_preference": 99,
+    "allocated_preference": 87,
     "preferences": [
-      88,
-      14,
-      99,
-      9,
-      3,
-      22
+      86,
+      27,
+      87,
+      15,
+      4,
+      64
     ]
   },
   {
@@ -19245,54 +19281,54 @@
     "section": 7,
     "project": 3,
     "group": 3,
-    "name": "Amitabh Joshi",
-    "cpi": 9.24,
-    "gender": "male",
-    "department": "AE",
-    "allocated_preference": 84,
+    "name": "Meera Gogoi",
+    "cpi": 8.73,
+    "gender": "female",
+    "department": "CS",
+    "allocated_preference": 96,
     "preferences": [
-      74,
+      83,
+      37,
+      96,
+      16,
+      13,
+      21
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 3,
+    "name": "Neetu Pandey",
+    "cpi": 7.32,
+    "gender": "female",
+    "department": "CS",
+    "allocated_preference": 94,
+    "preferences": [
+      76,
       18,
-      84,
-      10,
-      8,
-      75
+      94,
+      21,
+      4,
+      26
     ]
   },
   {
     "section": 7,
     "project": 3,
     "group": 3,
-    "name": "Karan Gautam",
-    "cpi": 9.28,
-    "gender": "male",
-    "department": "AE",
-    "allocated_preference": 89,
-    "preferences": [
-      89,
-      2,
-      89,
-      22,
-      11,
-      43
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 3,
-    "name": "Rekha Chatterjee",
-    "cpi": 6.55,
+    "name": "Sachin Gupta",
+    "cpi": 9.7,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 82,
+    "allocated_preference": 97,
     "preferences": [
-      60,
-      6,
-      82,
-      13,
+      86,
+      17,
+      97,
+      7,
       12,
-      69
+      20
     ]
   },
   {
@@ -19317,54 +19353,36 @@
     "section": 7,
     "project": 3,
     "group": 4,
-    "name": "Sameer Iyer",
-    "cpi": 6.38,
+    "name": "Rohan Shah",
+    "cpi": 8.85,
     "gender": "male",
     "department": "EN",
-    "allocated_preference": 78,
+    "allocated_preference": 94,
     "preferences": [
-      72,
-      0,
       78,
+      29,
+      94,
+      14,
       10,
-      4,
-      25
+      62
     ]
   },
   {
     "section": 7,
     "project": 3,
     "group": 4,
-    "name": "Meera Gogoi",
-    "cpi": 8.73,
-    "gender": "female",
-    "department": "CS",
-    "allocated_preference": 96,
-    "preferences": [
-      83,
-      37,
-      96,
-      16,
-      13,
-      21
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 4,
-    "name": "Abhishek Gautam",
-    "cpi": 9.78,
+    "name": "Anushka Bhatt",
+    "cpi": 6.54,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 98,
+    "allocated_preference": 93,
     "preferences": [
-      70,
-      26,
-      98,
-      14,
-      12,
-      58
+      90,
+      9,
+      93,
+      15,
+      9,
+      38
     ]
   },
   {
@@ -19389,72 +19407,54 @@
     "section": 7,
     "project": 3,
     "group": 4,
-    "name": "Rajat Bhatt",
-    "cpi": 6.98,
-    "gender": "male",
-    "department": "CS",
-    "allocated_preference": 93,
-    "preferences": [
-      86,
-      20,
-      93,
-      24,
-      12,
-      17
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 4,
-    "name": "Neetu Pandey",
-    "cpi": 7.32,
+    "name": "Tanvi Yadav",
+    "cpi": 6.42,
     "gender": "female",
     "department": "CS",
-    "allocated_preference": 94,
+    "allocated_preference": 95,
     "preferences": [
-      76,
-      18,
-      94,
-      21,
-      4,
-      26
-    ]
-  },
-  {
-    "section": 7,
-    "project": 3,
-    "group": 4,
-    "name": "Rahul Bose",
-    "cpi": 8.8,
-    "gender": "male",
-    "department": "EN",
-    "allocated_preference": 96,
-    "preferences": [
-      76,
-      11,
-      96,
-      13,
+      75,
+      20,
+      95,
+      16,
       7,
-      55
+      31
     ]
   },
   {
     "section": 7,
     "project": 3,
     "group": 4,
-    "name": "Meera Mukherjee",
-    "cpi": 7.13,
+    "name": "Manav Gupta",
+    "cpi": 6.94,
     "gender": "male",
     "department": "CS",
-    "allocated_preference": 87,
+    "allocated_preference": 89,
     "preferences": [
-      91,
-      0,
-      87,
-      9,
-      14,
-      75
+      72,
+      11,
+      89,
+      10,
+      7,
+      72
+    ]
+  },
+  {
+    "section": 7,
+    "project": 3,
+    "group": 4,
+    "name": "Rahul Deshmukh",
+    "cpi": 6.22,
+    "gender": "male",
+    "department": "CS",
+    "allocated_preference": 89,
+    "preferences": [
+      86,
+      8,
+      89,
+      15,
+      11,
+      26
     ]
   },
   {
@@ -21297,18 +21297,18 @@
     "section": 8,
     "project": 2,
     "group": 1,
-    "name": "Alka Banerjee",
-    "cpi": 6.3,
+    "name": "Devansh Karthik",
+    "cpi": 6.15,
     "gender": "female",
-    "department": "ES",
-    "allocated_preference": 31,
+    "department": "EP",
+    "allocated_preference": 24,
     "preferences": [
-      88,
-      31,
-      70,
-      20,
-      15,
-      71
+      71,
+      24,
+      72,
+      16,
+      8,
+      45
     ]
   },
   {
@@ -21327,6 +21327,24 @@
       8,
       16,
       19
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 1,
+    "name": "Smita Nair",
+    "cpi": 6.91,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 33,
+    "preferences": [
+      65,
+      33,
+      63,
+      9,
+      10,
+      30
     ]
   },
   {
@@ -21369,42 +21387,6 @@
     "section": 8,
     "project": 2,
     "group": 1,
-    "name": "Vishal Kumar",
-    "cpi": 9.8,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 39,
-    "preferences": [
-      82,
-      39,
-      67,
-      12,
-      16,
-      36
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 1,
-    "name": "Deepak Dasgupta",
-    "cpi": 6.17,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 35,
-    "preferences": [
-      76,
-      35,
-      77,
-      18,
-      4,
-      49
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 2,
     "name": "Saurabh Sen",
     "cpi": 7.38,
     "gender": "male",
@@ -21423,96 +21405,6 @@
     "section": 8,
     "project": 2,
     "group": 2,
-    "name": "Rakesh Prasad",
-    "cpi": 6.28,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 25,
-    "preferences": [
-      79,
-      25,
-      63,
-      17,
-      5,
-      59
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 2,
-    "name": "Meera Dixit",
-    "cpi": 6.42,
-    "gender": "female",
-    "department": "EE",
-    "allocated_preference": 36,
-    "preferences": [
-      90,
-      36,
-      68,
-      23,
-      13,
-      43
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 2,
-    "name": "Manav Nair",
-    "cpi": 9.28,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 30,
-    "preferences": [
-      62,
-      30,
-      58,
-      13,
-      12,
-      35
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 2,
-    "name": "Ramesh Trivedi",
-    "cpi": 6.7,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 38,
-    "preferences": [
-      60,
-      38,
-      88,
-      9,
-      12,
-      46
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 2,
-    "name": "Ayesha Menon",
-    "cpi": 6.64,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 24,
-    "preferences": [
-      65,
-      24,
-      65,
-      7,
-      6,
-      46
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 3,
     "name": "Pranav Dubey",
     "cpi": 6.66,
     "gender": "male",
@@ -21530,7 +21422,25 @@
   {
     "section": 8,
     "project": 2,
-    "group": 3,
+    "group": 2,
+    "name": "Kavya Joshi",
+    "cpi": 9.6,
+    "gender": "female",
+    "department": "EE",
+    "allocated_preference": 19,
+    "preferences": [
+      63,
+      19,
+      77,
+      10,
+      10,
+      55
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 2,
     "name": "Naina Nair",
     "cpi": 6.41,
     "gender": "male",
@@ -21543,6 +21453,78 @@
       14,
       10,
       19
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 2,
+    "name": "Riya Mukherjee",
+    "cpi": 9.24,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 26,
+    "preferences": [
+      66,
+      26,
+      69,
+      15,
+      4,
+      25
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 2,
+    "name": "Rakesh Jha",
+    "cpi": 9.57,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 40,
+    "preferences": [
+      66,
+      40,
+      97,
+      1,
+      11,
+      5
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 2,
+    "name": "Diya Rao",
+    "cpi": 7.71,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 26,
+    "preferences": [
+      72,
+      26,
+      66,
+      14,
+      11,
+      56
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 3,
+    "name": "Rekha Chakraborty",
+    "cpi": 9.32,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 34,
+    "preferences": [
+      68,
+      34,
+      71,
+      17,
+      11,
+      75
     ]
   },
   {
@@ -21567,96 +21549,6 @@
     "section": 8,
     "project": 2,
     "group": 3,
-    "name": "Mohit Malik",
-    "cpi": 9.68,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 27,
-    "preferences": [
-      65,
-      27,
-      64,
-      13,
-      1,
-      23
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 3,
-    "name": "Kritika Pandey",
-    "cpi": 9.35,
-    "gender": "female",
-    "department": "ES",
-    "allocated_preference": 31,
-    "preferences": [
-      69,
-      31,
-      74,
-      12,
-      3,
-      50
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 3,
-    "name": "Maya Sood",
-    "cpi": 6.89,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 39,
-    "preferences": [
-      82,
-      39,
-      52,
-      15,
-      4,
-      15
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 4,
-    "name": "Devansh Karthik",
-    "cpi": 6.15,
-    "gender": "female",
-    "department": "EP",
-    "allocated_preference": 24,
-    "preferences": [
-      71,
-      24,
-      72,
-      16,
-      8,
-      45
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 4,
-    "name": "Rekha Chakraborty",
-    "cpi": 9.32,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 34,
-    "preferences": [
-      68,
-      34,
-      71,
-      17,
-      11,
-      75
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 4,
     "name": "Kavya Rajput",
     "cpi": 9.98,
     "gender": "male",
@@ -21674,7 +21566,7 @@
   {
     "section": 8,
     "project": 2,
-    "group": 4,
+    "group": 3,
     "name": "Devansh Rana",
     "cpi": 8.92,
     "gender": "male",
@@ -21687,6 +21579,132 @@
       15,
       7,
       36
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 3,
+    "name": "Rakesh Prasad",
+    "cpi": 6.28,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 25,
+    "preferences": [
+      79,
+      25,
+      63,
+      17,
+      5,
+      59
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 3,
+    "name": "Meera Dixit",
+    "cpi": 6.42,
+    "gender": "female",
+    "department": "EE",
+    "allocated_preference": 36,
+    "preferences": [
+      90,
+      36,
+      68,
+      23,
+      13,
+      43
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 4,
+    "name": "Mohit Malik",
+    "cpi": 9.68,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 27,
+    "preferences": [
+      65,
+      27,
+      64,
+      13,
+      1,
+      23
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 4,
+    "name": "Kritika Pandey",
+    "cpi": 9.35,
+    "gender": "female",
+    "department": "ES",
+    "allocated_preference": 31,
+    "preferences": [
+      69,
+      31,
+      74,
+      12,
+      3,
+      50
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 4,
+    "name": "Rhea Mehta",
+    "cpi": 9.64,
+    "gender": "male",
+    "department": "ES",
+    "allocated_preference": 32,
+    "preferences": [
+      85,
+      32,
+      73,
+      13,
+      8,
+      65
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 4,
+    "name": "Manav Nair",
+    "cpi": 9.28,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 30,
+    "preferences": [
+      62,
+      30,
+      58,
+      13,
+      12,
+      35
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 4,
+    "name": "Ramesh Trivedi",
+    "cpi": 6.7,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 38,
+    "preferences": [
+      60,
+      38,
+      88,
+      9,
+      12,
+      46
     ]
   },
   {
@@ -21710,7 +21728,97 @@
   {
     "section": 8,
     "project": 2,
-    "group": 4,
+    "group": 5,
+    "name": "Alka Banerjee",
+    "cpi": 6.3,
+    "gender": "female",
+    "department": "ES",
+    "allocated_preference": 31,
+    "preferences": [
+      88,
+      31,
+      70,
+      20,
+      15,
+      71
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 5,
+    "name": "Maya Sood",
+    "cpi": 6.89,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 39,
+    "preferences": [
+      82,
+      39,
+      52,
+      15,
+      4,
+      15
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 5,
+    "name": "Vishal Kumar",
+    "cpi": 9.8,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 39,
+    "preferences": [
+      82,
+      39,
+      67,
+      12,
+      16,
+      36
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 5,
+    "name": "Ayesha Menon",
+    "cpi": 6.64,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 24,
+    "preferences": [
+      65,
+      24,
+      65,
+      7,
+      6,
+      46
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 5,
+    "name": "Deepak Dasgupta",
+    "cpi": 6.17,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 35,
+    "preferences": [
+      76,
+      35,
+      77,
+      18,
+      4,
+      49
+    ]
+  },
+  {
+    "section": 8,
+    "project": 2,
+    "group": 5,
     "name": "Sameer Kapoor",
     "cpi": 6.39,
     "gender": "male",
@@ -21723,114 +21831,6 @@
       13,
       12,
       28
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Kavya Joshi",
-    "cpi": 9.6,
-    "gender": "female",
-    "department": "EE",
-    "allocated_preference": 19,
-    "preferences": [
-      63,
-      19,
-      77,
-      10,
-      10,
-      55
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Smita Nair",
-    "cpi": 6.91,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 33,
-    "preferences": [
-      65,
-      33,
-      63,
-      9,
-      10,
-      30
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Riya Mukherjee",
-    "cpi": 9.24,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 26,
-    "preferences": [
-      66,
-      26,
-      69,
-      15,
-      4,
-      25
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Rakesh Jha",
-    "cpi": 9.57,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 40,
-    "preferences": [
-      66,
-      40,
-      97,
-      1,
-      11,
-      5
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Rhea Mehta",
-    "cpi": 9.64,
-    "gender": "male",
-    "department": "ES",
-    "allocated_preference": 32,
-    "preferences": [
-      85,
-      32,
-      73,
-      13,
-      8,
-      65
-    ]
-  },
-  {
-    "section": 8,
-    "project": 2,
-    "group": 5,
-    "name": "Diya Rao",
-    "cpi": 7.71,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 26,
-    "preferences": [
-      72,
-      26,
-      66,
-      14,
-      11,
-      56
     ]
   },
   {
@@ -22377,54 +22377,54 @@
     "section": 8,
     "project": 4,
     "group": 1,
-    "name": "Kartik Joshi",
-    "cpi": 9.68,
-    "gender": "male",
+    "name": "Isha Sharma",
+    "cpi": 7.64,
+    "gender": "female",
     "department": "EE",
     "allocated_preference": 25,
     "preferences": [
-      87,
-      11,
-      44,
-      25,
-      19,
-      43
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 1,
-    "name": "Anjali Sengupta",
-    "cpi": 8.43,
-    "gender": "female",
-    "department": "EP",
-    "allocated_preference": 20,
-    "preferences": [
-      70,
-      20,
-      47,
-      20,
+      64,
       10,
-      35
+      79,
+      25,
+      6,
+      46
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 1,
-    "name": "Rajesh Reddy",
-    "cpi": 9.36,
-    "gender": "female",
-    "department": "EP",
-    "allocated_preference": 18,
+    "name": "Anjali Naidu",
+    "cpi": 7.68,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 24,
     "preferences": [
-      78,
-      11,
+      72,
+      14,
       56,
-      18,
-      7,
-      66
+      24,
+      14,
+      68
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 1,
+    "name": "Smita Singh",
+    "cpi": 9.49,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 23,
+    "preferences": [
+      84,
+      9,
+      68,
+      23,
+      5,
+      38
     ]
   },
   {
@@ -22449,126 +22449,144 @@
     "section": 8,
     "project": 4,
     "group": 1,
-    "name": "Ayesha Swamy",
-    "cpi": 6.06,
+    "name": "Manav Sen",
+    "cpi": 9.55,
     "gender": "male",
-    "department": "EE",
-    "allocated_preference": 16,
-    "preferences": [
-      74,
-      11,
-      69,
-      16,
-      9,
-      12
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 1,
-    "name": "Saurabh Vyas",
-    "cpi": 7.44,
-    "gender": "male",
-    "department": "EC",
+    "department": "ES",
     "allocated_preference": 18,
     "preferences": [
-      70,
-      17,
-      76,
+      65,
+      5,
+      58,
       18,
-      10,
-      67
+      5,
+      3
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 1,
-    "name": "Bhavna Malhotra",
-    "cpi": 6.34,
-    "gender": "female",
-    "department": "EE",
-    "allocated_preference": 25,
+    "name": "Sonal Mishra",
+    "cpi": 9.93,
+    "gender": "male",
+    "department": "EC",
+    "allocated_preference": 14,
     "preferences": [
+      76,
+      18,
       72,
-      18,
-      77,
-      25,
-      18,
-      47
+      14,
+      6,
+      53
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 1,
+    "name": "Devansh Sengupta",
+    "cpi": 6.42,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 19,
+    "preferences": [
+      84,
+      17,
+      68,
+      19,
+      5,
+      40
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 2,
-    "name": "Gaurav Raman",
+    "name": "Maya Pandey",
+    "cpi": 8.9,
+    "gender": "female",
+    "department": "EC",
+    "allocated_preference": 16,
+    "preferences": [
+      84,
+      20,
+      46,
+      16,
+      10,
+      35
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 2,
+    "name": "Anjali Sengupta",
+    "cpi": 8.43,
+    "gender": "female",
+    "department": "EP",
+    "allocated_preference": 20,
+    "preferences": [
+      70,
+      20,
+      47,
+      20,
+      10,
+      35
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 2,
+    "name": "Nisha Rajput",
+    "cpi": 7.79,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 21,
+    "preferences": [
+      65,
+      18,
+      45,
+      21,
+      13,
+      58
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 2,
+    "name": "Gaurav Thakur",
     "cpi": 8.87,
     "gender": "male",
     "department": "EC",
-    "allocated_preference": 22,
+    "allocated_preference": 20,
     "preferences": [
+      77,
+      6,
       83,
-      17,
-      45,
-      22,
-      15,
-      68
+      20,
+      4,
+      57
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 2,
-    "name": "Manisha Nandan",
-    "cpi": 9.16,
+    "name": "Aditi Dubey",
+    "cpi": 9.32,
     "gender": "male",
     "department": "EE",
-    "allocated_preference": 16,
+    "allocated_preference": 27,
     "preferences": [
-      79,
-      12,
-      49,
-      16,
-      9,
-      26
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 2,
-    "name": "Smita Singh",
-    "cpi": 9.49,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 23,
-    "preferences": [
-      84,
-      9,
-      68,
-      23,
-      5,
-      38
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 2,
-    "name": "Rajat Pillai",
-    "cpi": 6.33,
-    "gender": "female",
-    "department": "EC",
-    "allocated_preference": 25,
-    "preferences": [
-      71,
-      19,
-      76,
+      87,
       25,
-      18,
-      70
+      49,
+      27,
+      6,
+      17
     ]
   },
   {
@@ -22610,163 +22628,127 @@
   {
     "section": 8,
     "project": 4,
-    "group": 2,
-    "name": "Shruti Sengupta",
-    "cpi": 6.85,
-    "gender": "male",
-    "department": "EP",
-    "allocated_preference": 24,
-    "preferences": [
-      82,
-      17,
-      54,
-      24,
-      6,
-      21
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
     "group": 3,
-    "name": "Isha Sharma",
-    "cpi": 7.64,
-    "gender": "female",
+    "name": "Kartik Joshi",
+    "cpi": 9.68,
+    "gender": "male",
     "department": "EE",
     "allocated_preference": 25,
     "preferences": [
-      64,
-      10,
-      79,
+      87,
+      11,
+      44,
       25,
-      6,
-      46
+      19,
+      43
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 3,
-    "name": "Nisha Rajput",
-    "cpi": 7.79,
+    "name": "Gaurav Raman",
+    "cpi": 8.87,
+    "gender": "male",
+    "department": "EC",
+    "allocated_preference": 22,
+    "preferences": [
+      83,
+      17,
+      45,
+      22,
+      15,
+      68
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 3,
+    "name": "Ayesha Khanna",
+    "cpi": 9.22,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 21,
+    "preferences": [
+      67,
+      16,
+      73,
+      21,
+      11,
+      64
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 3,
+    "name": "Rajesh Reddy",
+    "cpi": 9.36,
+    "gender": "female",
+    "department": "EP",
+    "allocated_preference": 18,
+    "preferences": [
+      78,
+      11,
+      56,
+      18,
+      7,
+      66
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 3,
+    "name": "Manisha Nandan",
+    "cpi": 9.16,
+    "gender": "male",
+    "department": "EE",
+    "allocated_preference": 16,
+    "preferences": [
+      79,
+      12,
+      49,
+      16,
+      9,
+      26
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 3,
+    "name": "Rajat Pillai",
+    "cpi": 6.33,
+    "gender": "female",
+    "department": "EC",
+    "allocated_preference": 25,
+    "preferences": [
+      71,
+      19,
+      76,
+      25,
+      18,
+      70
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 3,
+    "name": "Nisha Kumar",
+    "cpi": 9.3,
     "gender": "male",
     "department": "EE",
     "allocated_preference": 21,
     "preferences": [
-      65,
-      18,
-      45,
+      82,
       21,
-      13,
-      58
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 3,
-    "name": "Gaurav Thakur",
-    "cpi": 8.87,
-    "gender": "male",
-    "department": "EC",
-    "allocated_preference": 20,
-    "preferences": [
-      77,
-      6,
-      83,
-      20,
-      4,
-      57
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 3,
-    "name": "Aditi Dubey",
-    "cpi": 9.32,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 27,
-    "preferences": [
-      87,
-      25,
-      49,
-      27,
-      6,
-      17
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 3,
-    "name": "Manav Sen",
-    "cpi": 9.55,
-    "gender": "male",
-    "department": "ES",
-    "allocated_preference": 18,
-    "preferences": [
-      65,
-      5,
-      58,
-      18,
-      5,
-      3
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 3,
-    "name": "Sonal Mishra",
-    "cpi": 9.93,
-    "gender": "male",
-    "department": "EC",
-    "allocated_preference": 14,
-    "preferences": [
-      76,
-      18,
-      72,
-      14,
-      6,
-      53
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 3,
-    "name": "Devansh Sengupta",
-    "cpi": 6.42,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 19,
-    "preferences": [
-      84,
-      17,
-      68,
-      19,
-      5,
-      40
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 4,
-    "name": "Maya Pandey",
-    "cpi": 8.9,
-    "gender": "female",
-    "department": "EC",
-    "allocated_preference": 16,
-    "preferences": [
-      84,
-      20,
-      46,
-      16,
+      82,
+      21,
       10,
-      35
+      75
     ]
   },
   {
@@ -22809,54 +22791,36 @@
     "section": 8,
     "project": 4,
     "group": 4,
-    "name": "Ayesha Khanna",
-    "cpi": 9.22,
+    "name": "Ayesha Swamy",
+    "cpi": 6.06,
     "gender": "male",
-    "department": "EP",
-    "allocated_preference": 21,
+    "department": "EE",
+    "allocated_preference": 16,
     "preferences": [
-      67,
-      16,
-      73,
-      21,
+      74,
       11,
-      64
+      69,
+      16,
+      9,
+      12
     ]
   },
   {
     "section": 8,
     "project": 4,
     "group": 4,
-    "name": "Anjali Naidu",
-    "cpi": 7.68,
+    "name": "Saurabh Vyas",
+    "cpi": 7.44,
     "gender": "male",
-    "department": "EE",
-    "allocated_preference": 24,
+    "department": "EC",
+    "allocated_preference": 18,
     "preferences": [
-      72,
-      14,
-      56,
-      24,
-      14,
-      68
-    ]
-  },
-  {
-    "section": 8,
-    "project": 4,
-    "group": 4,
-    "name": "Nisha Kumar",
-    "cpi": 9.3,
-    "gender": "male",
-    "department": "EE",
-    "allocated_preference": 21,
-    "preferences": [
-      82,
-      21,
-      82,
-      21,
+      70,
+      17,
+      76,
+      18,
       10,
-      75
+      67
     ]
   },
   {
@@ -22875,6 +22839,42 @@
       21,
       11,
       56
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 4,
+    "name": "Bhavna Malhotra",
+    "cpi": 6.34,
+    "gender": "female",
+    "department": "EE",
+    "allocated_preference": 25,
+    "preferences": [
+      72,
+      18,
+      77,
+      25,
+      18,
+      47
+    ]
+  },
+  {
+    "section": 8,
+    "project": 4,
+    "group": 4,
+    "name": "Shruti Sengupta",
+    "cpi": 6.85,
+    "gender": "male",
+    "department": "EP",
+    "allocated_preference": 24,
+    "preferences": [
+      82,
+      17,
+      54,
+      24,
+      6,
+      21
     ]
   },
   {
